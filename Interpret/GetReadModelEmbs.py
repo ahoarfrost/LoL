@@ -22,7 +22,7 @@ encoder_path = Path('/home/ah1114/LanguageOfLife/saved_models/best_GTDB_k1_1000s
 data_path = Path('scratch/ah1114/LoL/data/mifaser_out/Small100_EvenEnvPackages')
 
 #params from parameter searchs
-bs=32768 
+bs=4096 
 ksize=1
 stride=1
 emb_sz=400 #**change this to 100 for real script, but I'm using the previous pretrained model with 400 so dims need to match
