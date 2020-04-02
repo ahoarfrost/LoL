@@ -21,15 +21,15 @@ torch.cuda.set_device(args.local_rank)
 torch.distributed.init_process_group(backend='nccl', init_method='env://')
 
 path = Path('./') 
-model_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM')
-encoder_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM_enc')
+model_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM_1500tr')
+encoder_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM_enc_1500tr')
 model_dir = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/')
-log_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/train_logs/log_GTDB_read_LM')
+log_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/train_logs/log_GTDB_read_LM_1500tr')
 vocab_path = Path('/home/ah1114/LanguageOfLife/vocabs')
 vocab_name = vocab_path/'ngs_vocab_k1_withspecial.npy'
 data_path = Path('/scratch/ah1114/LoL/data/')
 presaved_validset = 'GTDBdatabunch_validonly.pkl'
-lr_plot_out = '/home/ah1114/LanguageOfLife/TrainLanguageModel/lrplot_GTDB_read_LM.png'
+lr_plot_out = '/home/ah1114/LanguageOfLife/TrainLanguageModel/lrplot_GTDB_read_LM_1500tr.png'
 train_path = Path('/scratch/ah1114/LoL/data/GTDB_chunked_train')
 valid_path = Path('/scratch/ah1114/LoL/data/GTDB_chunked_valid')
 skiprows_file = "skiprows.csv"
@@ -37,6 +37,7 @@ val_skiprows_file = "val_skiprows.csv"
 round_file = "total_rounds.csv"
 final_model=False
 model_export = 'GTDB_read_LM.pkl'
+device = torch.device('cuda')
 
 #params from parameter search
 bs=512 
@@ -51,7 +52,7 @@ emb_sz=100
 bptt=100
 lrate=8e-3 
 
-max_seqs=2000 #this will total about 25M seqs in databunch, 2.5M in valid rest in train; going to need to do the shuffled batches of files or something to do more than this!
+max_seqs=1500 #2000 gave error; 1066 works; 1500? 
 val_max_seqs=None
 num_cycles=1
 numrounds=10 
@@ -102,6 +103,9 @@ for round in range(0,numrounds):
     data.train_dl = train.train_dl
     #and now your full databunch is in the variable 'data'
     print('Done! Your databunch contains',len(data.items),'items in itemlist, and',len(data.valid_ds.items),'items in data.valid_ds')
+    #make sure device is where it should be
+    data.device = device
+    print('youre on device:',data.device)
 
     config = awd_lstm_lm_config.copy()
     config['n_layers'] = n_layers

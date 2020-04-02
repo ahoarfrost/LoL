@@ -21,15 +21,15 @@ torch.cuda.set_device(args.local_rank)
 torch.distributed.init_process_group(backend='nccl', init_method='env://')
 
 path = Path('./') 
-model_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM')
-encoder_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM_enc')
+model_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM_2000tr')
+encoder_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/GTDB_read_LM_enc_2000tr')
 model_dir = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/models/')
-log_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/train_logs/log_GTDB_read_LM')
+log_path = Path('/home/ah1114/LanguageOfLife/TrainLanguageModel/train_logs/log_GTDB_read_LM_2000tr')
 vocab_path = Path('/home/ah1114/LanguageOfLife/vocabs')
 vocab_name = vocab_path/'ngs_vocab_k1_withspecial.npy'
 data_path = Path('/scratch/ah1114/LoL/data/')
 presaved_validset = 'GTDBdatabunch_validonly.pkl'
-lr_plot_out = '/home/ah1114/LanguageOfLife/TrainLanguageModel/lrplot_GTDB_read_LM.png'
+lr_plot_out = '/home/ah1114/LanguageOfLife/TrainLanguageModel/lrplot_GTDB_read_LM_2000tr.png'
 train_path = Path('/scratch/ah1114/LoL/data/GTDB_chunked_train')
 valid_path = Path('/scratch/ah1114/LoL/data/GTDB_chunked_valid')
 skiprows_file = "skiprows.csv"
