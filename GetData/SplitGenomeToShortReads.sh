@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --partition=main             # Partition (job queue)
+#SBATCH --partition=bromberg_1             # Partition (job queue)
 #SBATCH --job-name=split          # Assign an short name to your job
 #SBATCH --nodes=1                    # Number of nodes you require
 #SBATCH --ntasks=1                  # total number of tasks across all nodes
@@ -8,6 +8,11 @@
 #SBATCH --mem=128000                   # Real memory (RAM) required (MB)
 #SBATCH --time=3-00:00:00              # Total run time limit (HH:MM:SS)
 #SBATCH --export=ALL                 # Export you current env to the job env
-#SBATCH --output=slurm.splitGTDBgenomes_arc.out    # STDOUT output file 
+#SBATCH --output=slurm.SplitGenomeToShortReads_plasmid.out    # STDOUT output file 
 
-python SplitGenomeToShortReads_arc.py
+python SplitGenomeToShortReads_plasmid.py
+
+echo num rows in validset, at /scratch/ah1114/LoL/data/PlasmidChromosomal_genusparsed_valid.csv
+wc -l /scratch/ah1114/LoL/data/PlasmidChromosomal_genusparsed_valid.csv
+echo num rows in train, at /scratch/ah1114/LoL/data/PlasmidChromosomal_genusparsed_train.csv
+wc -l /scratch/ah1114/LoL/data/PlasmidChromosomal_genusparsed_train.csv
