@@ -25,7 +25,7 @@ data_path = Path('scratch/ah1114/LoL/data/mifaser_out/Small100_EvenEnvPackages')
 bs=4096 
 ksize=1
 stride=1
-emb_sz=400 #**change this to 100 for real script, but I'm using the previous pretrained model with 400 so dims need to match
+emb_sz=400 #**change this to 104 for real script, but I'm using the previous pretrained model with 400 so dims need to match
 
 skiprows_file = "skiprows_emb.csv"
 max_seqs=None #May need change
@@ -41,7 +41,7 @@ else:
 
 skiprows = int(pd.read_csv(skiprows_file)['rows_to_skip']) #this should start at 0 at first training, will be updated as train more
 
-#get valid embeddings
+#get valid embeddings 
 print('opening valid')
 valid_df = pd.read_csv(valid_path, nrows=max_seqs, skiprows=range(1,skiprows+1))
 print('allocating learner')

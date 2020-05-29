@@ -30,11 +30,13 @@ def get_seq_combos(combos,df):
 
 seq_combos = get_seq_combos(combos,df)
 
-#took 39 sec to compute 4950 combinations
+#took 39 sec to compute seq similarity on 4950 combinations
 #there are 1274 categories in the 'annotation' - if we take 10 from each we have 12740 rows = 81,147,430 combos
 #81147430/4950 * 39s/60s/m/60m/h = 177.6h / num_cpus = 6.3h
 #100 each cat, 127400 rows = 8,115,316,300 combos => 634h
+#there are 74 categories in the 'annotation_level3'
 #there are 95 'runs' from one of 10 env_biomes
+#48000 rows = 1,151,976,000 combos => 90h on 28 cpus
 
 #compute alignments in parallel, write to csv
 #colnames: (seqid_a, seqid_b), alignment_score
@@ -62,3 +64,36 @@ start = datetime.now()
 scores = Parallel(n_jobs=num_cpu)(delayed(score_alignment)(i) for i in inputs)
 end = datetime.now()
 print('took',end-start,'to process',len(seq_combos),'combinations')
+
+'''
+how about doing pairwise cosine similarity of embeddings?
+for 48000 rows, 1,151,976,000 combos
+took 0.085sec to compute 4950 combos - took 8s to compute 499500 combinations
+so on 28 cpus will take ~11min - easy
+'''
+#compute cosine similarity manually
+def cosine(a,b):
+    dot = np.dot(a,b)
+    norma = np.linalg.norm(a)
+    normb = np.linalg.norm(b)
+    cos = dot / (norma*normb)
+    return cos
+
+def get_emb_combos(combos,df):
+    new_combos = []
+    for combo in combos:
+        seqa = df.iloc[combo[0]]['emb']
+        seqb = df.iloc[combo[1]]['emb']
+        new_combos.append((seqa,seqb))
+    return new_combos
+
+ecombos = list(itertools.combinations(list(range(0,1000)),2))
+emb_combos = get_emb_combos(ecombos,to_process)
+print('starting')
+start_time = datetime.now()
+cosines = []
+for combo in emb_combos:
+    cos = cosine(combo[0],combo[1])
+    cosines.append(cos)
+end_time = datetime.now()
+print('took',end_time-start_time,'to compute cosine similarity for',len(emb_combos),'combinations')
