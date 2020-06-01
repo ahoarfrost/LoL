@@ -8,6 +8,6 @@
 #SBATCH --mem=128000                   # Real memory (RAM) required (MB)
 #SBATCH --time=3-00:00:00              # Total run time limit (HH:MM:SS)
 #SBATCH --export=ALL                 # Export you current env to the job env
-#SBATCH --output=slurm.GetHomologDataset_class_parallel.out    # STDOUT output file 
+#SBATCH --output=slurm.GetHomologDataset_class_parallel2.out    # STDOUT output file 
 
 python GetHomologDataset_class_parallel.py

@@ -123,13 +123,13 @@ def check_taxa(taxa):
 
 
 print('getting and writing fasta...')
-for taxa in OGclass:
+for taxa in OGclassnames:
     print('processing',taxa,'...')
     #get list files figure out how many OGs already retrieved
     og_path = '/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG_seqs_class/'+str(taxa)+'/'
     files = [x for x in Path(og_path).resolve().iterdir()]  
     success_ogs = [x.stem for x in files]
-    taxasubset = subsetcds[subsetcds['NCBI_taxID']==taxa]
+    taxasubset = subsetcds[subsetcds['scientific_name']==taxa]
     while len(success_ogs) < 1000:
         print('trying again, success so far with',len(success_ogs),'ogs')
         num_ogs = 1000-len(success_ogs)

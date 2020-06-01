@@ -8,18 +8,18 @@ import multiprocessing
 from joblib import Parallel, delayed
 from tqdm import tqdm
 from datetime import datetime
-
+'''
 #to choose OGs at the class level, get cds ids and convert to subsetcds:
 #look for classes with at least a few tens of thousands of rows (at least 1000 unique OGIDs)
 joinedtax = pd.read_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes_withtaxa.csv',index_col=False)
 
 #Counter(joinedtax['scientific_name']).most_common()   #can choose manually from this
 #I chose the classes for the genera used in earlier iteration: OGtaxa = ['Sulfolobus','Streptomyces','Pseudomonas','Thermococcus','Bacillus','Methanosarcina','Acinetobacter','Mycobacterium','Lactobacillus','Enterococcus']
-
+'''
 OGclassnames = ['Thermoprotei','Actinobacteria','Gammaproteobacteria','Spirochaetia','Bacilli','Methanomicrobia','Halobacteria','Bacteroidia','Deltaproteobacteria','Clostridia'] #Acinetobacter are also in gammaproteobacteria, and mycobacterium also in Actinobacteria, lactobacillus also in Bacilli, enterococcus also in Bacilli; Thermococci wasn't used in OG groups;, so chose additional classes
 #actinobacteria is both a class and a phylum so changed this to NCBI_taxIDs
 OGclass = [183924,1760,1236,203692,91061,224756,183963,200643,28221,186801]
-
+'''
 subset = joinedtax[joinedtax['NCBI_taxID'].isin(OGclass)] 
 
 print('linking to EMBL CDS ids...')
@@ -67,7 +67,7 @@ rename.to_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/uniprot2cd
 
 subsetcds = subset.merge(rename,on='externalID') 
 subsetcds.to_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes2cds_OGtaxa_class.csv',index=False)
-
+'''
 subsetcds = pd.read_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes2cds_OGtaxa_class.csv')
 
 def sample_OGs(df, num_ogs=1000, seqs_per_og=5, success_ogs=[]):
@@ -125,13 +125,13 @@ def check_taxa(taxa):
 
 
 print('getting and writing fasta...')
-for taxa in OGclass:
+for taxa in OGclassnames:
     print('processing',taxa,'...')
     #get list files figure out how many OGs already retrieved
     og_path = '/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG_seqs_class/'+str(taxa)+'/'
     files = [x for x in Path(og_path).resolve().iterdir()]  
     success_ogs = [x.stem for x in files]
-    taxasubset = subsetcds[subsetcds['NCBI_taxID']==taxa]
+    taxasubset = subsetcds[subsetcds['scientific_name']==taxa]
     while len(success_ogs) < 1000:
         print('trying again, success so far with',len(success_ogs),'ogs')
         num_ogs = 1000-len(success_ogs)
