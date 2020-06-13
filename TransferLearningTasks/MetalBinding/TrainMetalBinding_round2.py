@@ -42,8 +42,8 @@ train_path = Path('/scratch/ah1114/LoL/TransferLearningTasks/MetalBinding/train/
 valid_path = Path('/scratch/ah1114/LoL/TransferLearningTasks/MetalBinding/valid/metalbinding_valid.csv')
 model_path_base = '/home/ah1114/LanguageOfLife/TransferLearningTasks/MetalBinding/models/metalbinding_clas_round'
 log_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/MetalBinding/train_logs/metalbinding_clas_log')
-lr_plot_out = '/home/ah1114/LanguageOfLife/TransferLearningTasks/MetalBinding/plots/lrplot_metalbinding_clas.png'
-losses_plot_out = '/home/ah1114/LanguageOfLife/TransferLearningTasks/MetalBinding/plots/lossesplot_metalbinding_clas.png'
+losses_plot_base = '/home/ah1114/LanguageOfLife/TransferLearningTasks/MetalBinding/plots/lossesplot_metalbinding_clas'
+lr_plot_base = '/home/ah1114/LanguageOfLife/TransferLearningTasks/MetalBinding/plots/lrplot_metalbinding_clas'
 pretrained_path = Path('/home/ah1114/LanguageOfLife/saved_models/GTDB_read_LM_lowlr_continue4_best_enc')
 vocab_path = Path('/home/ah1114/LanguageOfLife/vocabs')
 vocab_name = vocab_path/'ngs_vocab_k1_withspecial.npy'  
@@ -81,36 +81,33 @@ config['n_layers'] = n_layers
 config['n_hid'] = n_hid
 config['emb_sz'] = emb_sz
 learn = text_classifier_learner(data, AWD_LSTM, drop_mult=drop_mult, model_dir=".", config=config, pretrained=False)
-learn.callbacks.append(SaveModelCallback(learn, every='improvement', monitor='accuracy', name=Path(model_path_base+'_best'))) #save best model if accuracy is above the best seen so far
-learn.callbacks.append(SaveModelCallback(learn, every='epoch', monitor='accuracy', name=Path(model_path_base))) #save latest model at end every epoch
-learn.callbacks.append(CSVLogger(learn, filename=log_path, append=True))
 
-learn.load_encoder(pretrained_path)
-#learn.load(pretrained_path)
+def train_round(learn,rnd,num_cycles,lrate):
+    learn.lr_find()
+    lr_plot = learn.recorder.plot(return_fig=True)
+    lr_plot.savefig(lr_plot_base+rnd+'.png')
+    print('training',num_cycles,'cycle/s with lrate',lrate)
+    callbacks = [SaveModelCallback(learn, every='improvement', monitor='accuracy', name=Path(model_path_base+rnd+'_best')),
+                SaveModelCallback(learn, every='epoch', monitor='accuracy', name=Path(model_path_base+rnd)),
+                CSVLogger(learn, filename=log_path, append=True)]
+    learn.fit_one_cycle(num_cycles,lrate, moms=moms, callbacks=callbacks) 
+    print('saving checkpoint encoder')
+    learn.save_encoder(Path(model_path_base+rnd+'_latest_enc')) 
+    print('saving recorder plots')
+    plot_losses = learn.recorder.plot_losses(return_fig=True)
+    plot_losses.savefig(losses_plot_base+rnd+'.png')
+    print('Done!')
 
-print('checking out LR')
-learn.lr_find(start_lr=1e-6,end_lr=1)
-lr_plot = learn.recorder.plot(return_fig=True)
-lr_plot.savefig(lr_plot_out)
+
+#learn.load_encoder(pretrained_path)
+learn.load('/home/ah1114/LanguageOfLife/TransferLearningTasks/MetalBinding/models/metalbinding_clas_round1_best')
 
 print('training cycle/s')
 learn = learn.to_my_distributed(args.local_rank)
-
 #fine tune successive layers with discriminative learning rates
-learn.freeze()
-learn.fit_one_cycle(5,1e-2, moms=moms)
-
-learn.freeze_to(-2)
-learn.fit_one_cycle(5, slice(2e-3/50,2e-3), moms=moms) 
 
 learn.freeze_to(-3)
-learn.fit_one_cycle(8, slice(5e-4/50,5e-4), moms=moms) 
-
-learn.unfreeze()
-learn.fit_one_cycle(10, slice(5e-4/(2.6**4),5e-4), moms=moms) 
-
-#print('plotting losses')
-#plot_losses = learn.recorder.plot_losses(return_fig=True)
-#plot_losses.savefig(losses_plot_out)
+rnd=str(2)
+train_round(learn, rnd=rnd, num_cycles=3, lrate=slice(5e-4/50,5e-4))
 
 print('Done!')
