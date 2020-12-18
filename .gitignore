@@ -2,6 +2,7 @@ slurm.*
 .vscode*
 .python-version
 *.pth
+*.pkl
 **/__pycache__/**
 !/saved_models/*.pth
 /mifaser/*
