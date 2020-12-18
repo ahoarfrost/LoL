@@ -1,6 +1,0 @@
-epoch,train_loss,valid_loss,accuracy,time
-0,9.483907,#na#,00:15
-epoch,train_loss,valid_loss,accuracy,time
-0,1.880642,3.937284,0.122897,00:25
-1,1.831595,1.714097,0.274299,00:25
-2,1.763035,1.666072,0.302804,00:23
