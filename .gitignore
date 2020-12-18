@@ -6,5 +6,4 @@ slurm.*
 **/__pycache__/**
 /mifaser/*
 vocabs/ngs_vocab_k12_withspecial.npy
-Interpret/combo_chunk*
 archive/**
