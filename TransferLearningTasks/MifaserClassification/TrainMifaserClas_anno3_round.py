@@ -12,10 +12,10 @@ args = parser.parse_args()
 
 path = Path('./') 
 model_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/models/mifaserclas_anno3_round')
-model_dir = Path('/home/ah1114/LanguageOfLife/TrainLM/models/mifaserclas3round/')
+model_dir = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/models/')
 cache_dir = 'tmp_mifaserclas3_round'
-last_encoder_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/models/mifaserclas_anno3_last_enc_round')
-pretrained_path = Path('/home/ah1114/LanguageOfLife/saved_models/GTDB_read_LM_lowlr_continue4_best_enc')
+#last_encoder_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/models/mifaserclas_anno3_last_enc_round')
+pretrained_path = Path('/home/ah1114/LanguageOfLife/saved_models/LookingGlass_enc')
 log_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/train_logs/mifaserclas_anno3_round')
 vocab_path = Path('/home/ah1114/LanguageOfLife/vocabs')
 vocab_name = vocab_path/'ngs_vocab_k1_withspecial.npy'
@@ -25,9 +25,8 @@ valid_path = Path('/scratch/ah1114/LoL/data/mifaser_out/Small100_EvenEnvPackages
 lr_plot_out = '/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/plots/lrplot_mifaserclas_anno3_round.png'
 losses_plot_out = '/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/plots/lossesplot_mifaserclas_anno3_round.png'
 
-
 #if stuck with 128GB, might try doing it in shuffled batches of files?
-bs=2048 #2048 worked in previous tests
+bs=512 #2048 worked in previous tests
 ksize=1 
 stride=1
 max_seqs=5000000 
@@ -35,7 +34,7 @@ valid_max_seqs=None
 lrate=1e-3 #adjusted down after seeing lrplot
 drop_mult=0.3 #haven't tuned this at all yet
 num_cycles=1
-numrounds=5
+numrounds=13
 skiprows_file = "skiprows_mifaser_anno3.csv"
 device = torch.device('cuda')
 n_layers=3
@@ -44,6 +43,7 @@ n_hid=1152
 moms=(0.8,0.7) #lowered this for classification; may want to revisit
 emb_sz=104
 n_cpus = args.n_cpus
+mifaser_classes = np.load('mifaser_classes_anno3.npy').tolist()
 
 tok = BioTokenizer(ksize=ksize, stride=stride)
 if vocab_name.is_file():
@@ -61,7 +61,7 @@ for round in range(0,numrounds):
     start_bunch = datetime.now()
     data = BioClasDataBunch.from_multiple_csv(path=data_path, train=train_path, valid=valid_path,
                                         text_cols='seq', label_cols='annotation',
-                                        classes=np.load('mifaser_classes.npy').tolist(),
+                                        classes=mifaser_classes,
                                         tokenizer=tok, vocab=model_voc,
                                         max_seqs_per_file=max_seqs, valid_max_seqs=valid_max_seqs, skiprows=skiprows, bs=bs
                                             )
@@ -70,6 +70,7 @@ for round in range(0,numrounds):
     data.device = device
     print('youre on device:',data.device)
     data.num_workers = n_cpus 
+    data.bs = bs
 
     print('there are',len(data.items),'items in itemlist, and',len(data.valid_ds.items),'items in data.valid_ds')
     print('there are',data.c,'classes')
@@ -81,13 +82,14 @@ for round in range(0,numrounds):
     config['emb_sz'] = emb_sz
     learn = text_classifier_learner(data, AWD_LSTM, drop_mult=drop_mult, model_dir=model_dir, config=config, pretrained=False)
     learn.to_fp16()
-    learn.callbacks.append(SaveModelCallback(learn, every='improvement', monitor='accuracy', name=model_path))
+    #learn.callbacks.append(SaveModelCallback(learn, every='improvement', monitor='accuracy', name=model_path))
     learn.callbacks.append(CSVLogger(learn, filename=log_path, append=True))
     #this is where you would load the pretrained encoder learn.load_encoder('<ENC NAME>')
     if round==0:
         learn.load_encoder(pretrained_path)
     else:
-        learn.load(model_path)
+        mname = Path(str(model_path)+str(round-1)) #load previous round model
+        learn.load(mname)
 
     if round==0: #get lr first round only
         print('figuring out LR')
@@ -104,6 +106,10 @@ for round in range(0,numrounds):
     learn.fit_one_cycle(num_cycles,lrate, moms=(0.8,0.7))
     end_train = datetime.now()
     print('...took',str(end_train-start_train),'to fit',num_cycles, 'cycles')
+
+    mout = Path(str(model_path)+str(round))
+    print('saving model to', mout)
+    learn.save(mout)
 
     print('adjusting skiprows value')
     pd.DataFrame({"rows_to_skip":[newskip]}).to_csv(skiprows_file,index=False) 

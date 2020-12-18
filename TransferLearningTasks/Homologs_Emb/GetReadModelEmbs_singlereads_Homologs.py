@@ -3,62 +3,50 @@ sys.path.insert(0, '/home/ah1114/BioDL')
 #and import all the stuff
 from data import *
 from learner import *
-from distributed import *
-from fastai.callbacks import *
 from datetime import datetime
 import pandas as pd
 from Bio import SeqIO
 
 path = Path('./') 
 model_path = Path('/home/ah1114/LanguageOfLife/saved_models/')
-pretrained_path = Path('/home/ah1114/LanguageOfLife/saved_models/GTDB_read_LM_lowlr_continue2_best')
-vocab_path = Path('/home/ah1114/LanguageOfLife/vocabs')
-vocab_name = vocab_path/'ngs_vocab_k1_withspecial.npy'  
-data_path = Path('/scratch/ah1114/LoL/data/') 
+pretrained_path = 'LookingGlass_LM_export.pkl'
 data_inpath = Path('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG_seqs/')
-dummy_databunch = 'GTDBdatabunch_fortesting.pkl'
-inference_datain = Path('/home/ah1114/LanguageOfLife/Interpret/InterpretSmallSubsetSeqs.csv')
-outfile = Path('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG_SeqEmbs.pkl')
+outfile = Path('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/LookingGlass_HomEmb_out/OG_SeqEmbs.pkl')
 
+#get a list of all the files in the nested folders of data_inpath
 subdir = [x for x in data_inpath.iterdir()]
 contents = []
 for taxa in subdir:
     for x in taxa.iterdir():
         contents.append(x)
 
-n_layers=3
-n_hid=1152
-emb_sz=104
-drop_mult=0.1
-
-data = load_data(data_path,dummy_databunch) 
-
-config = awd_lstm_lm_config.copy()
-config['n_layers'] = n_layers
-config['n_hid'] = n_hid
-config['bidir'] = False
-config['emb_sz'] = emb_sz
-learn = language_model_learner(data, AWD_LSTM, drop_mult=drop_mult,model_dir=".", config=config, pretrained=False)#.to_fp16()
-learn = learn.load(pretrained_path)
+#load pretrained LM
+bptt = 100
+bs = 512
+learn = load_learner(model_path, pretrained_path) 
+learn.data.bs = bs
+learn.data.bptt = bptt
 
 #fn to get the tokenized/numericalized processed seq from raw input
 def process_seq(seq,learn):
     xb, yb = learn.data.one_item(seq)
     return xb
 
+#fn to get the overall sequence embedding from a single sequence
 def encode_seq(learn, seq):
     xb = process_seq(seq, learn)
     encoder = learn.model[0]
     encoder.reset()
     with torch.no_grad():
-        out = encoder.eval()(xb) #outputs tuple or raw vs dropped out eval
+        out = encoder.eval()(xb) #outputs tuple of raw vs dropped out eval
         #out[0] - raw eval; this is a list of length n_layers in model
         #out[0][-1] - last layer output; this is a tensor of size (batch_size, seq_len, emb_sz)
         #out[0][-1][0] - since this for a single sequence, take 0th index; now have tensor of size (seq_len, emb_sz)
         #out[0][-1][0][-1] - take embedding for last token; this is a tensor of size emb_sz
         #finally convert to numpy array and return
-    # Return final output, for last layer, on last token in sequence
+    # Return final output, for last layer, on last token in sequence - overall 'sequence embedding'
     return out[0][-1][0][-1].detach().numpy()
+
 
 time_start = datetime.now()
 to_write = pd.DataFrame()
@@ -76,7 +64,7 @@ for ix,fna in enumerate(contents):
         emb = encode_seq(learn,seq)
         record = [tax,og,seq,emb]    
         records.append(record)
-    #write rows with run, seq, and annotation label
+    #write rows with taxa, og, seq, and emb 
     to_write = to_write.append(records)
     #data_writer.writerows(records)
 to_write.columns = ['taxa','og','seq','emb']

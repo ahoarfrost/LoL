@@ -12,7 +12,7 @@
 numthread=28
 
 #get preds for ERR598962 ERR599055 ERR598957 ERR599072
-for srr in ERR598962 ERR599055 ERR598957 ERR599072
+for srr in ERR599072 #ERR598962 ERR599055 ERR598957
 do 
     if [ ! -d "/scratch/ah1114/LoL/TransferLearningTasks/EC1/mifaser_metagenomes/$srr'_cut'" ]; then #if no folder for this run exists (mifaser hasn't started on it yet), start processing
         echo processing $srr cut...

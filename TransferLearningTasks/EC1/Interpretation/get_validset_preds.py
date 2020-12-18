@@ -35,4 +35,6 @@ class_ix = preds.argmax(dim=-1)
 classes = [learn.data.classes[x] for x in class_ix]
 
 pred_df = pd.DataFrame({'preds':preds,'predicted_label':classes,'seq':val_ds.items}) 
+pred_df['pred_nonec1'] = [float(x[1]) for x in pred_df['preds']]
+pred_df['pred_ec1'] = [float(x[0]) for x in pred_df['preds']]
 pred_df.to_csv(outfile, index=False)

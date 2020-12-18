@@ -45,7 +45,7 @@ last_model_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/EC1/mo
 log_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/EC1/train_logs/ec1_uniref_clas_log')
 lr_plot_out = '/home/ah1114/LanguageOfLife/TransferLearningTasks/EC1/plots/lrplot_ec1_uniref_clas.png'
 losses_plot_out = '/home/ah1114/LanguageOfLife/TransferLearningTasks/EC1/plots/lossesplot_ec1_uniref_clas.png'
-pretrained_path = Path('/home/ah1114/LanguageOfLife/TransferLearningTasks/MifaserClassification/models/mifaserclas_anno4_last_enc_round2')
+pretrained_path = Path('/home/ah1114/LanguageOfLife/saved_models/mifaserclas_anno4_round11_enc')
 vocab_path = Path('/home/ah1114/LanguageOfLife/vocabs')
 vocab_name = vocab_path/'ngs_vocab_k1_withspecial.npy'  
 cache_dir = 'tmp_ec1' #otherwise your tmp recorder stuff will all go in the same place if you're running multiple jobs
@@ -98,11 +98,9 @@ print('training cycle/s')
 learn = learn.to_my_distributed(args.local_rank)
 #fine tune successive layers with discriminative learning rates
 learn.freeze()
-learn.fit_one_cycle(10,lrate, moms=(0.8,0.7))
-#learn.fit_one_cycle(10,1e-2, moms=(0.8,0.7))
+learn.fit_one_cycle(10,1e-2, moms=(0.8,0.7))
 learn.freeze_to(-2)
 learn.fit_one_cycle(10, slice(5e-3/(2.6**4),5e-3), moms=(0.8,0.7)) #this 2.6 rule of thumb is for NLP, maybe doesn't hold... but we'll go with it for now
-#learn.fit_one_cycle(3, slice(5e-3/(2.6**4),5e-3), moms=(0.8,0.7))
 learn.freeze_to(-3)
 learn.fit_one_cycle(10, slice(1e-3/(2.6**4),1e-3), moms=(0.8,0.7)) 
 learn.unfreeze()
