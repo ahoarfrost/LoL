@@ -8,6 +8,6 @@
 #SBATCH --mem=16000                   # Real memory (RAM) required (MB)
 #SBATCH --time=3-00:00:00              # Total run time limit (HH:MM:SS)
 #SBATCH --export=ALL                 # Export you current env to the job env
-#SBATCH --output=slurm.CountTrainValidTest.out    # STDOUT output file 
+#SBATCH --output=slurm.CountTrainValidTest_parsedclass.out    # STDOUT output file 
 
-python CountTrainValidTest.py
+python CountTrainValidTest_parsedclass.py

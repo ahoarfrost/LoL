@@ -4,37 +4,14 @@ from collections import Counter
 import urllib.parse 
 import urllib.request 
 from pathlib import Path
+import multiprocessing
+from joblib import Parallel, delayed
+from tqdm import tqdm
+from datetime import datetime
 
-#to choose OGs at the class level, get cds ids and convert to subsetcds:
-#look for classes with at least a few tens of thousands of rows (at least 1000 unique OGIDs)
-joinedtax = pd.read_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes_withtaxa.csv',index_col=False)
-
-#Counter(joinedtax['scientific_name']).most_common()   #can choose manually from this
-#I chose the classes for the genera used in earlier iteration: OGtaxa = ['Sulfolobus','Streptomyces','Pseudomonas','Thermococcus','Bacillus','Methanosarcina','Acinetobacter','Mycobacterium','Lactobacillus','Enterococcus']
-#Acinetobacter are also in gammaproteobacteria, and mycobacterium also in Actinobacteria, lactobacillus also in Bacilli, enterococcus also in Bacilli; Thermococci wasn't used in OG groups;, so chose additional classes
-
-OGclassnames = ['Thermoprotei','Actinobacteria','Gammaproteobacteria','Spirochaetia','Bacilli','Methanomicrobia','Halobacteria','Bacteroidia','Deltaproteobacteria','Clostridia'] 
-#actinobacteria is both a class and a phylum so changed this to NCBI_taxIDs
-OGclass = [183924,1760,1236,203692,91061,224756,183963,200643,28221,186801]
-
-subset = joinedtax[joinedtax['NCBI_taxID'].isin(OGclass)] 
-
-print('linking to EMBL CDS ids...')
-#map the uniprot IDs we care about to EMBL/GenBank/DDBJ CDS sequences - the uniprot database mapper is good for this
-num_chunks = 100000 #have to do in chunks or api crashes
-interval = int(len(subset)/num_chunks)+1
-starts = [x*interval for x in range(0,num_chunks)]
-stops = [x*interval for x in range(1,num_chunks+1)] 
-url = 'https://www.uniprot.org/uploadlists/'
-fout = '/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/uniprot2cds_class/uniprot2cds_class.tsv'
-for ix in range(0,num_chunks):
-    #query uniprot database mapper API, see: https://www.uniprot.org/help/api_idmapping
-    #if fout doesn't exist, continue
-    #if not Path(fout).is_file():
-    if ix % 1000 == 0:
-        print('querying ix',ix,'out of',num_chunks)
-
-    query = ' '.join(subset['externalID'][starts[ix]:stops[ix]])
+def get_response(query):
+    #query = ' '.join(subset['externalID'][starts[ix]:stops[ix]])
+    fout = '/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/uniprot2cds_order/uniprot2cds_order.tsv'
     params = { 
     'from': 'ACC+ID', #uniprot KB id
     'to': 'EMBL', #EMBL/GenBank/DDBJ CDS
@@ -47,27 +24,11 @@ for ix in range(0,num_chunks):
         req = urllib.request.Request(url, data) 
         with urllib.request.urlopen(req) as f: 
             response = f.read() 
-    except:
-        print('error on ix',ix,'with query: ', data)
-    #this will write tsv file with columns "From" and "To" - from is uniprot; to is embl cds
-    if ix==0:
-        with open(fout,'w') as f:
-            f.writelines(response.decode('utf-8')) 
-    else:
         with open(fout,'a') as f:
             f.writelines(response.decode('utf-8').split('From\tTo\n')[1])
-
-
-#need to concatenate these chunks into one df
-print('renaming colnames...')
-rename = pd.read_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/uniprot2cds_class/uniprot2cds_class.tsv')
-rename.columns = ['externalID','EMBLcdsID']
-rename.to_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/uniprot2cds_class/uniprot2cds_class.tsv',index=False)
-
-subsetcds = subset.merge(rename,on='externalID') 
-subsetcds.to_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes2cds_OGtaxa_class.csv',index=False)
-
-subsetcds = pd.read_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes2cds_OGtaxa_class.csv')
+    except:
+        print('error with query: ', data)
+        pass
 
 def sample_OGs(df, num_ogs=1000, seqs_per_og=5, success_ogs=[]):
     #find first <num_ogs> OGs with >= <seqs_per_og> unique orthoDB genes
@@ -123,11 +84,73 @@ def check_taxa(taxa):
     print(taxasubset[1000:1005])
 
 
+#to choose OGs at the class level, get cds ids and convert to subsetcds:
+#look for classes with at least a few tens of thousands of rows (at least 1000 unique OGIDs)
+joinedtax = pd.read_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes_withtaxa.csv',index_col=False)
+
+#Counter(joinedtax['scientific_name']).most_common()   #can choose manually from this
+#I chose the classes for the genera used in earlier iteration: OGtaxa = ['Sulfolobus','Streptomyces','Pseudomonas','Thermococcus','Bacillus','Methanosarcina','Acinetobacter','Mycobacterium','Lactobacillus','Enterococcus']
+#sulfolobus=sulfolobales=2281
+#streptomyces=streptomycetales=85011
+#pseudomonas=pseudomonadales=72274
+#*thermococcus=thermococcales=2258 --> Archaeoglobales=2231
+#bacillus=bacillales=1385
+#*Methanosarcina=methanosarcinales=94695 --> methanomicrobiales=2191
+#**acinetobacter=pseudomonadales=72274 --> halobacteriales=2235
+#Mycobacterium=Corynebacteriales=85007
+#Lactobacillus=lactobacillales=186826
+#**Enterococcus=lactobacillales=186826 --> desulfobacterales=213118
+
+#thermococcales (2258) and methanosarcinales (94695) not included in OG groups;  
+
+OGnames = ['Sulfolobales','Streptomycetales','Pseudomonadales','Archaeoglobales','Bacillales','Methanomicrobiales','Halobacteriales','Corynebacteriales','Lactobacillales','Desulfobacterales']
+#OGclassnames = ['Thermoprotei','Actinobacteria','Gammaproteobacteria','Spirochaetia','Bacilli','Methanomicrobia','Halobacteria','Bacteroidia','Deltaproteobacteria','Clostridia'] 
+#Acinetobacter are also in gammaproteobacteria, and mycobacterium also in Actinobacteria, lactobacillus also in Bacilli, enterococcus also in Bacilli; 
+#Thermococci wasn't used in OG groups;, so chose additional classes
+#(thermococcus->spirochaetia; acinetobacter->halobacteria; mycobacterium->bacteroidia; lactobacillus->deltaproteobacteria; enterococcus->clostridia)
+#actinobacteria is both a class and a phylum so changed this to NCBI_taxIDs
+OGids = [2281,85011,72274,2231,1385,2191,2235,85007,186826,213118]
+
+'''
+subset = joinedtax[joinedtax['NCBI_taxID'].isin(OGids)] 
+#note Streptomycetales shows up as \\N in scientific_name column; fix this here
+subset['scientific_name'] = subset['scientific_name'].replace('\\N','Streptomycetales') 
+
+print('linking to EMBL CDS ids...')
+fout = '/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/uniprot2cds_order/uniprot2cds_order.tsv'
+num_chunks = 100000 #have to do in chunks or api crashes
+interval = int(len(subset)/num_chunks)+1
+starts = [x*interval for x in range(0,num_chunks)]
+stops = [x*interval for x in range(1,num_chunks+1)] 
+url = 'https://www.uniprot.org/uploadlists/'
+
+num_cpu = multiprocessing.cpu_count()
+print('computing on num cpu:',num_cpu)
+queries = [' '.join(subset['externalID'][starts[ix]:stops[ix]]) for ix in range(0,num_chunks)]
+inputs = tqdm(queries)
+start = datetime.now()
+responses = Parallel(n_jobs=num_cpu)(delayed(get_response)(query) for query in inputs)
+end = datetime.now()
+print('took',end-start,'to process',num_chunks,'queries')
+
+print('renaming colnames...')
+rename = pd.read_csv(fout,sep='\t')
+rename.columns = ['externalID','EMBLcdsID']
+rename.to_csv(fout,index=False)
+
+subsetcds = subset.merge(rename,on='externalID') 
+subsetcds.to_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes2cds_OGtaxa_order.csv',index=False)
+'''
+
+subsetcds = pd.read_csv('/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG2genes2cds_OGtaxa_order.csv')
+
 print('getting and writing fasta...')
-for taxa in OGclassnames:
+for taxa in OGnames:
     print('processing',taxa,'...')
     #get list files figure out how many OGs already retrieved
-    og_path = '/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG_seqs_class/'+str(taxa)+'/'
+    og_path = '/scratch/ah1114/LoL/TransferLearningTasks/Homologs_Emb/OG_seqs_order/'+str(taxa)+'/'
+    #if og_path doesn't exist create it
+    Path(og_path).mkdir(parents=True, exist_ok=True)
     files = [x for x in Path(og_path).resolve().iterdir()]  
     success_ogs = [x.stem for x in files]
     taxasubset = subsetcds[subsetcds['scientific_name']==taxa]

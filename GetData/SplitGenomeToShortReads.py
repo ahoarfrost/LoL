@@ -5,13 +5,13 @@ import numpy as np
 from pathlib import Path
     
 
-def chunk_fna(fin, fout, genome_name, distrib, mode="w", shuffle=True):
+def chunk_fna(fin, fout, genome_name, distrib, mode="w", seqtype='fasta', shuffle=True):
     #fin should be a fasta file you want to process
     #fout is the name of the clean csv file you want to put into your model
     #distrib is an array of sequence lengths that reflect the distribution of seqlens you want in your output
     
     with open(fout, mode) as outfile:
-        for fna in SeqIO.parse(fin, "fasta"):
+        for fna in SeqIO.parse(fin, seqtype):
             
             start = 0
             records = []
@@ -46,11 +46,16 @@ distrib = np.load('/scratch/ah1114/LoL/data/GTDBGenomeSequencingDistrib.npy')
 
 for ix,fin in enumerate(files):
     print('processing file', ix, 'out of', len(files),'...')
-    genome_name = fin.name.split('_genomic.fna')[0] 
+    if 'SRR' in fin.name:
+        genome_name = fin.name.split('.')[0]
+        seqtype='fastq'
+    else:
+        genome_name = fin.name.split('_genomic.fna')[0] 
+        seqtype='fasta'
     fout = (root/'GTDBrepGenomes_chunked'/str(genome_name+'.fna')).resolve()
 
     #if fout doesn't already exist, chunk_fna
     if fout.is_file():
         print('--file already exists, skipping')
     else:
-        chunk_fna(fin=fin, fout=fout, genome_name=genome_name, distrib=distrib)
+        chunk_fna(fin=fin, fout=fout, genome_name=genome_name, seqtype=seqtype, distrib=distrib)

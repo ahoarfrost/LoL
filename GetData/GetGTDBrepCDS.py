@@ -11,7 +11,7 @@ for ix, genome in datasets.iterrows():
 
     url = str(ftp)+'/'+str(accession)+'_'+str(name)+'_cds_from_genomic.fna.gz'
     outpath = '/scratch/ah1114/LoL/data/GTDBrepCDS/'+str(accession)+'_'+str(name)+'_cds_from_genomic.fna.gz'
-    if os.path.isfile(outpath)==False:
+    if os.path.isfile(outpath)==False: #if haven't downloaded the file yet, do it
         try:
             urllib.request.urlretrieve(url, outpath)
         except:

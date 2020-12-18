@@ -1,0 +1,10 @@
+slurm.*
+.vscode*
+.python-version
+*.pth
+**/__pycache__/**
+!/saved_models/*.pth
+/mifaser/*
+vocabs/ngs_vocab_k12_withspecial.npy
+Interpret/combo_chunk*
+archive/**

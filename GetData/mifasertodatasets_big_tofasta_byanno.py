@@ -21,7 +21,7 @@ def to_fasta(df,colname,outpath,subsample=True):
     annos = list(set(df[colname]))
     counts = Counter(df[colname]).most_common()
     c = [x[1] for x in counts]
-    max_seqs = int(np.mean(c))
+    max_seqs = int(np.mean(c)) #this is 53kish 
     for anno in annos:
         records = []
         fout = str(anno)+'.fasta'
