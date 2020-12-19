@@ -7,3 +7,4 @@ slurm.*
 /mifaser/*
 vocabs/ngs_vocab_k12_withspecial.npy
 archive/**
+*.ipynb_checkpoints
