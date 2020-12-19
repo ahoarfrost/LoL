@@ -1,0 +1,5191 @@
+name,temp_final,dif_final,cluster
+Nocardia fusca,30,0,3
+Rhodobacter sanguinis,37,0,4
+Abiotrophia defectiva,37,0,4
+Acaricomes phytoseiuli,25,0,2
+Acetobacter aceti,30,0,3
+Acetobacter aceti aceti,30,0,3
+Acetobacter cerevisiae,30,0,3
+Acetobacter cibinongensis,30,0,3
+Acetobacter malorum,30,0,3
+Acetobacter oeni,25,0,2
+Acetobacter orientalis,30,0,3
+Acetobacter pasteurianus,30,0,3
+Acetobacter pasteurianus pasteurianus,30,0,3
+Acetobacter pomorum,30,0,3
+Acetobacter syzygii,30,0,3
+Acholeplasma laidlawii,37,0,4
+Acholeplasma vituli,37,0,4
+Achromobacter animicus,30,0,3
+Achromobacter insolitus,37,0,4
+Achromobacter insuavis,33.5,3.5,4
+Achromobacter insulatus,30,0,3
+Achromobacter piechaudii,30,2.333333333,3
+Achromobacter pulmonis,30,0,3
+Achromobacter ruhlandii,30,0,3
+Achromobacter sp.,30,0,3
+Achromobacter spanius,37,2.333333333,4
+Achromobacter spiritinus,30,0,3
+Achromobacter xylosoxidans denitrificans,30,0.388888889,3
+Achromobacter xylosoxidans xylosoxidans,30,0.25,3
+Acidaminobacter hydrogenoformans,30,0,3
+Acidaminococcus fermentans,37,0,4
+Acidaminococcus intestini,37,0,4
+Acidiphilium acidophilum,26,0,2
+Acidipropionibacterium acidipropionici,30,0,3
+Acidipropionibacterium jensenii,33.5,3.5,4
+Acidipropionibacterium microaerophilum,30,0,3
+Acidipropionibacterium thoenii,30,0,3
+Acidipropionibacterium thoenii pb identification 16S,30,0,3
+Acidithiobacillus thiooxidans,25,0,2
+Acidomonas methanolica,30,0,3
+Acidovorax anthurii,30,0,3
+Acidovorax avenae avenae,25,1.666666667,2
+Acidovorax avenae cattleyae,30,0,3
+Acidovorax avenae citrulli,25,0,2
+Acidovorax defluvii,30,0,3
+Acidovorax delafieldii,25,0,2
+Acidovorax facilis,25,0,2
+Acidovorax konjaci,30,0,3
+Acidovorax temperans,27.5,2.5,3
+Acidovorax valerianellae,25,0,2
+Acinetobacter baumannii,30,0.114754098,3
+Acinetobacter baylyi,30,0,3
+Acinetobacter beijerinckii,30,0,3
+Acinetobacter bereziniae,30,0,3
+Acinetobacter bohemicus,30,0,3
+Acinetobacter boissieri,30,0,3
+Acinetobacter bouvetii,30,0,3
+Acinetobacter brisouii,30,0,3
+Acinetobacter calcoaceticus,30,0,3
+Acinetobacter courvalinii,30,0,3
+Acinetobacter dispersus,30,0,3
+Acinetobacter genomospecies  3,30,0,3
+Acinetobacter genomospecies  6,30,0,3
+Acinetobacter genomospecies  9,30,0,3
+Acinetobacter genomospecies 13,30,0,3
+Acinetobacter genomospecies 15 BJ,30,0,3
+Acinetobacter genomospecies 16,30,0,3
+Acinetobacter genomospecies 17,30,0,3
+Acinetobacter genomospecies 3,30,0,3
+Acinetobacter genomospecies 9,30,0,3
+Acinetobacter gerneri,30,0,3
+Acinetobacter guillouiae,30,0,3
+Acinetobacter gyllenbergii,30,0,3
+Acinetobacter haemolyticus,30,0.411764706,3
+Acinetobacter harbinensis,30,0,3
+Acinetobacter indicus,30,0,3
+Acinetobacter johnsonii,30,0,3
+Acinetobacter junii,30,0,3
+Acinetobacter kookii,30,0,3
+Acinetobacter kyonggiensis,30,0,3
+Acinetobacter lwoffii,30,0,3
+Acinetobacter marinus,30,0,3
+Acinetobacter modestus,30,0,3
+Acinetobacter nectaris,25,0,2
+Acinetobacter nosocomialis,30,0,3
+Acinetobacter oryzae,30,0,3
+Acinetobacter parvus,30,1.714285714,3
+Acinetobacter pittii,30,0,3
+Acinetobacter pittii-like,30,0,3
+Acinetobacter proteolyticus,30,0,3
+Acinetobacter puyangensis,30,0,3
+Acinetobacter radioresistens,30,0,3
+Acinetobacter rudis,30,0,3
+Acinetobacter schindleri,30,0,3
+Acinetobacter seifertii,30,0,3
+Acinetobacter seohaensis,30,0,3
+Acinetobacter soli,30,0,3
+Acinetobacter sp.,30,0,3
+Acinetobacter tandoii,30,0,3
+Acinetobacter tjernbergiae,30,0,3
+Acinetobacter towneri,30,0,3
+Acinetobacter ursingii,30,0,3
+Acinetobacter variabilis,30,0,3
+Acinetobacter venetianus,30,0,3
+Acinetobacter vivianii,30,0,3
+Actinoallomurus spadix,37,0,4
+Actinoalloteichus cyanogriseus,30,0,3
+Actinoalloteichus hymeniacidonis,30,0,3
+Actinobacillus arthritidis,37,0,4
+Actinobacillus capsulatus,37,0,4
+Actinobacillus delphinicola,37,0,4
+Actinobacillus equuli,37,0,4
+Actinobacillus equuli  equuli,37,0,4
+Actinobacillus equuli  haemolyticus,37,0,4
+Actinobacillus hominis,37,0,4
+Actinobacillus indolicus,37,0,4
+Actinobacillus lignieresii,37,0,4
+Actinobacillus minor,37,0,4
+Actinobacillus muris,37,0,4
+Actinobacillus pleuropneumoniae,37,0,4
+Actinobacillus porcinus,37,0,4
+Actinobacillus rossii,37,0,4
+Actinobacillus scotiae,37,0,4
+Actinobacillus seminis,37,0,4
+Actinobacillus succinogenes,30,0,3
+Actinobacillus suis,37,0,4
+Actinobacillus ureae,37,0,4
+Actinobaculum lemanensis,37,0,4
+Actinobaculum schaalii,37,0,4
+Actinobaculum suis,37,0,4
+Actinobaculum timonae,37,0,4
+Actinobaculum urinale,37,0,4
+Actinocatenispora thailandica,30,0,3
+Actinocorallia longicatena,30,0,3
+Actinokineospora auranticolor,30,0,3
+Actinokineospora enzanensis,30,0,3
+Actinomadura alba,30,0,3
+Actinomadura atramentaria,30,0,3
+Actinomadura catellatispora,30,0,3
+Actinomadura formosensis,30,0,3
+Actinomadura glauciflava,30,0,3
+Actinomadura luteofluorescens,30,0,3
+Actinomadura macra,30,0,3
+Actinomadura madurae,30,2.333333333,3
+Actinomadura mexicana,30,0,3
+Actinomadura meyerae,30,0,3
+Actinomadura namibiensis,30,0,3
+Actinomadura pelletieri,30,0,3
+Actinomadura rubrobrunea,55,0,5
+Actinomadura rugatobispora,30,0,3
+Actinomadura umbrina,30,0,3
+Actinomadura verrucosospora,37,0,4
+Actinomadura vinacea,30,0,3
+Actinomadura viridis,30,0,3
+Actinomadura yumaensis,37,0,4
+Actinomyces bernardiae,37,0,4
+Actinomyces bovis,37,0,4
+Actinomyces bowdenii,37,0,4
+Actinomyces canis,37,0,4
+Actinomyces cardiffensis,37,0,4
+Actinomyces catuli,37,0,4
+Actinomyces coleocanis,37,0,4
+Actinomyces dentalis,37,0,4
+Actinomyces denticolens,37,0,4
+Actinomyces europaeus,37,0,4
+Actinomyces funkei,37,0,4
+Actinomyces georgiae,37,0,4
+Actinomyces gerencseriae,37,0,4
+Actinomyces graevenitzii,37,0,4
+Actinomyces hongkongensis,37,0,4
+Actinomyces hordeovulneris,37,0,4
+Actinomyces hyovaginalis,37,0,4
+Actinomyces israelii,37,0,4
+Actinomyces lingnae,37,0,4
+Actinomyces marimammalium,37,0,4
+Actinomyces massiliensis,30,0,3
+Actinomyces meyeri,37,0,4
+Actinomyces naeslundii,37,0,4
+Actinomyces nasicola,37,0,4
+Actinomyces neuii,37,0,4
+Actinomyces neuii anitratus,37,0,4
+Actinomyces neuii neuii,37,0,4
+Actinomyces odonlyticus,37,0,4
+Actinomyces odontolyticus,37,0,4
+Actinomyces oricola,37,0,4
+Actinomyces oris,37,0,4
+Actinomyces radicidentis,37,0,4
+Actinomyces radingae,37,0,4
+Actinomyces ruminicola,45,0,4
+Actinomyces schaalii,37,0,4
+Actinomyces slackii,37,0,4
+Actinomyces suimastitidis,37,0,4
+Actinomyces turicensis,37,0,4
+Actinomyces urogenitalis,37,0,4
+Actinomyces vaccimaxillae,37,0,4
+Actinomyces viscosus,37,0,4
+Actinomyces weissii,37,0,4
+Actinoplanes couchii,30,0,3
+Actinopolymorpha singaporensis,30,0,3
+Actinotalea fermentans,30,0,3
+Actinotignum schaalii,37,0,4
+Advenella incenata,30,0,3
+Aequorivita antarctica,20,0,2
+Aequorivita crocea,20,0,2
+Aequorivita lipolytica,20,0,2
+Aequorivita sp.,20,0,2
+Aequorivita sublithincola,25,0,2
+Aerococcus christensenii,30,0,3
+Aerococcus sanguicola,37,0,4
+Aerococcus suis,30,0,3
+Aerococcus urinae,30,0,3
+Aerococcus urinaehominis,37,0,4
+Aerococcus viridans,30,0,3
+Aeromicrobium flavum,25,0,2
+Aeromicrobium marinum,22,0,2
+Aeromicrobium tamlense,30,0,3
+Aeromonas allosaccharophila,30,0,3
+Aeromonas australiensis,30,0,3
+Aeromonas bestiarum,30,0,3
+Aeromonas bivalvium,30,0,3
+Aeromonas caviae,30,0,3
+Aeromonas culicicola,30,0,3
+Aeromonas diversa,37,0,4
+Aeromonas encheleia,30,0,3
+Aeromonas enteropelogenes,37,1.4,4
+Aeromonas eucrenophila,30,0,3
+Aeromonas fluvialis,30,0,3
+Aeromonas hydrophila anaerogenes,30,0,3
+Aeromonas hydrophila dhakensis,30,0,3
+Aeromonas hydrophila helicae,30,0,3
+Aeromonas hydrophila hydrophila,30,0,3
+Aeromonas hydrophila ranae,30,0,3
+Aeromonas ichthiosmia,30,0,3
+Aeromonas jandaei,30,0,3
+Aeromonas media,25,0,2
+Aeromonas molluscorum,30,0,3
+Aeromonas popoffii,30,0,3
+Aeromonas punctata,30,0,3
+Aeromonas rivuli,30,0,3
+Aeromonas salmonicida,30,0,3
+Aeromonas salmonicida achromogenes,22,0,2
+Aeromonas salmonicida masoucida,22,0,2
+Aeromonas salmonicida pectinolytica,30,0,3
+Aeromonas salmonicida salmonicida,30,1.428571429,3
+Aeromonas salmonicida smithia,22,0,2
+Aeromonas sanarelii,30,0,3
+Aeromonas schubertii,22,0,2
+Aeromonas sharmana,30,0,3
+Aeromonas simiae,30,0,3
+Aeromonas sobria,30,0,3
+Aeromonas taiwanensis,30,0,3
+Aeromonas tecta,30,0,3
+Aeromonas veronii,30,0,3
+Aerospaera taetra,37,0,4
+Aestuariibacter halophilus,30,0,3
+Aestuariibacter salexigens,30,0,3
+Aestuariimicrobium kwangyangense,30,0,3
+Afipia birgiae,25,0,2
+Afipia broomeae,30,0,3
+Afipia clevelandensis,30,0,3
+Afipia felis,30,0,3
+Afipia genomospecies 1,30,0,3
+Afipia genomospecies 2,30,0,3
+Afipia genomospecies 3,30,0,3
+Afipia genomospecies 3-related strain,25,0,2
+Afipia massiliensis,25,0,2
+Afipia quartiernordensis,37,0,4
+Afipia saintantoinensis,30,0,3
+Agarivorans albus,25,0,2
+Aggregatibacter actinomycetemcomitans,37,0,4
+Aggregatibacter aphrophilus,37,0,4
+Aggregatibacter segnis,37,0,4
+Aggregatibacter simiae,37,0,4
+Agreia bicolorata,25,0,2
+Agreia pratensis,30,0,3
+Agrobacterium tumefaciens,30,0,3
+Agrococcus baldri,25,0,2
+Agrococcus casei,30,0,3
+Agrococcus citreus,30,0,3
+Agrococcus jenensis,30,0,3
+Agrococcus lahaulensis,30,0,3
+Agromyces albus,30,0,3
+Agromyces allii,30,0,3
+Agromyces aurantiacus,30,0,3
+Agromyces bracchium,30,0,3
+Agromyces cerinus cerinus,30,0,3
+Agromyces cerinus nitratus,30,0,3
+Agromyces fucosus,30,0,3
+Agromyces hippuratus,30,0,3
+Agromyces humatus,30,0,3
+Agromyces italicus,30,0,3
+Agromyces lapidis,30,0,3
+Agromyces luteolus,30,0,3
+Agromyces mediolanus,30,0,3
+Agromyces psychrophilus,25,0,2
+Agromyces rhizospherae,25,0,2
+Agromyces salentinus,30,0,3
+Agromyces subbeticus,30,0,3
+Agromyces ulmi,30,0,3
+Ahrensia kielensis,25,0,2
+Akkermansia muciniphila,37,0,4
+Alcaligenes aquatilis,30,0,3
+Alcaligenes faecalis faecalis,30,0,3
+Alcaligenes faecalis parafaecalis,30,0,3
+Alcaligenes faecalis phenolicus,30,0,3
+Alcaligenes tolerans,30,0,3
+Alcanivorax balearicus,30,0,3
+Alcanivorax borkumensis,30,0,3
+Alcanivorax venustensis,27.5,2.5,3
+Alcanivorax xenomutans,30,0,3
+Algibacter mikhailovii,25,0,2
+Algicola bacteriolytica,22,0,2
+Algicola sagamiensis,25,0,2
+Algoriphagus alkaliphilus,30,0,3
+Algoriphagus aquimarinus,30,0,3
+Algoriphagus chordae,25,0,2
+Algoriphagus halophilus,37,0,4
+Algoriphagus mannitolivorans,37,0,4
+Algoriphagus ornithinivorans,37,0,4
+Algoriphagus ratkowskyi,10,0,1
+Algoriphagus terrigena,25,0,2
+Algoriphagus winogradskyi,25,0,2
+Algoriphagus yeomjeoni,30,0,3
+Alicycliphilus denitrificans,30,0,3
+Alicyclobacillus acidiphilus,45,0,4
+Alicyclobacillus acidocaldarius acidocaldarius,55,0,5
+Alicyclobacillus acidoterrestris,50,0,5
+Alicyclobacillus hesperidum,55,0,5
+Alicyclobacillus pomorum,45,0,4
+Aliivibrio fischeri,25,1,2
+Aliivibrio logei,15,0,2
+Aliivibrio salmonicida,15,0,2
+Aliivibrio wodanis,15,0,2
+Alishewanella fetalis,37,0,4
+Alistipes finegoldii,37,0,4
+Alistipes putredinis,37,0,4
+Alkalibacillus haloalkaliphilus,30,0,3
+Alkalibacillus salilacus,30,0,3
+Alkalibacillus silvisoli,37,0,4
+Alkalibacterium iburiense,37,0,4
+Alkalibacterium olivapovliticus,25,0,2
+Alkalibacterium psychrotolerans,25,0,2
+Alkalimonas collagenimarina,30,0,3
+Allisonella histaminiformans,37,0,4
+Allofustis seminis,37,0,4
+Alloiococcus otitis,37,0,4
+Allomonas enterica,30,0,3
+Allorhizobium vitis,30,0,3
+Alloscardovia omnicolens,37,0,4
+Altererythrobacter luteolus,30,0,3
+Altererythrobacter xinjiangensis,30,0,3
+Alterococcus agarolyticus,45,0,4
+Alteromonas addita,30,0,3
+Alteromonas alvinellae,25,0,2
+Alteromonas australis,25,0,2
+Alteromonas hispanica,25,0,2
+Alteromonas litorea,30,0,3
+Alteromonas macleodii,25,0,2
+Alteromonas marina,30,0,3
+Alteromonas stellipolaris,25,0,2
+Alysiella crassa,37,0,4
+Alysiella filiformis,37,0,4
+Amachitinus urslacii,20,0,2
+Amachitinus urslacii Doublon 110167,30,0,3
+Amaricoccus kaplicensis,25,0,2
+Amaricoccus macauensis,25,0,2
+Amaricoccus tamworthensis,25,0,2
+Amaricoccus veronensis,25,0,2
+Aminobacter aminovorans,30,0,3
+Aminobacter ciceronei,25,0,2
+Aminobacter lissarensis,25,0,2
+Ammoniphilus oxalaticus,30,0,3
+Ammoniphilus oxalivorans,30,0,3
+Amoebinatus massiliae,30,0,3
+Amycolatopsis australiensis,30,0,3
+Amycolatopsis balhimycina,30,0,3
+Amycolatopsis decaplanina,30,0,3
+Amycolatopsis echigonensis,30,0,3
+Amycolatopsis eurytherma,37,0,4
+Amycolatopsis japonica,30,0,3
+Amycolatopsis kentuckyensis,30,0,3
+Amycolatopsis keratiniphila keratiniphila,30,0,3
+Amycolatopsis lexingtonensis,30,0,3
+Amycolatopsis mediterranei,30,0,3
+Amycolatopsis minnesotensis,30,0,3
+Amycolatopsis nigrescens,30,0,3
+Amycolatopsis orientalis orientalis,30,0,3
+Amycolatopsis palatopharynghis,37,0,4
+Amycolatopsis pretoriensis,30,0,3
+Amycolatopsis rubida,30,0,3
+Amycolatopsis sacchari,30,0,3
+Amycolatopsis thermoflava,45,0,4
+Amycolatopsis tolypomycina,30,0,3
+Anabaena,22,0,2
+Anabaenopsis,22,0,2
+Anaeroarcus burkinensis,37,0,4
+Anaerococcus hydrogenalis,37,0,4
+Anaerococcus lactolyticus,37,0,4
+Anaerococcus massiliensis,37,0,4
+Anaerococcus octavius,37,0,4
+Anaerococcus prevotii,37,0,4
+Anaerococcus tetradius,37,0,4
+Anaerococcus vaginalis,37,0,4
+Anaerocolumna aminovalerica,37,0,4
+Anaerofustis stercorihominis,37,0,4
+Anaeroglobus geminatus,37,0,4
+Anaerostipes caccae,37,0,4
+Anaerotruncus colihominis,37,0,4
+Anaerovibrio lipolyticus,37,0,4
+Ancylobacter polymorphus,30,0,3
+Ancylobacter rudongensis,30,0,3
+Ancylobacter vacuolatus,30,0,3
+Anderseniella baltica,25,0,2
+Aneurinibacillus aneurinilyticus,30,0,3
+Aneurinibacillus danicus,45,0,4
+Aneurinibacillus migulanus,30,0,3
+Aneurinibacillus terranovensis,37,0,4
+Aneurinibacillus thermoaerophilus,55,0,5
+Angulomicrobium amanitiforme,30,0,3
+Anoxybacillus amylolyticus,60,0,5
+Anoxybacillus kamchatkensis asaccharedens,50,0,5
+Antarctobacter heliothermus,22,0,2
+Aphanizomenon,22,0,2
+Aquabacterium citratiphilum,30,0,3
+Aquabacterium commune,30,0,3
+Aquabacterium parvum,25,0,2
+Aquamicrobium defluvii,30,0,3
+Aquamicrobium lusatiense,30,0,3
+Aquaspirillum arcticum,6,0,1
+Aquaspirillum bipunctata,30,0,3
+Aquaspirillum denitrificans,30,0,3
+Aquaspirillum elegans,30,0,3
+Aquaspirillum polymorphum,25,0,2
+Aquaspirillum putridiconchylium,25,0,2
+Aquaspirillum serpens,25,0,2
+Aquicella lusitana,37,0,4
+Aquicella siphonis,37,0,4
+Aquiflexum balticum,30,0,3
+Aquimarina latercula,25,0,2
+Aquimonas voraii,30,0,3
+Aquincola tertiaricarbonis,30,0,3
+Aquisalimonas asiatica,37,0,4
+Arcanobacterium bernardiae,37,0,4
+Arcanobacterium canis,37,0,4
+Arcanobacterium haemolyticum,30,3.230769231,3
+Arcanobacterium hippocoleae,37,0,4
+Arcanobacterium phocae,37,0,4
+Arcanobacterium phocisimile,30,0,3
+Arcanobacterium pluranimalium,30,0,3
+Arcanobacterium pyogenes,37,0,4
+Arcicella aquatica,25,0,2
+Arcobacter butzleri,37,0,4
+Arcobacter cryaerophilus,33.5,3.5,4
+Arcobacter halophilus,22,0,2
+Arcobacter mytili,30,0,3
+Arcobacter nitrofigilis,37,0,4
+Arcobacter skirrowii,37,0,4
+Arcobacter trophiarum,30,0,3
+Arcticbacteria svalbardensis,25,0,2
+Arenibacter certesii,30,0,3
+Arenibacter latericius,30,0,3
+Arenibacter palladensis,25,0,2
+Arenibacter troitsensis,25,0,2
+Arenimonas composti,30,0,3
+Arenimonas malthae,30,0,3
+Arhodomonas aquaeolei,30,0,3
+Aromatoleum alkani,30,0,3
+Aromatoleum evansii,30,0,3
+Aromatoleum petroleum,30,0,3
+Aromatoleum tolulyticus,30,0,3
+Aromatoleum toluolicum,30,0,3
+Aromatoleum toluvorans,30,0,3
+Arsenicicoccus bolidensis,37,0,4
+Arsenophonus nasoniae,30,0,3
+Arthrobacter agilis,25,0,2
+Arthrobacter castelli,30,0,3
+Arthrobacter citreus,30,0,3
+Arthrobacter cryoconiti,20,0,2
+Arthrobacter crystallopoietes,30,0,3
+Arthrobacter cupressi,30,0,3
+Arthrobacter flavus,25,0,2
+Arthrobacter gandavensis,30,0,3
+Arthrobacter globiformis,26,4,2
+Arthrobacter koreensis,30,0,3
+Arthrobacter luteolus,30,0,3
+Arthrobacter monumenti,30,0,3
+Arthrobacter nasiphocae,30,0,3
+Arthrobacter oxydans,30,0,3
+Arthrobacter parietis,25,0,2
+Arthrobacter pascens,30,0,3
+Arthrobacter pigmenti,25,0,2
+Arthrobacter psychrolactophilus,25,0,2
+Arthrobacter psychrophenolicus,30,0,3
+Arthrobacter ramosus,30,0,3
+Arthrobacter rhombi,30,0,3
+Arthrobacter roseus,22,0,2
+Arthrobacter russicus,30,0,3
+Arthrobacter stackebrandtii,30,0,3
+Arthrobacter tumbae,30,0,3
+Arthrobacter viscosus,30,0,3
+Arthrobacter woluwensis,37,0,4
+Arthrospira,22,0,2
+Asaia siamensis,30,0,3
+Asanoa ferruginea,30,0,3
+Asanoa ishikariensis,30,0,3
+Asticcacaulis biprosthecium,30,0,3
+Asticcacaulis excentricus,30,0,3
+Asticcacaulis taihuensis,30,0,3
+Atopobacter phocae,37,0,4
+Atopobium fossor,37,0,4
+Atopobium minutum,37,0,4
+Atopobium parvulum,37,0,4
+Atopobium rimae,37,0,4
+Atopobium vaginae,37,0,4
+Atopococcus tabaci,30,0,3
+Aurantimonas coralicida,25,0,2
+Aureimonas galii,25,0,2
+Aureimonas ureilytica,30,0,3
+Aureispira maritima,30,0,3
+Austwickia chelonae,30,0,3
+Avibacterium avium,37,0,4
+Avibacterium endocarditidis,37,0,4
+Avibacterium gallinarum,37,0,4
+Avibacterium paragallinarum,37,0,4
+Avibacterium volantium,37,0,4
+Azohydromonas australica,30,0,3
+Azohydromonas lata,30,0,3
+Azomonas macrocytogenes,26,0,2
+Azorhizobium caulinodans,30,0,3
+Azospirillum canadense,30,0,3
+Azospirillum irakense,30,0,3
+Azospirillum lipoferum,30,0,3
+Azospirillum oryzae,30,0,3
+Azotobacter beijerinckii,30,0,3
+Azotobacter chroococcum,30,0,3
+Azotobacter vinelandii,30,0,3
+Bacillus acidiceler,30,0,3
+Bacillus acidicola,37,0,4
+Bacillus acidovorans,30,0,3
+Bacillus akibai,37,0,4
+Bacillus alcalophilus,30,0,3
+Bacillus algicola,30,0,3
+Bacillus alkalitelluris,30,0,3
+Bacillus alveayuensis,55,0,5
+Bacillus alvei  ,0,0,0
+Bacillus aminovorans,30,0,3
+Bacillus amyloliquefaciens,30,0,3
+Bacillus amyloliquefaciens ,30,0,3
+Bacillus aquimaris,30,0,3
+Bacillus asahii,30,0,3
+Bacillus atrophaeus,30,0,3
+Bacillus aurantiacus,25,0,2
+Bacillus azotoformans,30,0,3
+Bacillus badius,30,0,3
+Bacillus badius  ,0,0,0
+Bacillus bataviensis,30,0,3
+Bacillus benzoevorans,30,0,3
+Bacillus bingmayongensis,30,0,3
+Bacillus brevis  ,0,0,0
+Bacillus caldolyticus  ,0,0,0
+Bacillus caldovelox  ,0,0,0
+Bacillus carboniphilus,30,0,3
+Bacillus cellulosilyticus,37,0,4
+Bacillus cereus,30,0.15625,3
+Bacillus cereus-like,40,0,4
+Bacillus cereus  ,0,0.031217482,0
+Bacillus chagannorensis,37,0,4
+Bacillus cibi,37,0,4
+Bacillus circulans,30,0,3
+Bacillus clarkii,30,0,3
+Bacillus clausii,30,0,3
+Bacillus coagulans,37,2.8,4
+Bacillus cohnii,30,0,3
+Bacillus crassostreae,30,0,3
+Bacillus cytotoxicus,30,0,3
+Bacillus decolorationis,30,0,3
+Bacillus drentensis,30,0,3
+Bacillus endophyticus,30,0,3
+Bacillus farraginis,30,0,3
+Bacillus firmus,30,0,3
+Bacillus flexus,30,0,3
+Bacillus foraminis,37,0,4
+Bacillus fordii,30,0,3
+Bacillus fortis,30,0,3
+Bacillus fumarioli,50,0,5
+Bacillus funiculus,30,0,3
+Bacillus gaemokensis,30,0,3
+Bacillus galactosidilyticus,30,0,3
+Bacillus gibsonii,30,0,3
+Bacillus halmapalus,30,0,3
+Bacillus halodurans,30,0,3
+Bacillus halotolerans,30,0,3
+Bacillus hemicellulosilyticus,37,0,4
+Bacillus herbersteinensis,30,0,3
+Bacillus horikoshii,30,0,3
+Bacillus horneckiae,30,0,3
+Bacillus horti,30,0,3
+Bacillus hwajinpoensis,30,0,3
+Bacillus idriensis,37,0,4
+Bacillus indicus,30,0,3
+Bacillus infantis,37,0,4
+Bacillus isabeliae,37,0,4
+Bacillus jeotgali,30,0,3
+Bacillus koreensis,30,0,3
+Bacillus krulwichiae,30,0,3
+Bacillus lehensis,25,0,2
+Bacillus lentus,30,0,3
+Bacillus licheniformis,30,1.259259259,3
+Bacillus litoralis,37,0,4
+Bacillus luciferensis,30,0,3
+Bacillus manliponensis,30,0,3
+Bacillus mannanilyticus,37,0,4
+Bacillus marisflavi,30,0,3
+Bacillus maroccanus,30,0,3
+Bacillus megaterium,30,0,3
+Bacillus mojavensis,37,0,4
+Bacillus mycoides,30,0,3
+Bacillus nealsonii,30,0,3
+Bacillus niabensis,30,0,3
+Bacillus niacini,30,0,3
+Bacillus nitritollens,30,0,3
+Bacillus novalis,30,0,3
+Bacillus oceanisediminis,30,0,3
+Bacillus odysseyi,30,0,3
+Bacillus okhensis,37,0,4
+Bacillus okuhidensis,45,0,4
+Bacillus oleronius,30,0,3
+Bacillus oshimensis,30,0,3
+Bacillus pacificus,30,0,3
+Bacillus panaciterrae,30,0,3
+Bacillus paraflexus,30,0,3
+Bacillus patagoniensis,30,0,3
+Bacillus pseudoalcaliphilus,30,0,3
+Bacillus pseudofirmus,30,0,3
+Bacillus pseudogordonae,30,0,3
+Bacillus pseudomegaterium,30,0,3
+Bacillus pseudomycoides,30,0,3
+Bacillus psychrosaccharolyticus,20,0,2
+Bacillus pumilus,30,0,3
+Bacillus qingdaonensis,37,0,4
+Bacillus racemilacticus,30,0,3
+Bacillus rigui,30,0,3
+Bacillus ruris,30,0,3
+Bacillus safensis,33.5,3.5,4
+Bacillus salarius,30,0,3
+Bacillus seohaeanensis,37,0,4
+Bacillus shackletonii,30,0,3
+Bacillus siamensis,37,0,4
+Bacillus simplex,30,0,3
+Bacillus siralis,30,0,3
+Bacillus smithii,55,0,5
+Bacillus soli,30,0,3
+Bacillus sonorensis,30,0,3
+Bacillus sphaericus,30,0,3
+Bacillus sphaericus  ,0,0,0
+Bacillus sphaericus  H1,0,0,0
+Bacillus sphaericus  H10,0,0,0
+Bacillus sphaericus  H11,0,0,0
+Bacillus sphaericus  H11A,0,0,0
+Bacillus sphaericus  H12,0,0,0
+Bacillus sphaericus  H13,0,0,0
+Bacillus sphaericus  H14,0,0,0
+Bacillus sphaericus  H15,0,0,0
+Bacillus sphaericus  H16,0,0,0
+Bacillus sphaericus  H17,0,0,0
+Bacillus sphaericus  H18,0,0,0
+Bacillus sphaericus  H19,0,0,0
+Bacillus sphaericus  H1A,0,0,0
+Bacillus sphaericus  H2,0,0,0
+Bacillus sphaericus  H20,0,0,0
+Bacillus sphaericus  H21,0,0,0
+Bacillus sphaericus  H22,0,0,0
+Bacillus sphaericus  H23,0,0,0
+Bacillus sphaericus  H24,0,0,0
+Bacillus sphaericus  H25,0,0,0
+Bacillus sphaericus  H26,0,0,0
+Bacillus sphaericus  H26A,0,0,0
+Bacillus sphaericus  H26B,0,0,0
+Bacillus sphaericus  H27,0,0,0
+Bacillus sphaericus  H28,0,0,0
+Bacillus sphaericus  H29,0,0,0
+Bacillus sphaericus  H2A,0,0,0
+Bacillus sphaericus  H3,0,0,0
+Bacillus sphaericus  H30,0,0,0
+Bacillus sphaericus  H31,0,0,0
+Bacillus sphaericus  H32,0,0,0
+Bacillus sphaericus  H33,0,0,0
+Bacillus sphaericus  H34,0,0,0
+Bacillus sphaericus  H35,0,0,0
+Bacillus sphaericus  H36,0,0,0
+Bacillus sphaericus  H37,0,0,0
+Bacillus sphaericus  H38,0,0,0
+Bacillus sphaericus  H39,0,0,0
+Bacillus sphaericus  H40,0,0,0
+Bacillus sphaericus  H41,0,0,0
+Bacillus sphaericus  H42,0,0,0
+Bacillus sphaericus  H43,0,0,0
+Bacillus sphaericus  H44,0,0,0
+Bacillus sphaericus  H45,0,0,0
+Bacillus sphaericus  H46,0,0,0
+Bacillus sphaericus  H47,0,0,0
+Bacillus sphaericus  H48,0,0,0
+Bacillus sphaericus  H4A,0,0,0
+Bacillus sphaericus  H5,0,0,0
+Bacillus sphaericus  H50,0,0,0
+Bacillus sphaericus  H5A,0,0,0
+Bacillus sphaericus  H6,0,0,0
+Bacillus sphaericus  H7,0,0,0
+Bacillus sphaericus  H8,0,0,0
+Bacillus sphaericus  H9,0,0,0
+Bacillus sphaericus  H9A,0,0,0
+Bacillus sphaericus H25,0,0,0
+Bacillus sphaericus SPH-88,0,0,0
+Bacillus sporothermodurans,30,0,3
+Bacillus subtilis,30,0,3
+Bacillus subtilis spizizenii,30,0,3
+Bacillus subtilis subtilis,30,0,3
+Bacillus taeanensis,30,0,3
+Bacillus tequilensis,30,0,3
+Bacillus thermoamylovorans,30,0,3
+Bacillus thioparans,25,0,2
+Bacillus thuringiensis,30,0,3
+Bacillus thuringiensis  aizawai,0,0,0
+Bacillus thuringiensis  alesti,0,0,0
+Bacillus thuringiensis  amagiensis,0,0,0
+Bacillus thuringiensis  andalousiensis,0,0,0
+Bacillus thuringiensis  andaluciensis,0,0,0
+Bacillus thuringiensis  Auto-agglutinated,0,0,0
+Bacillus thuringiensis  azorensis,0,0,0
+Bacillus thuringiensis  bolivia,0,0,0
+Bacillus thuringiensis  cameroun,0,0,0
+Bacillus thuringiensis  canadensis,0,0,0
+Bacillus thuringiensis  chanpaisis,0,0,0
+Bacillus thuringiensis  colmeri,0,0,0
+Bacillus thuringiensis  coreanensis,0,0,0
+Bacillus thuringiensis  dakota,0,0,0
+Bacillus thuringiensis  darmstadiensis,0,0,0
+Bacillus thuringiensis  entomocidus,0,0,0
+Bacillus thuringiensis  entomocidus biotype subtoxi,0,0,0
+Bacillus thuringiensis  finitimus,0,0,0
+Bacillus thuringiensis  fukuokaensis,0,0,0
+Bacillus thuringiensis  galleriae,0,0,0
+Bacillus thuringiensis  guiyangiensis,0,0,0
+Bacillus thuringiensis  higo,0,0,0
+Bacillus thuringiensis  huazhongensis,0,0,0
+Bacillus thuringiensis  iberica,0,0,0
+Bacillus thuringiensis  indiana,0,0,0
+Bacillus thuringiensis  israelensis,0,0,0
+Bacillus thuringiensis  japonensis,0,0,0
+Bacillus thuringiensis  jegathesan,0,0,0
+Bacillus thuringiensis  jinghongiensis,0,0,0
+Bacillus thuringiensis  kenyae,0,0,0
+Bacillus thuringiensis  kim,0,0,0
+Bacillus thuringiensis  konkukian,0,0,0
+Bacillus thuringiensis  kumamotoensis,0,0,0
+Bacillus thuringiensis  kurstaki,0,0,0
+Bacillus thuringiensis  kyushuensis,0,0,0
+Bacillus thuringiensis  leesis,0,0,0
+Bacillus thuringiensis  londrina,0,0,0
+Bacillus thuringiensis  malaysiensis,0,0,0
+Bacillus thuringiensis  medellin,0,0,0
+Bacillus thuringiensis  mexicanensis,0,0,0
+Bacillus thuringiensis  monterrey,0,0,0
+Bacillus thuringiensis  morrisoni,0,0,0
+Bacillus thuringiensis  muju,0,0,0
+Bacillus thuringiensis  neoleonensis,0,0,0
+Bacillus thuringiensis  nigeriensis,0,0,0
+Bacillus thuringiensis  novosibirsk,0,0,0
+Bacillus thuringiensis  ostriniae,0,0,0
+Bacillus thuringiensis  oswaldocruzi,0,0,0
+Bacillus thuringiensis  pakistani,0,0,0
+Bacillus thuringiensis  pirenaica,0,0,0
+Bacillus thuringiensis  poloniensis,0,0,0
+Bacillus thuringiensis  rongseni,0,0,0
+Bacillus thuringiensis  roskildiensis,0,0,0
+Bacillus thuringiensis  seoulensis,0,0,0
+Bacillus thuringiensis  shandongiensis,0,0,0
+Bacillus thuringiensis  silo,0,0,0
+Bacillus thuringiensis  sinensis,0,0,0
+Bacillus thuringiensis  sooncheon,0,0,0
+Bacillus thuringiensis  sotto,0,0,0
+Bacillus thuringiensis  sotto biotype dendrolimus,0,0,0
+Bacillus thuringiensis  sumiyoshiensis,0,0,0
+Bacillus thuringiensis  thompsoni,0,0,0
+Bacillus thuringiensis  thuringiensis,0,0,0
+Bacillus thuringiensis  tochigiensis,0,0,0
+Bacillus thuringiensis  tohokuensis,0,0,0
+Bacillus thuringiensis  tolworthi,0,0,0
+Bacillus thuringiensis  toumanoffi,0,0,0
+Bacillus thuringiensis  wratislaviensis,0,0,0
+Bacillus thuringiensis  xiaguangiensis,0,0,0
+Bacillus thuringiensis  yunnanensis,0,0,0
+Bacillus thuringiensis  zhaodongensis,0,0,0
+Bacillus thuringiensis israelensis IPS-82,0,0,0
+Bacillus vallismortis,30,0,3
+Bacillus vedderi,30,0,3
+Bacillus vietnamensis,30,0,3
+Bacillus vireti,30,0,3
+Bacillus viscosus,30,0,3
+Bacillus wakoensis,37,0,4
+Bacillus weihenstephanensis,30,0,3
+Bacillus zeae,30,0,3
+Bacillus zvezdaensis,37,0,4
+Bacteroïdes fragilis,37,0,4
+Bacteroides caccae,37,0,4
+Bacteroides eggerthii,37,0,4
+Bacteroides fragilis,37,3.7,4
+Bacteroides massiliensis,37,0,4
+Bacteroides merdae,37,0,4
+Bacteroides ovatus,37,0,4
+Bacteroides stercoris,37,0,4
+Bacteroides thetaiotaomicron,37,0,4
+Bacteroides uniformis,37,0,4
+Bacteroides vulgatus,37,0,4
+Balneatrix alpica,30,0,3
+Balneola alkaliphila,30,0,3
+Balneola vulgaris,25,0,2
+Bartonella alsatica,37,0,4
+Bartonella australis,37,0,4
+Bartonella bacilliformis,30,0,3
+Bartonella birtlesii,37,0,4
+Bartonella bovis,37,0,4
+Bartonella capreoli,37,0,4
+Bartonella chomelii,37,0,4
+Bartonella clarridgeiae,37,0,4
+Bartonella coopersplainsensis,37,0,4
+Bartonella doshiae,37,0,4
+Bartonella elizabethae,37,0,4
+Bartonella grahamii,37,0,4
+Bartonella henselae,37,0,4
+Bartonella japonica,37,0,4
+Bartonella koehlerae,37,0,4
+Bartonella phoceensis,37,0,4
+Bartonella queenslandensis,37,0,4
+Bartonella quintana,37,0,4
+Bartonella rattaustraliani,37,0,4
+Bartonella rattimassiliensis,37,0,4
+Bartonella schoenbuchensis,37,0,4
+Bartonella silvatica,37,0,4
+Bartonella taylorii,37,0,4
+Bartonella tribocorum,37,0,4
+Bartonella vinsonii arupensis,37,0,4
+Bartonella vinsonii berkhoffii,37,0,4
+Bartonella vinsonii vinsonii,37,0,4
+Basilea psittacipulmonis,30,0,3
+Bdellovibrio bacteriovorus,30,0,3
+Beijerinckia fluminensis,30,0,3
+Belliella baltica,30,0,3
+Bergeriella denitrificans,37,0,4
+Bergeyella zoohelcum,30,0,3
+Beutenbergia cavernae,30,0,3
+Bhargavaea ullalensis,25,0,2
+Bibersteinia trehalosi,37,0,4
+Bibersteinia trehalosi 10,37,0,4
+Bifidobacterium adolescentis,37,0,4
+Bifidobacterium animalis,37,0,4
+Bifidobacterium bifidum,37,0,4
+Bifidobacterium breve,37,0,4
+Bifidobacterium catenulatum,37,0,4
+Bifidobacterium cuniculi,37,0,4
+Bifidobacterium dentium,37,0,4
+Bifidobacterium gallicum,37,0,4
+Bifidobacterium lactis,37,0,4
+Bifidobacterium longum,37,0,4
+Bifidobacterium longum infantis,37,0,4
+Bifidobacterium longum longum,37,0,4
+Bifidobacterium longum suis,37,0,4
+Bifidobacterium pseudocatenulatum,37,0,4
+Bifidobacterium pseudolongum pseudolongum,37,0,4
+Bifidobacterium pullorum,37,0,4
+Bifidobacterium scardovii,37,0,4
+Bifidobacterium thermophilum,37,0,4
+Biostraticola tofi,25,0,2
+Bisgaardia hudsonensis,37,0,4
+Bizionia algoritergicola,22,0,2
+Bizionia gelidisalsuginis,20,0,2
+Bizionia myxarmorum,25,0,2
+Bizionia saleffrena,22,0,2
+Blastochloris viridis,22,0,2
+Blastomonas ursincola,25,0,2
+Blautia schinkii,37,0,4
+Bogoriella caseilytica,30,0,3
+Bordetella avium,30,2.333333333,3
+Bordetella bronchialis,37,0,4
+Bordetella bronchiseptica,37,3.15,4
+Bordetella hinzii,37,0,4
+Bordetella holmesii,37,0,4
+Bordetella parapertussis,37,0,4
+Bordetella pertussis,37,0,4
+Bordetella petrii,37,0,4
+Bordetella sputigena,37,0,4
+Bordetella trematum,30,0,3
+Borrelia bissettii,34,0,4
+Borrelia burgdorferi,34,0,4
+Borrelia californiensis,34,0,4
+Borrelia lusitaniae,30,0,3
+Borrelia spielmanii,30,0,3
+Bosea eneae,30,0,3
+Bosea lausannensis,30,0,3
+Bosea massiliensis,30,0,3
+Bosea minatitlanensis,30,0,3
+Bosea vestrisii,30,0,3
+Brachybacterium alimentarium,30,0,3
+Brachybacterium conglomeratum,30,0,3
+Brachybacterium faecium,30,0,3
+Brachybacterium fresconis,30,0,3
+Brachybacterium muris,37,0,4
+Brachybacterium nesterenkovii,30,0,3
+Brachybacterium rhamnosum,30,0,3
+Brachybacterium sacelli,30,0,3
+Brachybacterium tyrofermentans,30,0,3
+Brachyspira alvinipulli,37,0,4
+Brachyspira intermedia,37,0,4
+Brachyspira murdochii,37,0,4
+Brackiella oedipodis,37,0,4
+Bradyrhizobium japonicum,25,0,2
+Bradyrhizobium liaoningense,30,0,3
+Bradyrhizobium yuanmingense,30,0,3
+Branhamella catarrhalis,30,0.714285714,3
+Branhamella caviae,30,0,3
+Branhamella cuniculi,30,0,3
+Branhamella ovis,30,0,3
+Brenneria alni,30,0,3
+Brenneria nigrifluens,25,0,2
+Brenneria quercina,25,0,2
+Brenneria rubrifaciens,25,0,2
+Brenneria salicis,25,0,2
+Brevibacillus agri,37.5,7.5,4
+Brevibacillus borstelensis,30,0,3
+Brevibacillus brevis,30,0,3
+Brevibacillus centrosporus,30,0,3
+Brevibacillus choshinensis,30,0,3
+Brevibacillus formosus,30,0,3
+Brevibacillus invocatus,30,0,3
+Brevibacillus laterosporus,30,0,3
+Brevibacillus levickii,37,0,4
+Brevibacillus limnophilus,37,0,4
+Brevibacillus parabrevis,30,0,3
+Brevibacillus reuszeri,30,0,3
+Brevibacillus thermoruber,45,0,4
+Brevibacterium aurantiacum,30,0,3
+Brevibacterium avium,30,0,3
+Brevibacterium casei,30,0,3
+Brevibacterium celere,25,0,2
+Brevibacterium epidermidis,30,0,3
+Brevibacterium frigoritolerans,25,0,2
+Brevibacterium genomospecies 1,30,0,3
+Brevibacterium genomospecies 3,30,0,3
+Brevibacterium iodinum,30,0,3
+Brevibacterium linens,30,0,3
+Brevibacterium luteolum,37,0,4
+Brevibacterium massiliense,37,0,4
+Brevibacterium mcbrellneri,30,0,3
+Brevibacterium oceani,25,0,2
+Brevibacterium otitidis,30,0,3
+Brevibacterium paucivorans,37,0,4
+Brevibacterium permense,30,0,3
+Brevibacterium picturae,30,0,3
+Brevibacterium sanguinis,37,0,4
+Brevifollis gellanilyticus,30,0,3
+Brevundimonas abyssalis,20,0,2
+Brevundimonas aurantiaca,30,0,3
+Brevundimonas bacteroides,30,0,3
+Brevundimonas diminuta,30,0,3
+Brevundimonas intermedia,30,0,3
+Brevundimonas kwangchunensis,30,0,3
+Brevundimonas mediterranea,30,0,3
+Brevundimonas nasdae,30,0,3
+Brevundimonas subvibrioides,30,0,3
+Brevundimonas terrae,30,0,3
+Brevundimonas variabilis,30,0,3
+Brevundimonas vesicularis,25,0,2
+Brochothrix campestris,22,0,2
+Brochothrix thermosphacta,22,0.375,2
+Brumimicrobium glaciale,10,0,1
+Budvicia aquatica,22,0,2
+Bulleidia extructa,37,0,4
+Burkholderia ambifaria,30,0,3
+Burkholderia anthina,30,0,3
+Burkholderia cenocepacia,30,0,3
+Burkholderia cepacia,30,0,3
+Burkholderia dolosa,30,0,3
+Burkholderia gladioli,30,1.666666667,3
+Burkholderia glumae,30,0,3
+Burkholderia multivorans,30,0,3
+Burkholderia oklahomensis,37,0,4
+Burkholderia plantarii,30,0,3
+Burkholderia pyrrocinia,30,0,3
+Burkholderia sp.,30,0,3
+Burkholderia stabilis,30,0,3
+Burkholderia thailandensis,30,0,3
+Burkholderia tropicalis,30,0,3
+Burkholderia ubonensis,30,0,3
+Burkholderia vietnamiensis,30,0,3
+Buttiauxella agrestis,30,0,3
+Buttiauxella brennerae,30,0,3
+Buttiauxella ferragutiae,30,0,3
+Buttiauxella gaviniae,30,0,3
+Buttiauxella izardii,30,0,3
+Buttiauxella noackiae,30,0,3
+Buttiauxella warmboldiae,30,0,3
+Butyrivibrio hungatei,37,0,4
+Byssovorax cruenta,30,0,3
+Caballeronia glathei,30,0,3
+Caballeronia sordidicola,30,0,3
+Caldanaerobacter subterraneus pacificus,70,0,5
+Caldanaerobacter subterraneus subterraneus,65,0,5
+Caldimonas manganoxidans,45,0,4
+Calothrix,22,0,2
+Camelimonas abortus,30,0,3
+Campylobacter coli,37,0,4
+Campylobacter concisus,37,0,4
+Campylobacter cuniculorum,37,0,4
+Campylobacter curvus,37,0,4
+Campylobacter fetus fetus,37,0,4
+Campylobacter fetus venerealis,37,0,4
+Campylobacter helveticus,37,0,4
+Campylobacter hepaticus,37,0,4
+Campylobacter hominis,37,0,4
+Campylobacter hyointestinalis hyointestinalis,37,0,4
+Campylobacter hyointestinalis lawsonii,37,0,4
+Campylobacter insulaenigrae,37,0,4
+Campylobacter jejuni doylei,37,0,4
+Campylobacter jejuni jejuni,37,0,4
+Campylobacter lanienae,37,0,4
+Campylobacter lari,37,0,4
+Campylobacter lari lari,37,0,4
+Campylobacter lawrenci,37,0,4
+Campylobacter mucosalis,37,0,4
+Campylobacter rectus,37,0,4
+Campylobacter showae,37,0,4
+Campylobacter sputorum fecalis,37,0,4
+Campylobacter sputorum paraureolyticus,37,0,4
+Campylobacter sputorum sputorum,37,0,4
+Campylobacter upsaliensis,37,0,4
+Capnocytophaga canimorsus,37,0,4
+Capnocytophaga cynodegmi,37,0,4
+Capnocytophaga gingivalis,37,0,4
+Capnocytophaga granulosa,37,0,4
+Capnocytophaga haemolytica,37,0,4
+Capnocytophaga ochracea,37,0,4
+Capnocytophaga sputigena,37,0,4
+Carbophilus carboxidus,30,0,3
+Cardiobacterium hominis,37,0,4
+Cardiobacterium valvarum,37,0,4
+Carnimonas nigrificans,30,0,3
+Carnobacterium alterfunditum,20,0,2
+Carnobacterium divergens,30,0,3
+Carnobacterium funditum,22,0,2
+Carnobacterium gallinarum,22,0,2
+Carnobacterium inhibens inhibens,37,0,4
+Carnobacterium maltaromaticum,30,0,3
+Carnobacterium mobile,30,0,3
+Carnobacterium pleistocenium,22,0,2
+Carnobacterium viridans,25,0,2
+Castellaniella defragrans,30,0,3
+Castellaniella denitrificans,30,0,3
+Castellaniella hirudinis,25,0,2
+Catellatospora citrea citrea,30,0,3
+Catellatospora methionotrophica,30,0,3
+Catellicoccus marimammalium,37,0,4
+Catelliglobosispora koreensis,30,0,3
+Catenibacterium mitsuokai,37,0,4
+Catenulispora acidiphila,30,0,3
+Caulobacter henricii,30,0,3
+Caulobacter segnis,30,0,3
+Caulobacter vibrioides,30,0,3
+Cedecea davisae,30,0,3
+Cedecea genomospecies  3,30,0,3
+Cedecea lapagei,30,0,3
+Cedecea neteri,30,0,3
+Celeribacter neptunius,25,0,2
+Cellulomonas aerilata,30,0,3
+Cellulomonas biazotea,30,0,3
+Cellulomonas bibula,30,0,3
+Cellulomonas bogoriensis,30,0,3
+Cellulomonas cellasea,30,0,3
+Cellulomonas denverensis,37,0,4
+Cellulomonas fimi,30,0,3
+Cellulomonas flavigena,30,0,3
+Cellulomonas gelida,30,0,3
+Cellulomonas hominis,37,0,4
+Cellulomonas humilata,30,0,3
+Cellulomonas iranensis,30,0,3
+Cellulomonas persica,30,0,3
+Cellulomonas terrae,30,0,3
+Cellulomonas uda,30,0,3
+Cellulomonas xylanilytica,30,0,3
+Cellulophaga algicola,20,0,2
+Cellulophaga baltica,25,0,2
+Cellulophaga fucicola,25,0,2
+Cellulophaga lytica,25,0,2
+Cellulophaga pacifica,25,0,2
+Cellulosimicrobium cellulans,30,0,3
+Cellulosimicrobium funkei,30,0.875,3
+Cellvibrio mixtus mixtus,30,0,3
+Centipeda periodontii,37,0,4
+Cerasicoccus arenae,30,0,3
+Cesiribacter andamanensis,30,0,3
+Cetobacterium somerae,37,0,4
+Chamaesiphon,22,0,2
+Chelativorans intermedius,30,0,3
+Chelonobacter oris,37,0,4
+Chitinibacter tainanensis,30,0,3
+Chitinimonas koreensis,30,0,3
+Chitinophaga arvensicola,30,0,3
+Chitinophaga costaii,30,0,3
+Chitinophaga filiformis,30,0,3
+Chitinophaga japonensis,30,0,3
+Chitinophaga pinensis,22,0,2
+Chitinophaga sancti,25,1.666666667,2
+Chitinophaga skermanii,30,0,3
+Chitinophaga terrae,30,0,3
+Chlorobium luteolum,25,0,2
+Chlorogloeopsis,22,0,2
+Chromobacterium violaceum,30,2.285714286,3
+Chromohalobacter beijerinckii,25,0,2
+Chromohalobacter canadensis,30,0,3
+Chromohalobacter israelensis,30,0,3
+Chromohalobacter salexigens,37,0,4
+Chromohalobacter sarecensis,30,0,3
+Chroococcidiopsis,22,2.444444444,2
+Chroococcus,22,0,2
+Chryseobacerium hispalense,30,0,3
+Chryseobacter indologenes,25,0,2
+Chryseobacterium antarcticum,22,0,2
+Chryseobacterium anthropi,30,0,3
+Chryseobacterium aquifrigidense,30,0,3
+Chryseobacterium arachidis,30,0,3
+Chryseobacterium arothri,30,0,3
+Chryseobacterium arthrosphaerae,30,0,3
+Chryseobacterium balustinum,30,0,3
+Chryseobacterium bovis,30,0,3
+Chryseobacterium caeni,30,0,3
+Chryseobacterium chaponense,25,0,2
+Chryseobacterium contaminans,30,0,3
+Chryseobacterium culicis,30,0,3
+Chryseobacterium daecheongense,30,0,3
+Chryseobacterium daeguense,30,0,3
+Chryseobacterium defluvii,30,0,3
+Chryseobacterium elymi,30,0,3
+Chryseobacterium flavum,25,0,2
+Chryseobacterium formosense,30,0,3
+Chryseobacterium gallinarum,30,0,3
+Chryseobacterium gambrini,30,0,3
+Chryseobacterium geocarposphaerae,30,0,3
+Chryseobacterium ginsenosidimutans,30,0,3
+Chryseobacterium gleum,30,0,3
+Chryseobacterium greenlandense,25,0,2
+Chryseobacterium gregarium,25,0,2
+Chryseobacterium hagamense,30,0,3
+Chryseobacterium haifense,30,0,3
+Chryseobacterium hispanicum,30,0,3
+Chryseobacterium hominis,30,0,3
+Chryseobacterium humi,30,0,3
+Chryseobacterium hungaricum,30,0,3
+Chryseobacterium indologenes,30,0.416666667,3
+Chryseobacterium indoltheticum,25,5,2
+Chryseobacterium jejuense,30,0,3
+Chryseobacterium jeonii,22,0,2
+Chryseobacterium joostei,25,0,2
+Chryseobacterium koreense,30,0,3
+Chryseobacterium koreense ,30,0,3
+Chryseobacterium lathyri,30,0,3
+Chryseobacterium limigenitum,30,0,3
+Chryseobacterium luteum,30,0,3
+Chryseobacterium massiliae,30,0,3
+Chryseobacterium massiliensis,37,0,4
+Chryseobacterium molle,30,0,3
+Chryseobacterium oranimense,30,0,3
+Chryseobacterium palustre,30,0,3
+Chryseobacterium piscicola,15,0,2
+Chryseobacterium piscium,30,0,3
+Chryseobacterium profundimaris,30,0,3
+Chryseobacterium rhizosphaerae,30,0,3
+Chryseobacterium scophthalmum,30,0,3
+Chryseobacterium sediminis,30,0,3
+Chryseobacterium shigense,30,0,3
+Chryseobacterium soldanellicola,25,0,2
+Chryseobacterium soli,30,0,3
+Chryseobacterium solincola,30,0,3
+Chryseobacterium sp.,30,0,3
+Chryseobacterium taeanense,30,0,3
+Chryseobacterium taichungense,30,0,3
+Chryseobacterium taiwanense,30,0,3
+Chryseobacterium timonae,37,0,4
+Chryseobacterium treverense,37,0,4
+Chryseobacterium ureilyticum,30,0,3
+Chryseobacterium vrystaatense,25,0,2
+Chryseobacterium wanjuense,30,0,3
+Chryseobacterium zeae,30,0,3
+Citreimonas salinaria,30,0,3
+Citricoccus alkalitolerans,30,0,3
+Citricoccus muralis,30,0,3
+Citrobacter amalonaticus,30,1.4,3
+Citrobacter braakii,30,1,3
+Citrobacter europaeus,30,0,3
+Citrobacter farmeri,30,0,3
+Citrobacter freundii,30,0.777777778,3
+Citrobacter freundii pas de souche,30,0,3
+Citrobacter gillenii,33.5,3.5,4
+Citrobacter koseri,30,0,3
+Citrobacter murliniae,30,0,3
+Citrobacter pasteurii,30,0,3
+Citrobacter rodentium,30,0,3
+Citrobacter sedlakii,30,0,3
+Citrobacter werkmanii,30,0,3
+Citrobacter youngae,30,0,3
+Cloacibacterium normanense,37,0,4
+Clostridium amygdalinum-like,37,0,4
+Clostridium aurantibutyricum,37,0,4
+Clostridium barati,37,0,4
+Clostridium beijerinckii,37,0,4
+Clostridium bifermentans,37,0,4
+Clostridium bifermentans malaysia,37,0,4
+Clostridium bolteae,37,0,4
+Clostridium butyricum,37,0,4
+Clostridium cadaveris,37,0,4
+Clostridium carnis,37,0,4
+Clostridium celatum,37,0,4
+Clostridium chauvoei,37,0,4
+Clostridium clostridioforme,37,0,4
+Clostridium cochlearium,37,0,4
+Clostridium colicanis,37,0,4
+Clostridium difficile,37,0,4
+Clostridium difficile A,37,0,4
+Clostridium difficile C,37,0,4
+Clostridium difficile H,37,0,4
+Clostridium difficile K,37,0,4
+Clostridium diolis,37,0,4
+Clostridium estertheticum estertheticum,10,0,1
+Clostridium fimetarium,20,0,2
+Clostridium glycolicum,37,0,4
+Clostridium haemolyticum,37,0,4
+Clostridium hathewayi,37,0,4
+Clostridium histolyticum,37,0,4
+Clostridium hylemonae,37,0,4
+Clostridium isatidis,37,0,4
+Clostridium lavalense,37,0,4
+Clostridium neonatale,37,0,4
+Clostridium novyi,37,0,4
+Clostridium pascui,37,0,4
+Clostridium perfringens,37,0,4
+Clostridium perfringens A,37,0,4
+Clostridium perfringens B,37,0,4
+Clostridium perfringens C,37,0,4
+Clostridium perfringens D,37,0,4
+Clostridium perfringens E,37,0,4
+Clostridium perfringens unknown,37,0,4
+Clostridium putrificum,37,0,4
+Clostridium saccharolyticum,37,0,4
+Clostridium sardiniense,37,0,4
+Clostridium scindens,37,0,4
+Clostridium septicum,37,0,4
+Clostridium sordellii,37,0,4
+Clostridium sphenoides,37,0,4
+Clostridium spiroforme,37,0,4
+Clostridium sporogenes,37,0,4
+Clostridium tertium,37,0,4
+Clostridium tetani,37,0,4
+Clostridium tetanomorphum,37,0,4
+Clostridium thiosulfatireducens,37,0,4
+Clostridium tunisiense,37,0,4
+Clostridium tyrobutyricum,37,0,4
+Cobetia marina,25,1.666666667,2
+Coenonia anatina,37,0,4
+Coetzeea brasiliensis,30,0,3
+Cohnella hongkongensis,37,0,4
+Cohnella thermotolerans,37,0,4
+Collimonas fungivorans,25,0,2
+Collinsella intestinalis,37,0,4
+Colwellia hornerae,10,0,1
+Colwellia maris,10,0,1
+Comamonas aquatica,30,0,3
+Comamonas badia,30,0,3
+Comamonas denitrificans,30,0,3
+Comamonas kerstersii,30,0,3
+Comamonas koreensis,30,0,3
+Comamonas nitrativorans,30,0,3
+Comamonas terrigena,30,0,3
+Comamonas testosteroni,30,0,3
+Comamonas zonglianii,30,0,3
+Conchiformibius steedae,37,0,4
+Conexibacter woesei,30,0,3
+Coprobacillus cateniformis,37,0,4
+Corynebacterium accolens,37,0,4
+Corynebacterium acetoacidophilum,37,0,4
+Corynebacterium afermentans,37,0,4
+Corynebacterium afermentans afermentans,37,0,4
+Corynebacterium afermentans lipophilum,37,0,4
+Corynebacterium ammoniagenes,37,0,4
+Corynebacterium amycolatum,37,0.466666667,4
+Corynebacterium appendicis,37,0,4
+Corynebacterium aquilae,37,0,4
+Corynebacterium argentoratense,30,0,3
+Corynebacterium atypicum,37,0,4
+Corynebacterium aurimucosum,37,1.4,4
+Corynebacterium auris,37,0,4
+Corynebacterium auriscanis,37,0,4
+Corynebacterium bovis,37,0,4
+Corynebacterium callunae,30,0,3
+Corynebacterium camporealensis,37,0,4
+Corynebacterium capitovis,37,0,4
+Corynebacterium casei,30,0,3
+Corynebacterium caspium,37,0,4
+Corynebacterium ciconiae,37,0,4
+Corynebacterium confusum,37,0,4
+Corynebacterium coyleae,37,0,4
+Corynebacterium cystitidis,37,0,4
+Corynebacterium diphtheriae,37,0.058823529,4
+Corynebacterium durum,37,0,4
+Corynebacterium efficiens,37,0,4
+Corynebacterium falsenii,37,0,4
+Corynebacterium fastidiosum,37,0,4
+Corynebacterium felinum,37,0,4
+Corynebacterium flavescens,30,0,3
+Corynebacterium frankenforstense,30,0,3
+Corynebacterium freiburgense,37,0,4
+Corynebacterium freneyi,37,2.333333333,4
+Corynebacterium genitalium,37,0,4
+Corynebacterium glaucum,37,0,4
+Corynebacterium glucuronolyticum,37,0.137254902,4
+Corynebacterium glutamicum,33.5,3.5,4
+Corynebacterium halotolerans,37,0,4
+Corynebacterium hansenii,37,0,4
+Corynebacterium hoagii,30,0,3
+Corynebacterium imitans,33.5,3.5,4
+Corynebacterium jeikeium,37,0.608695652,4
+Corynebacterium kroppenstedtii,37,0,4
+Corynebacterium kutscheri,37,1,4
+Corynebacterium lactis,30,0,3
+Corynebacterium lipophiloflavum,37,0,4
+Corynebacterium lubricantis,30,0,3
+Corynebacterium macginleyi,37,0,4
+Corynebacterium marinum,30,0,3
+Corynebacterium mastitidis,37,0,4
+Corynebacterium matruchotii,37,0,4
+Corynebacterium minutissimum,37,3.181818182,4
+Corynebacterium mucifaciens,37,0,4
+Corynebacterium mycetoides,37,0,4
+Corynebacterium oriphocae,37,0,4
+Corynebacterium pelargi,30,0,3
+Corynebacterium phocae,37,0,4
+Corynebacterium pilosum,37,0,4
+Corynebacterium propinquum,37,0,4
+Corynebacterium pseudodiphtheriticum,30,1.166666667,3
+Corynebacterium pseudotuberculosis,37,0,4
+Corynebacterium renale,37,0,4
+Corynebacterium riegelii,37,0,4
+Corynebacterium segmentosum,37,0,4
+Corynebacterium simulans,37,0,4
+Corynebacterium singulare,37,0,4
+Corynebacterium sphenisci,37,0,4
+Corynebacterium spheniscorum,37,0,4
+Corynebacterium sputi,37,0,4
+Corynebacterium stationis,30,0,3
+Corynebacterium striatum,30,1.473684211,3
+Corynebacterium suicordis,37,0,4
+Corynebacterium sundsvallense,37,2.333333333,4
+Corynebacterium terpenotabidum,30,0,3
+Corynebacterium testudinoris,37,0,4
+Corynebacterium thomssenii,37,0,4
+Corynebacterium trachiae,30,0,3
+Corynebacterium tuberculostearicum,37,0,4
+Corynebacterium tuscaniae,37,0,4
+Corynebacterium ulcerans,37,0.388888889,4
+Corynebacterium urealyticum,37,0.35,4
+Corynebacterium variabile,30,0,3
+Corynebacterium vitaeruminis,30,0,3
+Corynebacterium xerosis,30,0,3
+Cosenzaea myxofaciens,30,0,3
+Craurococcus roseus,30,0,3
+Crinalium,0,0,0
+Croceibacter atlanticus,25,0,2
+Crocinitomix catalasitica,25,0,2
+Cronobacter helveticus,30,0,3
+Cronobacter muytjensii,30,0,3
+Cronobacter sakazakii,30,1.4,3
+Cronobacter zurichensis,37,0,4
+Crossiella cryophila,30,0,3
+Crossiella equi,30,0,3
+Cryobacterium psychrophilum,10,0,1
+Cryobacterium psychrotolerans,20,0,2
+Cryomorpha ignava,10,0,1
+Cupriavidus alkaliphilus,30,0,3
+Cupriavidus basilensis,25,0,2
+Cupriavidus campinensis,30,0,3
+Cupriavidus gilardii,30,0,3
+Cupriavidus laharis,30,0,3
+Cupriavidus metallidurans,30,0,3
+Cupriavidus necator,30,0,3
+Cupriavidus numazuensis,25,0,2
+Cupriavidus oxalaticus,30,0,3
+Cupriavidus pampae,30,0,3
+Cupriavidus pauculus,30,0,3
+Cupriavidus pinatubonensis,30,0,3
+Cupriavidus plantarum,30,0,3
+Cupriavidus respiraculi,37,0,4
+Cupriavidus taiwanensis,37,0,4
+Curtobacterium albidum,30,0,3
+Curtobacterium ammoniigenes,30,0,3
+Curtobacterium citreum,30,0,3
+Curtobacterium flaccumfaciens betae,25,0,2
+Curtobacterium flaccumfaciens oortii,30,0,3
+Curtobacterium flaccumfaciens poinsettiae,25,0,2
+Curtobacterium herbarum,30,0,3
+Curtobacterium luteum,30,0,3
+Curtobacterium plantarum,30,0,3
+Curtobacterium pusillum,30,0,3
+Curvibacter delicatus,25,0,2
+Curvibacter gracilis,30,0,3
+Curvibacter lanceolatus,25,0,2
+Cutibacterium acnes,37,0,4
+Cutibacterium acnes ,37,0,4
+Cutibacterium avidum,37,0,4
+Cutibacterium granulosum,37,0,4
+Cyanobacterium,23.5,1.5,2
+Cyanobium,22,0,2
+Cyanothece,22,0,2
+Cyclobacterium amurskyense,25,0,2
+Cylindrospermum,22,0,2
+Cystobacter violaceus,30,0,3
+Cytophaga hutchinsonii,30,0,3
+Dactylococcopsis,22,0,2
+Dechloromonas denitrificans,30,0,3
+Deefgea rivuli,25,0,2
+Defluviicoccus vanus,25,0,2
+Deinococcus aerius,30,0,3
+Deinococcus aerolatus,30,0,3
+Deinococcus aerophilus,30,0,3
+Deinococcus cellulosilyticus,30,0,3
+Deinococcus ficus,30,0,3
+Deinococcus geothermalis,45,0,4
+Deinococcus indicus,30,0,3
+Deinococcus murrayi,45,0,4
+Deinococcus peraridilitoralis,30,0,3
+Deinococcus radiodurans,30,0,3
+Deinococcus wulumuqiensis,37,0,4
+Deinococcus xibeiensis,30,0,3
+Delftia acidovorans,30,0,3
+Delftia tsuruhatensis,37,0,4
+Demetria terragena,30,0,3
+Dermabacter hominis,37,0.875,4
+Dermacoccus abyssi,30,0,3
+Dermacoccus nishinomiyaensis,30,0,3
+Dermacoccus profundi,30,0,3
+Dermocarpella,22,0,2
+Desemzia incerta,20,0,2
+Desulfocella halophila,30,0,3
+Desulfonatronum thiodismutans,37,0,4
+Desulfovibrio capillatus,37,0,4
+Desulfovibrio hydrothermalis,30,0,3
+Desulfovibrio vulgaris vulgaris,37,0,4
+Devosia epidermidihirudinis,25,0,2
+Devosia limi,30,0,3
+Devosia neptuniae,30,0,3
+Devosia psychrophila,15,0,2
+Devosia riboflavina,30,0,3
+Dialister invisus,37,0,4
+Dialister micraerophilus,37,0,4
+Dialister pneumosintes,37,0,4
+Dialister propionicifaciens,37,0,4
+Dichelobacter nodosus,37,0,4
+Dickeya dadantii dadantii,30,0,3
+Dietzia cinnamea,30,0,3
+Dietzia kunjamensis,30,0,3
+Dietzia maris,30,0,3
+Dietzia psychralcaliphila,30,0,3
+Dokdonella fugitiva,37,0,4
+Dokdonia eikasta,22,0,2
+Dokdonia genika,25,0,2
+Dolosicoccus paucivorans,37,0,4
+Dolosigranulum pigrum,37,0,4
+Donghicola eburneus,37,0,4
+Dyadobacter beijingensis,30,0,3
+Dyadobacter crusticola,30,0,3
+Dyadobacter fermentans,30,0,3
+Dyadobacter psychrophilus,20,0,2
+Dysgonomonas capnocytophagoides,37,0,4
+Dysgonomonas gadei,37,0,4
+Dysgonomonas mossii,37,0,4
+Echinicola vietnamensis,30,0,3
+Edwardsiella hoshinae,30,0,3
+Edwardsiella ictaluri,30,0,3
+Edwardsiella tarda,30,0,3
+Edwarsiella tarda,30,0,3
+Effusibacillus pohliae,55,0,5
+Eggerthella lenta,37,0,4
+Eggerthia catenaformis,37,0,4
+Eikenella corrodens,37,0,4
+Eionea nigra,30,0,3
+Ekhidna lutea,30,0,3
+Elizabethkingia anophelis,30,1.666666667,3
+Elizabethkingia endophytica ,30,0,3
+Elizabethkingia meningoseptica,30,0,3
+Elizabethkingia miricola,30,0,3
+Elizabethkingia miricola antiqua,30,0,3
+Elizabethkingia miricola miricola,30,0,3
+Empedobacter brevis,30,0,3
+Empedobacter falsenii,30,0,3
+Endobacter medicaginis,30,0,3
+Ensifer adhaerens,30,0,3
+Ensifer fredii,30,0,3
+Ensifer garamanticus,30,0,3
+Ensifer kummerowiae,30,0,3
+Ensifer medicae,30,0,3
+Ensifer meliloti,30,0,3
+Ensifer numidicus,30,0,3
+Ensifer saheli,30,0,3
+Ensifer terangae,30,0,3
+Enterobacter aerogenes,30,0.555555556,3
+Enterobacter asburiae,30,0,3
+Enterobacter cancerogenus,30,0,3
+Enterobacter cloacae,30,0.583333333,3
+Enterobacter cloacae cloacae,30,0,3
+Enterobacter cloacae dissolvens,30,0,3
+Enterobacter gergoviae,30,0,3
+Enterobacter hormaechei,30,2.333333333,3
+Enterobacter hormaechei hormaechei,30,0,3
+Enterobacter hormaechei oharae,30,0,3
+Enterobacter hormaechei steigerwaltii,37,0,4
+Enterobacter kobei,30,0,3
+Enterobacter ludwigii,30,0,3
+Enterobacter muelleri,30,0,3
+Enterobacteriaceae spp.,30,0,3
+Enterococcus aquimarinus,37,0,4
+Enterococcus asini,37,0,4
+Enterococcus avium,37,0,4
+Enterococcus caccae,37,0,4
+Enterococcus camelliae,30,0,3
+Enterococcus canintestini,33.5,3.5,4
+Enterococcus canis,37,0,4
+Enterococcus casseliflavus,37,0,4
+Enterococcus cecorum,37,2.333333333,4
+Enterococcus columbae,37,0,4
+Enterococcus devriesei,37,0,4
+Enterococcus dispar,37,0,4
+Enterococcus durans,37,0,4
+Enterococcus faecalis,37,9.971962617,4
+Enterococcus faecium,37,0.233333333,4
+Enterococcus gallinarum,37,0,4
+Enterococcus gilvus,37,0,4
+Enterococcus haemoperoxidus,37,0,4
+Enterococcus hermanniensis,37,0,4
+Enterococcus hirae,30,0,3
+Enterococcus italicus,37,0,4
+Enterococcus malodoratus,37,0,4
+Enterococcus moraviensis,37,0,4
+Enterococcus mundtii,37,0,4
+Enterococcus pallens,37,0,4
+Enterococcus phoeniculicola,37,0,4
+Enterococcus pseudoavium,37,0,4
+Enterococcus raffinosus,37,0,4
+Enterococcus ratti,37,0,4
+Enterococcus saccharolyticus saccharolyticus,37,0,4
+Enterococcus silesiacus,37,0,4
+Enterococcus sulfureus,37,0,4
+Enterococcus termitis,37,0,4
+Enterococcus villorum,37,0,4
+Enterovibrio calviensis,30,0,3
+Enterovibrio norvegicus,30,0,3
+Eremococcus coleocola,37,0,4
+Erwinia aphidicola,30,0,3
+Erwinia billingiae,25,0,2
+Erwinia mallotivora,25,0,2
+Erwinia papayae,30,0,3
+Erwinia persicina,27.5,2.5,3
+Erwinia psidii,25,0,2
+Erwinia pyrifoliae,25,0,2
+Erwinia rhapontici,25,0,2
+Erwinia tasmaniensis,30,0,3
+Erwinia toletana,25,0,2
+Erwinia tracheiphila,30,0,3
+Erysipelothrix inopinata,30,0,3
+Erysipelothrix rhusiopathiae,37,0,4
+Erysipelothrix rusiopathiae,37,0,4
+Erysipelothrix tonsillarum,37,0,4
+Erythrobacter aquimaris,30,0,3
+Erythrobacter citreus,25,0,2
+Erythrobacter flavus,30,0,3
+Erythrobacter litoralis,25,0,2
+Erythrobacter longus,30,0,3
+Erythrobacter vulgaris,30,0,3
+Erythromicrobium ramosum,25,0,2
+Escherichia albertii,30,0,3
+Escherichia coli,33.5,6.944444444,4
+Escherichia coli Diffusely-adherent,37,0,4
+Escherichia coli Diffusely Adherent,37,9.25,4
+Escherichia coli Enteroaggregative,37,0,4
+Escherichia coli Enterohaemorrhagic,37,0,4
+Escherichia coli Enterotoxinogenic,37,12.33333333,4
+Escherichia coli Extra-intestinal,37,0,4
+Escherichia coli H10,30,0,3
+Escherichia coli H18,30,0,3
+Escherichia coli H26,30,0,3
+Escherichia coli H32,30,0,3
+Escherichia coli K88,30,0,3
+Escherichia coli K99,30,0,3
+Escherichia coli MFDpir,37,0,4
+Escherichia coli O Rough: H7,30,0,3
+Escherichia coli O1,30,0,3
+Escherichia coli O1: H6,30,0,3
+Escherichia coli O104,30,0,3
+Escherichia coli O104: H21,30,0,3
+Escherichia coli O104: H4,30,0,3
+Escherichia coli O104:H4,30,0,3
+Escherichia coli O106,30,0,3
+Escherichia coli O111,30,0,3
+Escherichia coli O111: B4,30,0,3
+Escherichia coli O111: H2,30,0,3
+Escherichia coli O111: H21,30,0,3
+Escherichia coli O111: H8,30,0,3
+Escherichia coli O111: K58(B4),30,0,3
+Escherichia coli O111: K58(B4): H12,30,0,3
+Escherichia coli O111: K58(B4): H2,30,0,3
+Escherichia coli O112: H8,30,0,3
+Escherichia coli O113: H21,30,0,3
+Escherichia coli O119: K69(B14),30,0,3
+Escherichia coli O121,30,0,3
+Escherichia coli O124 (B17),30,0,3
+Escherichia coli O125: K70(B15),30,0,3
+Escherichia coli O126: K71(B16),30,0,3
+Escherichia coli O127: K63(B8),30,0,3
+Escherichia coli O128: H2,30,0,3
+Escherichia coli O128: H7,30,0,3
+Escherichia coli O128: K67(B12),30,0,3
+Escherichia coli O128: K67(B12): H2,30,0,3
+Escherichia coli O141: K85(B): H4,30,0,3
+Escherichia coli O144: H8,30,0,3
+Escherichia coli O149: H34,30,0,3
+Escherichia coli O15,30,0,3
+Escherichia coli O150: H21,30,0,3
+Escherichia coli O157: H7,30,0,3
+"Escherichia coli O157: K88a,c: H19",30,0,3
+Escherichia coli O157:H7,30,0,3
+Escherichia coli O158,30,0,3
+Escherichia coli O2,30,0,3
+Escherichia coli O2: K1: H4,30,0,3
+Escherichia coli O25,30,0,3
+Escherichia coli O25: H1,30,0,3
+Escherichia coli O26: H11,30,0,3
+Escherichia coli O26: K60(B6),30,0,3
+Escherichia coli O26: K60(B6): H11,30,0,3
+Escherichia coli O3,30,0,3
+Escherichia coli O3: H2,30,0,3
+Escherichia coli O4,30,0,3
+Escherichia coli O4: H40,30,0,3
+Escherichia coli O4: H43,30,0,3
+Escherichia coli O44: H18,30,0,3
+Escherichia coli O5,30,0,3
+Escherichia coli O55: H6,30,0,3
+Escherichia coli O55: H7,30,0,3
+Escherichia coli O55: K59(B5),30,0,3
+Escherichia coli O55: K59(B5): H6,30,0,3
+Escherichia coli O55:H6,30,0,3
+Escherichia coli O6,30,0,3
+Escherichia coli O6: H1,30,0,3
+Escherichia coli O6: H10,30,0,3
+Escherichia coli O7,30,0,3
+Escherichia coli O7: H21,30,0,3
+Escherichia coli O7: H32,30,0,3
+Escherichia coli O75,30,0,3
+Escherichia coli O78,30,0,3
+Escherichia coli O79,30,0,3
+Escherichia coli O79: H25,30,0,3
+Escherichia coli O79: H43,30,0,3
+Escherichia coli O8,30,0,3
+Escherichia coli O85,30,0,3
+Escherichia coli O86,30,0,3
+Escherichia coli O86: H43,30,0,3
+Escherichia coli O86: K61(B7),30,0,3
+Escherichia coli O88,30,0,3
+Escherichia coli O89,30,0,3
+Escherichia fergusonii,30,0,3
+Escherichia hermannii,30,0,3
+Escherichia vulneris,30,0,3
+Eubacterium brachy,37,0,4
+Eubacterium limosum,37,0,4
+Eubacterium minutum,37,0,4
+Eubacterium nodatum,37,0,4
+Eubacterium saburreum,37,0,4
+Eudoraea adriatica,30,0,3
+Ewingella americana,30,0,3
+Exiguobacterium acetylicum,30,0,3
+Exiguobacterium antarcticum,18,0,2
+Exiguobacterium artemiae,30,0,3
+Exiguobacterium aurantiacum,30,2.333333333,3
+Exiguobacterium enclense,30,0,3
+Exiguobacterium marinum,30,0,3
+Exiguobacterium mexicanum,30,0,3
+Exiguobacterium oxidotolerans,25,0,2
+Exiguobacterium sibiricum,30,0,3
+Exiguobacterium undae,18,0,2
+Facklamia hominis,37,0,4
+Facklamia ignava,37,0,4
+Facklamia languida,37,0,4
+Facklamia miroungae,37,0,4
+Facklamia sourekii,37,0,4
+Facklamia tabacinasalis,37,0,4
+Falsibacillus pallidus,37,0,4
+Falsochrobactrum ovis,30,0,3
+Fastidiosipila sanguinis,37,0,4
+Fictibacillus arsenicus,30,0,3
+Fictibacillus barbaricus,30,0,3
+Fictibacillus macauensis,30,0,3
+Filobacillus milosensis,37,0,4
+Finegoldia magna,37,0,4
+Fischerella,37,3.214285714,4
+Flammeovirga arenaria,25,0,2
+Flammeovirga yaeyamensis,30,0,3
+Flaviramulus basaltis,22,0,2
+Flavisolibacter ginsengisoli,25,0,2
+Flavobacterium akiainvivens,25,0,2
+Flavobacterium algicola,25,0,2
+Flavobacterium anhuiense,30,0,3
+Flavobacterium antarcticum,15,0,2
+Flavobacterium aquatile,25,0,2
+Flavobacterium aquidurense,25,0,2
+Flavobacterium banpakuense,30,0,3
+Flavobacterium branchiophilum,21,1,2
+Flavobacterium cauense,25,0,2
+Flavobacterium ceti,37,0,4
+Flavobacterium cheniae,25,0,2
+Flavobacterium chungangense,25,0,2
+Flavobacterium columnare,22,3.714285714,2
+Flavobacterium croceum,25,0,2
+Flavobacterium cucumis,30,0,3
+Flavobacterium cutihirudinis,25,0,2
+Flavobacterium daejeonense,30,0,3
+Flavobacterium daejeonsense,30,0,3
+Flavobacterium defluvii,25,0,2
+Flavobacterium degerlachei,22,0,2
+Flavobacterium denitrificans,25,0,2
+Flavobacterium dongtanense,30,0,3
+Flavobacterium filum,30,0,3
+Flavobacterium flevense,22,0,2
+Flavobacterium fluvii,25,0,2
+Flavobacterium frigidarium,15,0,2
+Flavobacterium frigidimaris,25,0,2
+Flavobacterium frigoris,20,0,2
+Flavobacterium fryxellicola,20,0,2
+Flavobacterium gelidilacus,20,0,2
+Flavobacterium ginsengisoli,30,0,3
+Flavobacterium ginsenosidimutans,30,0,3
+Flavobacterium glaciei,20,0,2
+Flavobacterium glycines,30,0,3
+Flavobacterium granuli,25,0,2
+Flavobacterium haoranii,30,0,3
+Flavobacterium hercynium,25,0,2
+Flavobacterium hibernum,25,0,2
+Flavobacterium hydatis,22,0,2
+Flavobacterium indicum,37,0,4
+Flavobacterium johnsoniae,25,2,2
+Flavobacterium limicola,15,0,2
+Flavobacterium lindanitolerans,30,0,3
+Flavobacterium micromati,15,0,2
+Flavobacterium mizutaii,25,0,2
+Flavobacterium nitrogenifigens,30,0,3
+Flavobacterium omnivorum,10,0,1
+Flavobacterium pectinovorum,22,0,2
+Flavobacterium phragmitis,30,0,3
+Flavobacterium piscis,30,0,3
+Flavobacterium psychrolimnae,20,0,2
+Flavobacterium psychrophilum,20,2.333333333,2
+Flavobacterium rakeshii,30,0,3
+Flavobacterium reichenbachii,25,0,2
+Flavobacterium resistens,30,0,3
+Flavobacterium rivuli,25,0,2
+Flavobacterium saccharophilum,22,0,2
+Flavobacterium saliperosum,30,0,3
+Flavobacterium sasangense,30,0,3
+Flavobacterium segetis,7,0,1
+Flavobacterium sinopsychrotolerans,20,0,2
+Flavobacterium soli,25,0,2
+Flavobacterium subsaxonicum,25,0,2
+Flavobacterium succinicans,22,0,2
+Flavobacterium suncheonense,30,0,3
+Flavobacterium swingsii,25,0,2
+Flavobacterium terrae,30,0,3
+Flavobacterium terrigena,30,0,3
+Flavobacterium tiangeerense,18,0,2
+Flavobacterium tructae,30,0,3
+Flavobacterium weaverense,15,0,2
+Flavobacterium xanthum,20,0,2
+Flavobacterium xinjiangense,10,0,1
+Flectobacillus lacus,30,0,3
+Flectobacillus speluncae,30,0,3
+Flexibacter elegans,25,0,2
+Flexibacter flexilis,25,0,2
+Flexibacter litoralis,25,0,2
+Flexibacter roseolus,25,0,2
+Flexispira rappini,37,0,4
+Flexithrix dorotheae,25,0,2
+Fluoribacter bozemanae,37,0,4
+Fluoribacter dumoffii,37,0,4
+Fluoribacter gormanii,37,0,4
+Fontibacillus aquaticus,30,0,3
+Fontibacillus panacisegetis,30,0,3
+Formosa algae,25,0,2
+Friedmanniella capsulata,25,0,2
+Friedmanniella lacustris,20,0,2
+Friedmanniella spumicola,25,0,2
+Frigoribacterium faeni,20,0,2
+Frondicola australicus,25,0,2
+Frondihabitans peucedani,30,0,3
+Fructobacillus durionis,30,0,3
+Fructobacillus ficulneus,30,0,3
+Fructobacillus pseudoficulneus,30,0,3
+Fulvimarina pelagi,30,0,3
+Fusobacterium equinum,37,0,4
+Fusobacterium necrophorum funduliforme,37,0,4
+Fusobacterium necrophorum necrophorum,37,0,4
+Fusobacterium nucleatum animalis,37,0,4
+Fusobacterium nucleatum fusiforme,37,0,4
+Fusobacterium nucleatum nucleatum,37,0,4
+Fusobacterium nucleatum vincentii,37,0,4
+Gaetbulibacter saemankumensis,30,0,3
+Galbibacter mesophilus,25,0,2
+Gallibacterium anatis,37,0,4
+Gallibacterium genomospecies 1,37,0,4
+Gallibacterium genomospecies 2,37,0,4
+Gardnerella vaginalis,37,0,4
+Geitlerinema,22,1.363636364,2
+Gelidibacter gilvus,22,0,2
+Gelidibacter mesophilus,25,0,2
+Gelidibacter salicanalis,22,0,2
+Gelria glutamica,55,0,5
+Gemella bergeri,37,0,4
+Gemella cuniculi,37,0,4
+Gemella haemolysans,37,0,4
+Gemella morbillorum,37,0,4
+Gemella palaticanis,37,0,4
+Gemella sanguinis,37,0,4
+Geminocystis herdmanii,22,0,2
+Geobacillus kaustophilus,55,0,5
+Geobacillus pallidus thailandica,37,0,4
+Geobacillus stearothermophilus,55,2.857142857,5
+Geobacillus subterraneus subsp. aromaticivorans,55,0,5
+Geobacillus thermoglucosidasius,55,0,5
+Geobacillus toebii,55,0,5
+Geobacillus vulcani,55,0,5
+Georgenia muralis,30,0,3
+Giesbergeria anulus,25,0,2
+Giesbergeria giesbergeri,25,0,2
+Giesbergeria sinuosa,25,0,2
+Giesbergeria voronezhensis,30,0,3
+Gillisia hiemivivida,22,0,2
+Gillisia illustrilutea,22,0,2
+Gillisia limnaea,20,0,2
+Gillisia sandarakina,20,0,2
+Glaciecola pallidula,10,0,1
+Glaciecola punicea,10,0,1
+Glaciimonas singularis,25,0,2
+Globicatella sanguinis,37,0,4
+Globicatella sulfidifaciens,37,0,4
+Gloeobacter,22,0,2
+Gloeocapsa,22,0,2
+Gloeothece,22,0.333333333,2
+Gluconacetobacter azotocaptans,30,0,3
+Gluconacetobacter diazotrophicus,30,0,3
+Gluconacetobacter intermedius,30,0,3
+Gluconacetobacter johannae,30,0,3
+Gluconacetobacter liquefaciens,30,0,3
+Gluconacetobacter sacchari,30,0,3
+Gluconobacter cerinus,30,0,3
+Gluconobacter frateurii,30,0,3
+Gluconobacter oxydans oxydans,30,0,3
+Gluconobacter oxydans suboxydans,30,0,3
+Gluconobacter sphaericus,25,0,2
+Gluconobacter thailandicus,30,0,3
+Glutamicibacter ardleyensis,30,0,3
+Glutamicibacter arilaitensis,30,0,3
+Glutamicibacter bergerei,30,0,3
+Glutamicibacter creatinolyticus,37,0,4
+Glutamicibacter mysorens,30,0,3
+Glutamicibacter nicotianae,30,0,3
+Glutamicibacter protophormiae,30,0,3
+Glutamicibacter uratoxydans,23.5,1.5,2
+Glycomyces sambucus,30,0,3
+Gordonia aichiensis,30,0,3
+Gordonia alkanivorans,30,0,3
+Gordonia amarae,30,0,3
+Gordonia amicalis,30,0,3
+Gordonia bronchialis,30,0,3
+Gordonia cholesterolivorans,30,0,3
+Gordonia desulfuricans,30,0,3
+Gordonia effusa,30,0,3
+Gordonia hirsuta,30,0,3
+Gordonia humi,30,0,3
+Gordonia hydrophobica,30,0,3
+Gordonia kroppenstedtii,30,0,3
+Gordonia malaquae,25,0,2
+Gordonia namibiensis,30,0,3
+Gordonia paraffinivorans,30,0,3
+Gordonia phosphorivorans,30,0,3
+Gordonia polyisoprenivorans,30,0,3
+Gordonia rhizosphera,30,0,3
+Gordonia rubropertincta,30,0,3
+Gordonia shandongensis,30,0,3
+Gordonia sihwensis,30,0,3
+Gordonia sinesedis,30,0,3
+Gordonia soli,30,0,3
+Gordonia sputi,30,0,3
+Gordonia terrae,30,0,3
+Gordonia westfalica,30,0,3
+Gracilibacillus boraciitolerans,30,0,3
+Gracilibacillus dipsosauri,30,0,3
+Gracilibacillus orientalis,37,0,4
+Gracilibacillus qinghaiensis,30,0,3
+Granulicatella adiacens,37,0,4
+Granulicatella balaenopterae,37,0,4
+Granulicatella elegans,37,0,4
+Granulosicoccus coccoides,25,0,2
+Grimontella maroccoensis,30,0,3
+Grimontia hollisae,30,0,3
+Guggenheimella bovis,37,0,4
+Gulosibacter molinativorax,30,0,3
+Haematobacter massiliensis,37,0,4
+Haematobacter missouriensis,35,0,4
+Haemophilus actinomycetemcomitans,37,0,4
+Haemophilus aegyptius,37,0,4
+Haemophilus ducreyi,30,0,3
+Haemophilus felis,37,0,4
+Haemophilus haemoglobinophilus,37,0,4
+Haemophilus haemolyticus,37,0,4
+Haemophilus influenzae,37,0,4
+Haemophilus influenzae I,37,0,4
+Haemophilus influenzae II,37,0,4
+Haemophilus influenzae III,37,0,4
+Haemophilus influenzae IV,37,0,4
+Haemophilus influenzae V,37,0,4
+Haemophilus influenzae VI,37,0,4
+Haemophilus influenzae VII,37,0,4
+Haemophilus massiliensis,37,0,4
+Haemophilus paracuniculus,37,0,4
+Haemophilus parahaemolyticus,37,0,4
+Haemophilus parainfluenzae,37,0,4
+Haemophilus parainfluenzae I,37,0,4
+Haemophilus parainfluenzae II,37,0,4
+Haemophilus parainfluenzae III,37,0,4
+Haemophilus parainfluenzae IV,37,0,4
+Haemophilus parainfluenzae unknown,37,0,4
+Haemophilus paraphrohaemolyticus,37,0,4
+Haemophilus parasuis,37,0,4
+Haemophilus piscium,25,0,2
+Haemophilus pittmaniae,37,0,4
+Haemophilus sp,37,0,4
+Hafnia alvei,30,0.368421053,3
+Hafnia paralvei,30,0,3
+Hahella ganghwensis,25,0,2
+Halalkalibacillus halophilus,37,0,4
+Haliea salexigens,30,0,3
+Hallella seregens,37,0,4
+Haloarcula argentinensis,39,0,4
+Halobacillus aidingensis,37,0,4
+Halobacillus blutaparonensis,30,0,3
+Halobacillus campisalis,37,0,4
+Halobacillus dabanensis,30,0,3
+Halobacillus karajensis,37,0,4
+Halobacillus kuroshimensis,30,0,3
+Halobacillus litoralis,30,0,3
+Halobacillus opalescens,25,0,2
+Halobacillus profundi,25,0,2
+Halobacillus salinus,30,0,3
+Halobacillus trueperi,30,0,3
+Halococcus dombrowskii,37,0,4
+Halococcus saccharolyticus,37,0,4
+Haloferax alexandrinus,37,0,4
+Haloferax lucentense,37,0,4
+Haloferax sulfurifontis,37,0,4
+Halomicrobium mukohataei,37,0,4
+Halomonas alimentaria,30,0,3
+Halomonas almeriensis,30,0,3
+Halomonas anticariensis,25,0,2
+Halomonas aquamarina,25,0,2
+Halomonas arcis,30,0,3
+Halomonas avicenniae,30,0,3
+Halomonas axialensis,30,0,3
+Halomonas boliviensis,30,0,3
+Halomonas campaniensis,30,0,3
+Halomonas campisalis,30,0,3
+Halomonas cupida,27.5,2.5,3
+Halomonas denitrificans,30,0,3
+Halomonas desiderata,30,0,3
+Halomonas elongata,25,0,2
+Halomonas eurihalina,30,0,3
+Halomonas glaciei,22,0,2
+Halomonas gomseomensis,30,0,3
+Halomonas halmophila,25,0,2
+Halomonas halocynthiae,25,0,2
+Halomonas halodenitrificans,25,0,2
+Halomonas halophila,25,0,2
+Halomonas hydrothermalis,30,0,3
+Halomonas indalinina,30,0,3
+Halomonas janggokensis,25,0,2
+Halomonas koreensis,37,0,4
+Halomonas magadiensis,37,0,4
+Halomonas marisflavi,25,0,2
+Halomonas maura,30,0,3
+Halomonas meridiana,30,1.666666667,3
+Halomonas muralis,30,0,3
+Halomonas neptunia,30,0,3
+Halomonas organovorans,30,0,3
+Halomonas pacifica,25,0,2
+Halomonas pantelleriensis,30,0,3
+Halomonas phocea,37,0,4
+Halomonas saccharevitans,30,0,3
+Halomonas salina,30,0,3
+Halomonas subglaciescola,15,0,2
+Halomonas subterranea,30,0,3
+Halomonas sulfidaeris,30,0,3
+Halomonas taeanensis,37,0,4
+Halomonas variabilis,30,0,3
+Halomonas ventosae,25,0,2
+Halomonas venusta,25,0,2
+Halorubrum coriense,37,0,4
+Halorubrum distributum,30,0,3
+Halorubrum lacusprofundi,30,0,3
+Halorubrum saccharovorum,37,0,4
+Halorubrum sodomense,37,0,4
+Halorubrum terrestre,37,0,4
+Halorubrum trapanicum,37,0,4
+Halorubrum vacuolatum,37,0,4
+Halorubrum xinjiangense,37,0,4
+Halosimplex carlsbadense,37,0,4
+Halotalea alkalilenta,30,0,3
+Haloterrigena turkmenica,37,0,4
+Halothece,22,0,2
+Halothiobacillus neapolitanus,25,0,2
+Halovibrio mesolongii,37,0,4
+Hamadaea tsunoensis,30,0,3
+Helcobacillus massiliensis,37,0,4
+Helcococcus kunzii,37,0,4
+Helcococcus ovis,37,0,4
+Helcococcus sueciensis,37,0,4
+Helicobacter acinonychis,37,0,4
+Helicobacter bilis,37,0,4
+Helicobacter bizzozeronii,37,0,4
+Helicobacter canis,37,0,4
+Helicobacter cholecystus,37,0,4
+Helicobacter cinaedi,37,0,4
+Helicobacter felis,37,0,4
+Helicobacter fennelliae,37,0,4
+Helicobacter ganmani,37,0,4
+Helicobacter hepaticus,37,0,4
+Helicobacter muridarum,37,0,4
+Helicobacter mustelae,37,0,4
+Helicobacter pametensis,37,0,4
+Helicobacter pullorum,37,0,4
+Helicobacter pylori,37,0,4
+Helicobacter salomonis,37,0,4
+Helicobacter typhlonius,37,0,4
+Hellea balneolensis,0,0,0
+Herbaspirillum autotrophicum,25,0,2
+Herbaspirillum chlorophenolicum,30,0,3
+Herbaspirillum hiltneri,30,0,3
+Herbaspirillum huttiense,25,0,2
+Herbaspirillum huttiense huttiense,30,0,3
+Herbaspirillum lusitanum,30,0,3
+Herbaspirillum rhizosphaerae,25,0,2
+Herbaspirillum rubrisubalbicans,30,0,3
+Herbaspirillum species 3,30,0,3
+Herbiconiux ginsengi,30,0,3
+Herminiimonas aquatilis,25,0,2
+Herminiimonas arsenicoxydans,30,0,3
+Herminiimonas fonticola,30,0,3
+Hespellia stercorisuis,37,0,4
+Histophilus somni,37,0,4
+Hoyosella altamirensis,30,0,3
+HTF Chlorogloeopsis,37,0,4
+Humihabitans oryzae,33.5,3.5,4
+Hyalangium minutum,30,0,3
+Hydrogenibacillus schlegelii,65,0,5
+Hydrogenophaga atypica,30,0,3
+Hydrogenophaga defluvii,30,0,3
+Hydrogenophaga flava,30,0,3
+Hydrogenophaga intermedia,25,0,2
+Hydrogenophaga palleronii,30,0,3
+Hydrogenophaga pseudoflava,30,0,3
+Hydrogenophaga taeniospiralis,30,0,3
+Hydrogenophilus thermoluteolus,50,0,5
+Hylemonella gracilis,30,0,3
+Hymenobacter actinosclerus,30,0,3
+Hymenobacter aerophilus,25,0,2
+Hymenobacter chitinivorans,30,0,3
+Hymenobacter flocculans,30,0,3
+Hymenobacter gelipurpurascens,30,0,3
+Hymenobacter metalli,30,0,3
+Hymenobacter ocellatus,30,0,3
+Hymenobacter perfusus,25,0,2
+Hymenobacter psychrophilus,20,0,2
+Hymenobacter roseosalivarius,22,0,2
+Hymenobacter xinjiangensis,30,0,3
+Hyphomonas hirschiana,30,0,3
+Ideonella dechloratans,30,0,3
+Idiomarina abyssalis,25,0,2
+Idiomarina baltica,30,0,3
+Idiomarina fontislapidosi,30,0,3
+Idiomarina insulisalsae,37,0,4
+Idiomarina loihiensis,30,0,3
+Idiomarina ramblicola,30,0,3
+Idiomarina seosinensis,30,0,3
+Idiomarina zobellii,25,0,2
+Ignatzschineria larvae,37,0,4
+Ignatzschineria massiliensis,37,0,4
+Ignavigranum ruoffiae,37,0,4
+Inhella inkyongensis,30,0,3
+Inquilinus limosus,37,0,4
+Insolitispirillum peregrinum integrum,30,0,3
+Insolitispirillum peregrinum peregrinum,25,0,2
+Iodobacter arcticus,20,0,2
+Iodobacter fluviatilis,22,0,2
+Isobaculum melis,37,0,4
+Isoptericola cucumis,30,0,3
+Isoptericola dokdonensis,30,0,3
+Isoptericola hypogeus,30,0,3
+Isoptericola variabilis,30,0,3
+Janibacter anophelis,30,0,3
+Janibacter limosus,30,0,3
+Janibacter melonis,30,0,3
+Janibacter sanguinis,37,0,4
+Janibacter terrae,30,0,3
+Jannaschia donghaensis,25,0,2
+Jannaschia helgolandensis,30,0,3
+Jannaschia rubra,25,0,2
+Jannaschia seosinensis,30,0,3
+Janthinobacterium agaricidamnosum,25,0,2
+Janthinobacterium lividum,22,0.75,2
+Jeotgalibacillus alimentarius,30,0,3
+Jeotgalibacillus campisalis,30,0,3
+Jeotgalibacillus marinus,22,0,2
+Jeotgalicoccus halotolerans,30,0,3
+Jeotgalicoccus pinnipedialis,37,0,4
+Jeotgalicoccus psychrophilus,30,0,3
+Jeotgalicoccus scheoneichii,30,0,3
+Jiangella gansuensis,30,0,3
+Jonesia denitrificans,30,0,3
+Jonesia quinghaiensis,30,0,3
+Jonquetella anthropi,37,0,4
+Kaistia adipata,37,0,4
+Kaistia hirudinis,25,0,2
+Kandleria vitulina,37,0,4
+Kerstersia gyiorum,30,0,3
+Kineococcus aurantiacus,30,0,3
+Kineococcus radiotolerans,30,0,3
+Kineococcus xinjiangensis,37,0,4
+Kineosporia mikuniensis,30,0,3
+Kineosporia rhamnosa,30,0,3
+Kineosporia rhizophila,30,0,3
+Kineosporia succinea,30,0,3
+Kingella denitrificans,30,0,3
+Kingella kingae,30,0,3
+Kingella oralis,37,0,4
+Kingella potus,37,0,4
+Kitasatospora cineracea,30,0,3
+Kitasatospora niigatensis,30,0,3
+Kitasatospora putterlickiae,30,0,3
+Klebsiella michiganensis,30,0,3
+Klebsiella oxytoca,30,0.875,3
+Klebsiella pneumonia pneumonia,30,0,3
+Klebsiella pneumoniae,37,0,4
+Klebsiella pneumoniae ozaenae,30,0,3
+Klebsiella pneumoniae pneumoniae,30,0.170731707,3
+Klebsiella pneumoniae pneumoniae O1,30,0,3
+Klebsiella pneumoniae pneumoniae O2,30,0,3
+Klebsiella pneumoniae pneumoniae O3,30,0,3
+Klebsiella pneumoniae pneumoniae O4,30,0,3
+Klebsiella pneumoniae pneumoniae O5,30,0,3
+Klebsiella pneumoniae rhinoscleromatis,30,0,3
+Klebsiella quasipneumoniae quasipneumoniae,30,0,3
+Klebsiella quasipneumoniae similipneumoniae,30,0,3
+Klebsiella variicola,30,0,3
+Kluyvera ascorbata,30,0,3
+Kluyvera cryocrescens,30,0,3
+Kluyvera georgiana,30,0,3
+Kluyvera intermedia,30,0,3
+Knoellia sinensis,30,0,3
+Knoellia subterranea,30,0,3
+Kocuria aegyptia,30,0,3
+Kocuria himachalensis,30,0,3
+Kocuria koreensis,30,0,3
+Kocuria kristinae,30,0,3
+Kocuria palustris,30,0,3
+Kocuria polaris,30,0,3
+Kocuria rhizophila,30,1.75,3
+Kocuria rosea,30,0,3
+Kocuria varians,30,0,3
+Komagataeibacter europaeus,30,0,3
+Komagataeibacter hansenii,30,0,3
+Komagataeibacter intermedius,30,0,3
+Komagataeibacter nataicola,30,0,3
+Komagataeibacter oboediens,30,0,3
+Komagataeibacter rhaeticus,30,0,3
+Komagataeibacter saccharivorans,30,0,3
+Komagataeibacter sucrofermentans,30,0,3
+Komagataeibacter swingsii,30,0,3
+Komagataeibacter xylinus,30,0,3
+Kordiimonas gwangyangensis,37,0,4
+Kosakonia arachidis,30,0,3
+Kosakonia cowanii,30,0,3
+Kosakonia pseudosacchari,30,0,3
+Kosakonia radicincitans,30,0,3
+Kosakonia sacchari,30,0,3
+Kribbella aluminosa,30,0,3
+Kribbella antibiotica,30,0,3
+Kribbella flavida,30,0,3
+Kribbella jejuensis,30,0,3
+Kribbella karoonensis,30,0,3
+Kribbella koreensis,30,0,3
+Kribbella lupini,30,0,3
+Kribbella sandramycini,30,0,3
+Kribbella solani,30,0,3
+Kurthia gibsonii,30,0,3
+Kurthia sibirica,30,0,3
+Kurthia zopfii,30,1.666666667,3
+Kytococcus schroeteri,37,0,4
+Kytococcus sedentarius,30,0,3
+Labrenzia alba,25,0,2
+Labrys miyagiensis,25,0,2
+Labrys okinawensis,25,0,2
+Lacinutrix himadriensis,20,0,2
+Lactobacillus acetotolerans,37,0,4
+Lactobacillus acidifarinae,37,0,4
+Lactobacillus acidipiscis,37,0.875,4
+Lactobacillus acidophilus,37,0.4375,4
+Lactobacillus agilis,37,0,4
+Lactobacillus algidus,20,0,2
+Lactobacillus alimentarius,30,0,3
+Lactobacillus amylolyticus,41,4,4
+Lactobacillus amylophilus,33.5,3.5,4
+Lactobacillus amylotrophicus,37,0,4
+Lactobacillus amylovorus,37,0,4
+Lactobacillus animalis,37,0,4
+Lactobacillus antri,37,0,4
+Lactobacillus apodemi,37,0,4
+Lactobacillus aviarus araffinosus,37,0,4
+Lactobacillus aviarus aviarus,37,0,4
+Lactobacillus bifermentans,30,0,3
+Lactobacillus brevis,37,0,4
+Lactobacillus buchneri,37,1.166666667,4
+Lactobacillus camelliae,37,0,4
+Lactobacillus capillatus,30,0,3
+Lactobacillus casei,37,2.916666667,4
+Lactobacillus ceti,37,0,4
+Lactobacillus coleohominis,37,0,4
+Lactobacillus collinoides,30,0,3
+Lactobacillus composti,37,0,4
+Lactobacillus concavus,37,0,4
+Lactobacillus coryniformis coryniformis,37,0,4
+Lactobacillus coryniformis torquens,37,0,4
+Lactobacillus crispatus,37,0,4
+Lactobacillus crustorum,37,0,4
+Lactobacillus curvatus,37,0,4
+Lactobacillus delbrueckii,37,0,4
+Lactobacillus delbrueckii bulgaricus,37,0,4
+Lactobacillus delbrueckii delbrueckii,37,0,4
+Lactobacillus delbrueckii indicus,37,0,4
+Lactobacillus delbrueckii lactis,37,0,4
+Lactobacillus dextrinicus,30,0,3
+Lactobacillus diolivorans,37,0,4
+Lactobacillus equi,37,0,4
+Lactobacillus equicursoris,37,0,4
+Lactobacillus equigenerosi,37,0,4
+Lactobacillus faecis,37,0,4
+Lactobacillus farciminis,33.5,3.5,4
+Lactobacillus farraginis,37,0,4
+Lactobacillus fermentum,37,0,4
+Lactobacillus fructivorans,25,0,2
+Lactobacillus frumenti,37,0,4
+Lactobacillus fuchuensis,20,0,2
+Lactobacillus gallinarum,37,0,4
+Lactobacillus gasseri,37,0.159090909,4
+Lactobacillus gastricus,37,0,4
+Lactobacillus ghanensis,37,0,4
+Lactobacillus graminis,37,0,4
+Lactobacillus hammesii,30,0,3
+Lactobacillus hamsteri,37,0,4
+Lactobacillus harbinensis,37,0,4
+Lactobacillus hayakitensis,37,0,4
+Lactobacillus helveticus,37,0,4
+Lactobacillus hilgardii,37,1.166666667,4
+Lactobacillus hokkaidonensis,25,0,2
+Lactobacillus hominis,37,0,4
+Lactobacillus homohiochii,37,4,4
+Lactobacillus hordei,30,0,3
+Lactobacillus iners,37,0,4
+Lactobacillus ingluviei,37,2.666666667,4
+Lactobacillus intestinalis,37,0,4
+Lactobacillus jensenii,37,0.411764706,4
+Lactobacillus johnsonii,37,0,4
+Lactobacillus kalixensis,37,0,4
+Lactobacillus kefiranofaciens kefiranofaciens,30,0,3
+Lactobacillus kefiranofaciens kefirgranum,30,0,3
+Lactobacillus kefiri,30,0,3
+Lactobacillus kisonensis,37,0,4
+Lactobacillus kitasatonis,37,0,4
+Lactobacillus kunkeei,30,0,3
+Lactobacillus lindneri,25,0,2
+Lactobacillus malefermentans,30,0,3
+Lactobacillus mali,30,0,3
+Lactobacillus manihotivorans,30,0,3
+Lactobacillus mindensis,37,0,4
+Lactobacillus modestisalitolerans,30,0,3
+Lactobacillus mucosae,37,0,4
+Lactobacillus mudanjiangensis,30,0,3
+Lactobacillus murinus,37,0,4
+Lactobacillus nagelli,30,0,3
+Lactobacillus namurensis,30,0,3
+Lactobacillus nantensis,33.5,3.5,4
+Lactobacillus nenjiangensis,30,0,3
+Lactobacillus nodensis,37,0,4
+Lactobacillus oeni,37,0,4
+Lactobacillus oligofermentans,25,0,2
+Lactobacillus oris,37,0,4
+Lactobacillus oryzae,30,0,3
+Lactobacillus otakiensis,37,0,4
+Lactobacillus panis,37,0,4
+Lactobacillus pantheris,37,0,4
+Lactobacillus parabrevis,37,0,4
+Lactobacillus parabuchneri,30,1.75,3
+Lactobacillus paracaseï,37,0,4
+Lactobacillus paracaseï paracaseï,37,0,4
+Lactobacillus paracasei paracasei,37,1.555555556,4
+Lactobacillus paracasei tolerans,30,0,3
+Lactobacillus paracollinoides,25,0,2
+Lactobacillus parafarraginis,37,0,4
+Lactobacillus parakefiri,30,0,3
+Lactobacillus paralimentarius,30,2.333333333,3
+Lactobacillus paraplantarum,37,1.4,4
+Lactobacillus pasteurii,37,0,4
+Lactobacillus pentosus,37,0,4
+Lactobacillus plajomi,30,0,3
+Lactobacillus plantarum,37,0,4
+Lactobacillus plantarum argentoratensis,30,0,3
+Lactobacillus plantarum Pas de souche,37,0,4
+Lactobacillus plantarum plantarum,37,2.8,4
+Lactobacillus pobuzihii,37,0,4
+Lactobacillus pontis,30,0,3
+Lactobacillus psittaci,37,0,4
+Lactobacillus rapi,37,0,4
+Lactobacillus rennini,37,0,4
+Lactobacillus reuteri,37,0,4
+Lactobacillus rhamnosus,37,0,4
+Lactobacillus rossiae,37,0,4
+Lactobacillus ruminis,37,0,4
+Lactobacillus saerimneri,37,0,4
+Lactobacillus sakei,30,1.75,3
+Lactobacillus sakei carnosus,37,0,4
+Lactobacillus sakei sakei,37,0,4
+Lactobacillus salivarius,37,0,4
+Lactobacillus sanfranciscensis,33.5,3.5,4
+Lactobacillus satsumensis,37,0,4
+Lactobacillus secaliphilus,37,0,4
+Lactobacillus selangorensis,30,0,3
+Lactobacillus senmaizukei,30,0,3
+Lactobacillus sharpeae,30,0,3
+Lactobacillus siliginis,30,0,3
+Lactobacillus similis,37,0,4
+Lactobacillus songhuajiangensis,30,0,3
+Lactobacillus spicheri,30,0,3
+Lactobacillus suebicus,37,0,4
+Lactobacillus sunkii,37,0,4
+Lactobacillus taiwanensis,37,0,4
+Lactobacillus thailandensis,37,0,4
+Lactobacillus tucceti,37,0,4
+Lactobacillus ultunensis,37,0,4
+Lactobacillus uvarum,37,0,4
+Lactobacillus vaccinostercus,33.5,3.5,4
+Lactobacillus vaginalis,37,0,4
+Lactobacillus versmoldensis,30,0,3
+Lactobacillus vini,37,0,4
+Lactobacillus zeae,37,0,4
+Lactobacillus zymae,37,0,4
+Lactobacilus oligofermentans,30,0,3
+Lactococcus chungangensis,37,0,4
+Lactococcus garvieae,33.5,3.5,4
+Lactococcus lactis cremoris,30,0,3
+Lactococcus lactis hordniae,30,0,3
+Lactococcus lactis lactis,30,0.777777778,3
+Lactococcus plantarum,30,0,3
+Lactococcus raffinolactis,30,0,3
+Lactosphaera pasteurii,30,0,3
+Lampropedia hyalina,30,0,3
+Laribacter hongkongensis,37,0,4
+Lautropia mirabilis,30,0,3
+Lechevalieria aerocolonigenes,30,0,3
+Lechevalieria flava,30,0,3
+Lechevalieria fradiae,30,0,3
+Leclercia adecarboxylata,30,0,3
+Legionella adelaidensis,37,0,4
+Legionella anisa,37,0,4
+Legionella beliardensis,37,0,4
+Legionella birminghamensis,37,0,4
+Legionella brunensis,37,0,4
+Legionella cherrii,37,0,4
+Legionella cincinnatiensis,37,0,4
+Legionella drozanskii,30,0,3
+Legionella erythra,37,0,4
+Legionella fairfieldensis,37,0,4
+Legionella fallonii,30,0,3
+Legionella feeleii,37,0,4
+Legionella geestiana,37,0,4
+Legionella genomospecies 1,37,0,4
+Legionella gratiana,37,0,4
+Legionella gresilensis,37,0,4
+Legionella hackeliae,37,0,4
+Legionella israelensis,37,0,4
+Legionella jamestowniensis,37,0,4
+Legionella jordanis,37,0,4
+Legionella lansingensis,37,0,4
+Legionella londiniensis,37,0,4
+Legionella longbeachae,37,0,4
+Legionella moravica,37,0,4
+Legionella nautarum,37,0,4
+Legionella oakridgensis,37,0,4
+Legionella parisiensis,37,0,4
+Legionella pneumophila 1,37,0,4
+Legionella pneumophila fraseri,37,0,4
+Legionella pneumophila pascullei,37,0,4
+Legionella pneumophila pneumophila 1,37,0,4
+Legionella pneumophila pneumophila 10,37,0,4
+Legionella pneumophila pneumophila 11,37,0,4
+Legionella pneumophila pneumophila 12,37,0,4
+Legionella pneumophila pneumophila 13,37,0,4
+Legionella pneumophila pneumophila 14,37,0,4
+Legionella pneumophila pneumophila 2,37,0,4
+Legionella pneumophila pneumophila 3,37,0,4
+Legionella pneumophila pneumophila 6,37,0,4
+Legionella pneumophila pneumophila 7,37,0,4
+Legionella pneumophila pneumophila 8,37,0,4
+Legionella pneumophila pneumophila 9,37,0,4
+Legionella quateirensis,37,0,4
+Legionella quinlivanii,37,0,4
+Legionella rowbothamii,25,0,2
+Legionella rubrilucens,37,0,4
+Legionella sainthelensi,37,0,4
+Legionella shakespearei,37,0,4
+Legionella taurinensis,37,0,4
+Legionella tucsonensis,37,0,4
+Legionella wadsworthii,37,0,4
+Legionella waltersii,37,0,4
+Legionella worsleiensis,37,0,4
+Leifsonia aquatica,33.5,3.5,4
+Leifsonia naganoensis,30,0,3
+Leifsonia poae,20,0,2
+Leifsonia rubra,18,0,2
+Leifsonia shinshuensis,30,0,3
+Leifsonia xyli cynodontis,30,0,3
+Leisingera daeponensis,37,0,4
+Lelliottia amnigena,30,0,3
+Lelliottia nimipressuralis,30,0,3
+Leminorella grimontii,30,0,3
+Leminorella richardii,30,0,3
+Lentibacillus halodurans,30,0,3
+Lentibacillus halophilus,37,0,4
+Lentibacillus juripiscarius,37,0,4
+Lentibacillus kapialis,37,0,4
+Lentibacillus salarius,30,0,3
+Lentibacillus salicampi,30,0,3
+Lentzea albida,30,0,3
+Lentzea albidocapillata,30,0,3
+Lentzea flaviverrucosa,30,0,3
+Lentzea kentuckyensis,30,0,3
+Leptolyngbya,22,13.97297297,2
+Leptonema illini Habaki,29,0,3
+Leptonema illini Illini,29,0,3
+Leptospira  uncertain Banna,29,0,3
+Leptospira alexanderi Manzhuang,29,0,3
+Leptospira alexanderi Mengla,29,0,3
+Leptospira alexanderi Yunnan,29,0,3
+Leptospira biflexa Andamana,29,0,3
+Leptospira biflexa Patoc,29,0,3
+Leptospira borgpetersenii Anhoa,29,0,3
+Leptospira borgpetersenii Arborea,29,0,3
+Leptospira borgpetersenii Balcanica,29,0,3
+Leptospira borgpetersenii Ballum,29,0,3
+Leptospira borgpetersenii Castellonis,29,0,3
+Leptospira borgpetersenii Ceylonica,29,0,3
+Leptospira borgpetersenii Dehong,29,0,3
+Leptospira borgpetersenii Dikkeni,29,0,3
+Leptospira borgpetersenii Gengma,29,0,3
+Leptospira borgpetersenii Guangdong,29,0,3
+Leptospira borgpetersenii Guidae,29,0,3
+Leptospira borgpetersenii Hamptoni,29,0,3
+Leptospira borgpetersenii Hardjobovis,29,0,3
+Leptospira borgpetersenii Istrica,29,0,3
+Leptospira borgpetersenii Javanica,29,0,3
+Leptospira borgpetersenii Jules,29,0,3
+Leptospira borgpetersenii Kanana,29,0,3
+Leptospira borgpetersenii Kenya,30,0,3
+Leptospira borgpetersenii Kisuba,29,0,3
+Leptospira borgpetersenii Kwale,29,0,3
+Leptospira borgpetersenii Menoni,29,0,3
+Leptospira borgpetersenii Mini,29,0,3
+Leptospira borgpetersenii Moldaviae,29,0,3
+Leptospira borgpetersenii Nona,29,0,3
+Leptospira borgpetersenii Nyanza,29,0,3
+Leptospira borgpetersenii Pina,29,0,3
+Leptospira borgpetersenii Poi,29,0,3
+Leptospira borgpetersenii Sejroe,29,0,3
+Leptospira borgpetersenii Soccoestomes,29,0,3
+Leptospira borgpetersenii Sorexjalna,29,0,3
+Leptospira borgpetersenii Tarassovi,29,0,3
+Leptospira borgpetersenii Tonkini,29,0,3
+Leptospira borgpetersenii Whitcombi,29,0,3
+Leptospira borgpetersenii Worsfoldi,29,0,3
+Leptospira borgpetersenii Yaan,29,0,3
+Leptospira borgpetersenii Yunxian,29,0,3
+Leptospira borgpetersenii Zhenkang,29,0,3
+Leptospira fainei Hurstbridge,37,0,4
+Leptospira genomospecies1 Pingchang,29,0,3
+Leptospira genomospecies5 Saopaulo,29,0,3
+Leptospira inadai Aguaruna,29,0,3
+Leptospira inadai Kaup,29,0,3
+Leptospira inadai Lincang,29,0,3
+Leptospira inadai Malaya,29,0,3
+Leptospira inadai Mangus,29,0,3
+Leptospira inadai Manhao 4,29,0,3
+Leptospira interrogans Abramis,29,0,3
+Leptospira interrogans Australis,29,0,3
+Leptospira interrogans Autumnalis,29,0,3
+Leptospira interrogans Bangkinang,29,0,3
+Leptospira interrogans Bangkok,29,0,3
+Leptospira interrogans Bataviae,29,0,3
+Leptospira interrogans Benjamini,29,0,3
+Leptospira interrogans Biggis,29,0,3
+Leptospira interrogans Bindjei,29,0,3
+Leptospira interrogans Birkini,29,0,3
+Leptospira interrogans Bratislava,29,0,3
+Leptospira interrogans Bulgarica,29,0,3
+Leptospira interrogans Camlo,29,0,3
+Leptospira interrogans Canicola,29,0,3
+Leptospira interrogans Carlos,29,0,3
+Leptospira interrogans Copenhageni,29,0,3
+Leptospira interrogans Djasiman,30,0,3
+Leptospira interrogans Evansi,29,0.333333333,3
+Leptospira interrogans Fugis,29,0,3
+Leptospira interrogans Gem,29,0,3
+Leptospira interrogans Geyaweera,29,0,3
+Leptospira interrogans Grippotyphosa,29,0,3
+Leptospira interrogans Gurungi,29,0,3
+Leptospira interrogans Haemolytica,29,0,3
+Leptospira interrogans Hardjo,29,0,3
+Leptospira interrogans Hawain,29,0,3
+Leptospira interrogans Hebdomadis,29,0,3
+Leptospira interrogans Icterohaemorrhagiae,29,0,3
+Leptospira interrogans Jalna,29,0,3
+Leptospira interrogans Jin,29,0,3
+Leptospira interrogans Jonsis,29,0,3
+Leptospira interrogans Kennewicki,29,0,3
+Leptospira interrogans Kremastos,29,0,3
+Leptospira interrogans Kuwait,29,0,3
+Leptospira interrogans Lai,29,0,3
+Leptospira interrogans Lanka,29,0,3
+Leptospira interrogans Lora,29,0,3
+Leptospira interrogans Manilae,29,0,3
+Leptospira interrogans Mooris,29,0,3
+Leptospira interrogans Muenchen,29,0,3
+Leptospira interrogans Mwogolo,29,0,3
+Leptospira interrogans Naam,29,0,3
+Leptospira interrogans Nanxi,29,0,3
+Leptospira interrogans Paidjan,29,0,3
+Leptospira interrogans Pomona,29,0,3
+Leptospira interrogans Pomona (43),29,0,3
+Leptospira interrogans Pomona (64),29,0,3
+Leptospira interrogans Portlandvere,29,0,3
+Leptospira interrogans Pyrogenes,29,0,3
+Leptospira interrogans Qunjian,29,0,3
+Leptospira interrogans Rachmati,29,0,3
+Leptospira interrogans Recreo,29,0,3
+Leptospira interrogans Ricardi,29,0,3
+Leptospira interrogans Robinsoni,29.5,0.5,3
+Leptospira interrogans Roumanica,29,0,3
+Leptospira interrogans Saxkoebing,29,0,3
+Leptospira interrogans Schueffneri,29,0,3
+Leptospira interrogans Sentot,29,0,3
+Leptospira interrogans Smithi,29,0,3
+Leptospira interrogans Sumneri,29,0,3
+Leptospira interrogans Szwajizak,29,0,3
+Leptospira interrogans Valbuzzi,29,0,3
+Leptospira interrogans Waskurin,29,0,3
+Leptospira interrogans Wewak,29,0,3
+Leptospira interrogans Wolffi,29,0,3
+Leptospira interrogans Zanoni,29,0,3
+Leptospira kirschneri Agogo,29,0,3
+Leptospira kirschneri Bafani,29,0,3
+Leptospira kirschneri Bim,29,0,3
+Leptospira kirschneri Bogvere,29,0,3
+Leptospira kirschneri Bulgarica,29,0,3
+Leptospira kirschneri Cynopteri,29,0,3
+Leptospira kirschneri Dakota,29,0,3
+Leptospira kirschneri Galtoni,29,0,3
+Leptospira kirschneri Grippotyphosa,29,0,3
+Leptospira kirschneri Kabura,29,0,3
+Leptospira kirschneri Kambale,29,0,3
+Leptospira kirschneri Kamituga,29,0,3
+Leptospira kirschneri Kunming,29,0,3
+Leptospira kirschneri Lambwe,30,0,3
+Leptospira kirschneri Mozdok,29,0,3
+Leptospira kirschneri Mwogolo,29,0,3
+Leptospira kirschneri Ndahambukuje,29,0,3
+Leptospira kirschneri Ndambari,29,0,3
+Leptospira kirschneri Ramisi,29,0,3
+Leptospira kirschneri Ratnapura,29,0,3
+Leptospira kirschneri Tsaratsovo,29,0,3
+Leptospira kirschneri Vanderhoedeni,29,0,3
+Leptospira meyeri Perameles,29,0,3
+Leptospira meyeri Ranarum,29,0,3
+Leptospira meyeri Semaranga,29,0,3
+Leptospira meyeri Sofia,29,0,3
+Leptospira noguchii Argentiniensis,29,0,3
+Leptospira noguchii Bajan,29,0,3
+Leptospira noguchii Barbudensis,29,0,3
+Leptospira noguchii Claytoni,29,0,3
+Leptospira noguchii Cristobali,29,0,3
+Leptospira noguchii Fortbragg,29,0,3
+Leptospira noguchii Huallaga,29,0,3
+Leptospira noguchii Louisiana,29,0,3
+Leptospira noguchii Myocastoris,29,0,3
+Leptospira noguchii Nicaragua,29,0,3
+Leptospira noguchii Orleans,29,0,3
+Leptospira noguchii Panama,29,0,3
+Leptospira noguchii Peruviana,29,0,3
+Leptospira noguchii Pomona,29,0,3
+Leptospira noguchii Proechimys,29,0,3
+Leptospira noguchii Rushan,29,0,3
+Leptospira santarosai Aguatica,29,0,3
+Leptospira santarosai Alexi,29,0,3
+Leptospira santarosai Alice,29,0,3
+Leptospira santarosai Atchafalaya,29,0,3
+Leptospira santarosai Atlantae,29,0,3
+Leptospira santarosai Babudieri,29,0,3
+Leptospira santarosai Bagua,29,0,3
+Leptospira santarosai Bakeri,29,0,3
+Leptospira santarosai Balboa,29,0,3
+Leptospira santarosai Beye,29,0,3
+Leptospira santarosai Borincana,29,0,3
+Leptospira santarosai Brasiliensis,29,0,3
+Leptospira santarosai Bravo,29,0,3
+Leptospira santarosai Canalzonae,29,0,3
+Leptospira santarosai Cenepa,29,0,3
+Leptospira santarosai Chagres,29,0,3
+Leptospira santarosai Darien,29,0,3
+Leptospira santarosai Fluminense,29,0,3
+Leptospira santarosai Gatuni,29,0,3
+Leptospira santarosai Georgia,29,0,3
+Leptospira santarosai Goiano,29,0,3
+Leptospira santarosai Gorgas,29,0,3
+Leptospira santarosai Guaricura,29,0,3
+Leptospira santarosai Kobbe,29,0,3
+Leptospira santarosai la,29,0,3
+Leptospira santarosai Luis,29,0,3
+Leptospira santarosai Machiguenga,29,0,3
+Leptospira santarosai Maru,29,0,3
+Leptospira santarosai Naparuca,29,0,3
+Leptospira santarosai Navet,29,0,3
+Leptospira santarosai onicas,29,0,3
+Leptospira santarosai Peru,29,0,3
+Leptospira santarosai Princestown,29,0,3
+Leptospira santarosai Rama,29,0,3
+Leptospira santarosai Rio,29,0,3
+Leptospira santarosai Rioja,29,0,3
+Leptospira santarosai Ruparupae,29,0,3
+Leptospira santarosai Sanmartini,29,0,3
+Leptospira santarosai Shermani,29,0,3
+Leptospira santarosai Sulzerae,29,0,3
+Leptospira santarosai Tabaquite,29,0,3
+Leptospira santarosai Tingomaria,29,0,3
+Leptospira santarosai Trinidad,29,0,3
+Leptospira santarosai Tropica,29,0,3
+Leptospira santarosai Weaveri,29,0,3
+Leptospira uncertain Muelleri,29,0,3
+Leptospira uncertain Mujunkumi,29,0,3
+Leptospira Uncertain Nanla,29,0,3
+Leptospira uncertain Santarosai,29,0,3
+Leptospira uncertain Soteropolitana,29,0,3
+Leptospira weilii Celledoni,29,0,3
+Leptospira weilii Coxi,29,0,3
+Leptospira weilii Hainan,29,0,3
+Leptospira weilii Langati,29,0,3
+Leptospira weilii Manhao 2,29,0,3
+Leptospira weilii Mengdeng,29,0,3
+Leptospira weilii Mengma,29,0,3
+Leptospira weilii Menrun,29,0,3
+Leptospira weilii Mogdeni,29,0,3
+Leptospira weilii Sarmin,29,0,3
+Leptospira weilii Vughia,29,0,3
+Leptospira Wolbachii Liangguang,29,0,3
+Leptotrichia buccalis,37,0,4
+Leptotrichia goodfellowii,37,0,4
+Leptotrichia shahii,37,0,4
+Leptotrichia wadeii,37,0,4
+Leucobacter aerolatus,30,0,3
+Leucobacter albus,30,0,3
+Leucobacter alluvii,30,0,3
+Leucobacter aridicollis,30,0,3
+Leucobacter chromiireducens,30,0,3
+Leucobacter iarius,30,0,3
+Leucobacter komagatae,30,0,3
+Leucobacter luti,30,0,3
+Leuconostoc carnosum,25,0,2
+Leuconostoc citreum,30,3.4,3
+Leuconostoc fructosus,30,0,3
+Leuconostoc gelidum gelidum,25,0,2
+Leuconostoc gelidum subsp. gasicomitatum,20,0,2
+Leuconostoc inhae,25,0,2
+Leuconostoc lactis,25,3.066666667,2
+Leuconostoc mesenteroides,37,0,4
+Leuconostoc mesenteroides cremoris,25,0,2
+Leuconostoc mesenteroides dextranicum,30,0,3
+Leuconostoc mesenteroides mesenteroides,25,2.5625,2
+Leuconostoc mesenteroides suionicum,30,0,3
+Leuconostoc palmae,30,0,3
+Leuconostoc pseudomesenteroides,37,3,4
+Limnobacter litoralis,30,0,3
+Limnobacter thiooxidans,30,0,3
+Limnohabitans parvus,21,0,2
+Limnohabitans planktonicus,21,0,2
+Listeria booriae,30,0,3
+Listeria fleischmannii coloradonensis,30,0,3
+Listeria fleischmannii fleischmannii,30,0,3
+Listeria grayi,30,0,3
+Listeria grayi ,30,0,3
+Listeria grayi grayi,30,0,3
+Listeria innocua,37,2.5,4
+Listeria ivanovii ivanovii,37,2.333333333,4
+Listeria ivanovii londoniensis,33.5,3.5,4
+Listeria marthii,37,0,4
+Listeria monocytogenes,37,0.404958678,4
+Listeria monocytogenes 1/2,30,0,3
+Listeria monocytogenes 1/2a,30,0,3
+Listeria monocytogenes 1/2b,30,0,3
+Listeria monocytogenes 1/2c,30,0,3
+Listeria monocytogenes 1/2c ou 3c,30,0,3
+Listeria monocytogenes 3a,30,2.333333333,3
+Listeria monocytogenes 3b,30,0,3
+Listeria monocytogenes 3c,30,0,3
+Listeria monocytogenes 4,30,0,3
+Listeria monocytogenes 4a,30,0,3
+Listeria monocytogenes 4b,30,0.333333333,3
+Listeria monocytogenes 4c,30,0,3
+Listeria monocytogenes 4d,30,0,3
+Listeria monocytogenes 4e,30,0,3
+Listeria monocytogenes 7,30,0,3
+Listeria monocytogenes IIa,30,0,3
+Listeria newyorkensis,30,0,3
+Listeria rocourtiae,30,0,3
+Listeria seeligeri,37,0,4
+Listeria seeligeri 6b,30,0,3
+Listeria seeligeri L,30,0,3
+Listeria welshimeri,37,1.4,4
+Loktanella agnita,25,0,2
+Loktanella atrilutea,25,0,2
+Loktanella fryxellensis,25,0,2
+Loktanella hongkongensis,30,0,3
+Loktanella koreensis,25,0,2
+Loktanella maricola,25,0,2
+Loktanella rosea,25,0,2
+Loktanella salsilacus,25,0,2
+Loktanella vestfoldensis,25,0,2
+Luteimonas composti,30,0,3
+Luteimonas mephitis,30,0,3
+Luteimonas terricola,25,0,2
+Luteococcus japonicus,30,0,3
+Luteococcus peritonei,30,0,3
+Luteococcus sanguinis,37,0,4
+Luteolibacter cuticulihirudinis,30,0,3
+Lyngbya,22,0,2
+Lysinibacillus boronitolerans,37,0,4
+Lysinibacillus contaminans,25,0,2
+Lysinibacillus fusiformis,30,0,3
+Lysinibacillus massiliensis,37,0,4
+Lysinibacillus sphaericus,30,0,3
+Lysobacter daejeonensis,30,0,3
+Lysobacter defluvii,30,0,3
+Lysobacter koreensis,25,0,2
+Lysobacter niabensis,30,0,3
+Lysobacter niastensis,30,0,3
+Lysobacter ximonensis,30,0,3
+Lysobacter xinjiangensis,37,0,4
+Lysobacter yangpyeongensis,30,0,3
+Macrococcus bovicus,30,0,3
+Macrococcus brunensis,37,0,4
+Macrococcus carouselicus,37,2.333333333,4
+Macrococcus caseolyticus,37,1.75,4
+Macrococcus equipercicus,30,0,3
+Macrococcus hajekii,37,0,4
+Macrococcus lamae,37,0,4
+Malikia granosa,30,0,3
+Mannheimia glucosida,37,0,4
+Mannheimia granulomatis,37,0,4
+Mannheimia haemolytica,37,0,4
+Mannheimia haemolytica A17,30,0,3
+Mannheimia ruminalis,37,0,4
+Mannheimia varigena,37,0,4
+Marianus varius,30,0,3
+Maribacter aquivivus,30,0,3
+Maribacter arcticus,20,0,2
+Maribacter forsetii,25,0,2
+Maribacter orientalis  ,30,0,3
+Maribacter sedimenticola,30,0,3
+Maribacter ulvicola,25,0,2
+Maribius pelagius,30,0,3
+Maribius salinus,30,0,3
+Maricaulis maris,25,0,2
+Maricaulis parjimensis,25,0,2
+Maricaulis salignorans,25,0,2
+Maricaulis virginensis,25,0,2
+Maricaulis washingtonensis,25,0,2
+Mariniflexile fucanivorans,25,0,2
+Marinilabilia salmonicolor,27.5,2.5,3
+Marinilactibacillus piezotolerans,37,0,4
+Marinilactibacillus psychrotolerans,33.5,3.5,4
+Marinobacter adhaerens,30,0,3
+Marinobacter algicola,30,0,3
+Marinobacter daepoensis,30,0,3
+Marinobacter excellens,25,0,2
+Marinobacter flavimaris,30,0,3
+Marinobacter gudaonensis,30,0,3
+Marinobacter hydrocarbonoclasticus,25,2.666666667,2
+Marinobacter lipolyticus,37,0,4
+Marinobacter litoralis,30,0,3
+Marinobacter lutaoensis,37,0,4
+Marinobacter maritimus,22,0,2
+Marinobacter salicampi,30,0,3
+Marinobacter salsuginis,30,0,3
+Marinobacter vinifirmus,25,0,2
+Marinobacterium georgiense,30,0,3
+Marinobacterium stanieri,25,0,2
+Marinococcus halophilus,37,0,4
+Marinomonas aquimarina,25,0,2
+Marinomonas mediterranea,25,0,2
+Marinomonas primoryensis,20,0,2
+Marinomonas ushuaiensis,22,0,2
+Marinomonas vaga,25,0,2
+Marinospirillum megaterium,15,0,2
+Marinospirillum minutulum,25,0,2
+Maritimibacter alkaliphilus,30,0,3
+Marivirga tractuosa,25,0,2
+Marixanthomonas ophiurae,30,0,3
+Marmoricola aequoreus,30,0,3
+Marmoricola aurantiacus,25,0,2
+Martelella mediterranea,30,0,3
+Massilia albidiflava,30,0,3
+Massilia alkalitolerans,30,0,3
+Massilia aurea,25,0,2
+Massilia dura,30,0,3
+Massilia lutea,30,0,3
+Massilia niabensis,30,0,3
+Massilia niastensis,30,0,3
+Massilia plicata,30,0,3
+Massilia timonae,30,0,3
+Mastigocladiopsis repens,22,0,2
+Megamonas rupellensis,37,0,4
+Megasphaera elsdenii,37,0,4
+Megasphaera micronuciformis,37,0,4
+Melissococcus plutonius,30,0,3
+Melitea salexigens,30,0,3
+Mesonia algae,25,0,2
+Mesorhizobium amorphae,30,0,3
+Mesorhizobium chacoense,30,0,3
+Mesorhizobium ciceri,30,0,3
+Mesorhizobium huakuii,30,0,3
+Mesorhizobium loti,30,0,3
+Mesorhizobium mediterraneum,30,0,3
+Mesorhizobium plurifarium,30,0,3
+Mesorhizobium thiogangeticum,30,0,3
+Mesorhizobium tianshanense,30,0,3
+Methylobacterium aminovorans,30,0,3
+Methylobacterium aquaticum,25,0,2
+Methylobacterium extorquens,30,0,3
+Methylobacterium fujisawaense,30,0,3
+Methylobacterium hispanicum,25,0,2
+Methylobacterium mesophilicum,25,0,2
+Methylobacterium organophilum,25,0,2
+Methylobacterium rhodesianum,30,0,3
+Methylobacterium rhodinum,25,0,2
+Methylobacterium zatmanii,30,0,3
+Methylocella silvestris,25,0,2
+Methylophaga marina,30,0,3
+Methylophaga sulfidovorans,25,0,2
+Methylophaga thalassica,30,0,3
+Methylorhabdus multivorans,30,0,3
+Microbacterium aerolatum,25,0,2
+Microbacterium agarici,30,0,3
+Microbacterium amylolyticum,30,0,3
+Microbacterium aquimaris,30,0,3
+Microbacterium arabinogalactanolyticum,30,0,3
+Microbacterium arborescens,30,0,3
+Microbacterium aurantiacum,30,0,3
+Microbacterium aurum,30,0,3
+Microbacterium barkeri,30,0,3
+Microbacterium binotii,33.5,3.5,4
+Microbacterium chocolatum,30,0,3
+Microbacterium dextranolyticum,30,0,3
+Microbacterium enclense,30,0,3
+Microbacterium esteraromaticum,30,0,3
+Microbacterium flavescens,25,0,2
+Microbacterium foliorum,25,0,2
+Microbacterium gubbeenense,30,0,3
+Microbacterium halophilum,30,0,3
+Microbacterium halotolerans,30,0,3
+Microbacterium hominis,30,0,3
+Microbacterium hydrocarbonoxydans,30,0,3
+Microbacterium imperiale,30,0,3
+Microbacterium indicum,25,0,2
+Microbacterium invictum,30,0,3
+Microbacterium keratanolyticum,30,0,3
+Microbacterium ketosireducens,30,0,3
+Microbacterium kitamiense,30,0,3
+Microbacterium koreense,30,0,3
+Microbacterium lacticum,30,0,3
+Microbacterium laevaniformans,30,0,3
+Microbacterium lemovicicum,30,0,3
+Microbacterium liquefaciens,30,0,3
+Microbacterium luteolum,30,0,3
+Microbacterium marinilacus,20,0,2
+Microbacterium maritypicum,30,0,3
+Microbacterium natoriense,30,0,3
+Microbacterium oleivorans,30,0,3
+Microbacterium oryzae,30,0,3
+Microbacterium oxydans,30,0,3
+Microbacterium paraoxydans,37,0,4
+Microbacterium phyllosphaerae,27.5,2.5,3
+Microbacterium profundi,30,0,3
+Microbacterium pumilum,30,0,3
+Microbacterium resistens,30,0,3
+Microbacterium saperdae,30,0,3
+Microbacterium schleiferi,30,0,3
+Microbacterium sediminicola,30,0,3
+Microbacterium shaanxiense,25,0,2
+Microbacterium terrae,30,0,3
+Microbacterium terregens,22,0,2
+Microbacterium testaceum,30,0,3
+Microbacterium trichothecenolyticum,30,0,3
+Microbacterium ulmi,25,0,2
+Microbacterium xylanilyticum,30,0,3
+Microbulbifer elongatus,25,0,2
+Microbulbifer hydrolyticus,25,0,2
+Microbulbifer maritimus,37,0,4
+Microbulbifer salipaludis,37,0,4
+Microcella alkaliphila,37,0,4
+Microcella putealis,37,0,4
+Microchaete,22,0,2
+Micrococcus flavus,30,0,3
+Micrococcus luteus,30,0.583333333,3
+Micrococcus lylae,33.5,3.5,4
+Microcoleus,22,0,2
+Microcystis,22,0,2
+Microlunatus ginsengisoli,25,0,2
+Microlunatus phosphovorus,30,0,3
+Micromonosopora coriariae,30,0,3
+Micromonospora auratinigra,30,0,3
+Micromonospora eburnea,25,0,2
+Micromonospora echinaurantiaca,25,0,2
+Micromonospora endolithica,30,0,3
+Micromonospora matsumotoense,30,0,3
+Micromonospora mirobrigensis,30,0,3
+Micromonospora schwarzwaldensis,30,0,3
+Microvirga flocculans,45,0,4
+Microvirgula aerodenitrificans,30,0,3
+Millisia brevis,30,0,3
+Minibacterium massiliensis,30,0,3
+Mitsuaria chitosanitabida,25,0,2
+Mitsuokella jalaludinii,37,0,4
+Mitsuokella multacida,37,0,4
+Modestobacter multiseptatus,22,0,2
+Modestobacter versicolor,30,0,3
+Modicisalibacter tunisiensis,31,6,3
+Moellerella wisconsensis,30,0,3
+Mogibacterium diversum,37,0,4
+Mogibacterium neglectum,37,0,4
+Mogibacterium vescum,37,0,4
+Moorella thermoacetica,55,0,5
+Moorella thermoautotrophica,55,0,5
+Moraxella atlantae,30,0,3
+Moraxella boevrei,37,0,4
+Moraxella bovis,30,0,3
+Moraxella bovoculi,37,0,4
+Moraxella canis,30,0,3
+Moraxella caprae,37,0,4
+Moraxella equi,30,0,3
+Moraxella lacunata,30,1.166666667,3
+Moraxella laennata,30,0,3
+Moraxella lincolnii,30,0,3
+Moraxella nonliquefaciens,30,0.736842105,3
+Moraxella osloensis,30,0.7,3
+Moraxella porci,37,0,4
+Moraxella saccharolytica,30,0,3
+Morganella morganii morganii,30,0,3
+Morganella morganii sibonii,30,0,3
+Morganella psychrotolerans,30,0,3
+Moritella abyssi,5,0,1
+Moritella japonica,10,0,1
+Moritella marina,15,0,2
+Moritella profunda,5,0,1
+Moritella viscosa,15,0,2
+Morococcus cerebrosus,37,0,4
+Moryella indoligenes,37,0,4
+Mucilaginibacter auburnensis,30,0,3
+Mucilaginibacter pineti,30,0,3
+Mucilaginibacter soyangensis,25,0,2
+Muricauda aquimarina,30,0,3
+Muricauda flavescens,30,0,3
+Muricauda ruestringensis,25,0,2
+Murinocardiopsis flavida,30,0,3
+Mycobacterium abscessus abscessus,37,0,4
+Mycobacterium abscessus bolletii,30,0,3
+Mycobacterium abscessus massiliensis,37,0,4
+Mycobacterium aemonae,30,0,3
+Mycobacterium africanum,37,0,4
+Mycobacterium aichiense,37,0,4
+Mycobacterium algericum,37,0,4
+Mycobacterium angelicum,30,0,3
+Mycobacterium arcueilense,30,0,3
+Mycobacterium aromaticivorans,30,0,3
+Mycobacterium asiaticum,37,0,4
+Mycobacterium aubagnense,30,0,3
+Mycobacterium aurum,30,1.75,3
+Mycobacterium austroafricanum,33.5,3.5,4
+Mycobacterium avium,37,1.272727273,4
+Mycobacterium avium avium,37,0,4
+Mycobacterium avium paratuberculosis,37,0,4
+Mycobacterium barrassiae,30,0,3
+Mycobacterium boenickei,37,0,4
+Mycobacterium bohemicum,37,0,4
+Mycobacterium bouchedurhonense,30,0,3
+Mycobacterium bourgelatii,37,0,4
+Mycobacterium bovis,37,0,4
+Mycobacterium branderi,37,0,4
+Mycobacterium brisbanense,37,0,4
+Mycobacterium brumae,30,0,3
+Mycobacterium canariasense,30,0,3
+Mycobacterium caprae,37,0,4
+Mycobacterium celatum,37,0,4
+Mycobacterium chelonae chelonae,37,0,4
+Mycobacterium chimaera,37,0,4
+Mycobacterium chitae,37,0,4
+Mycobacterium chlorophenolicum,30,0,3
+Mycobacterium chubuense,37,0,4
+Mycobacterium colombiense,37,0,4
+Mycobacterium conceptionense,30,0,3
+Mycobacterium confluentis,37,0,4
+Mycobacterium conspicuum,30,0,3
+Mycobacterium cookii,30,0,3
+Mycobacterium cosmeticum,30,0,3
+Mycobacterium crocinum,30,0,3
+Mycobacterium diernhoferi,37,0,4
+Mycobacterium doricum,37,0,4
+Mycobacterium duvalii,37,0,4
+Mycobacterium elephantis,37,0,4
+Mycobacterium fallax,30,0,3
+Mycobacterium flavescens,37,0,4
+Mycobacterium florentinum,30,0,3
+Mycobacterium fluoranthenivorans,30,0,3
+Mycobacterium fortuitum,37,0,4
+Mycobacterium fortuitum acetamidolyticum,37,0,4
+Mycobacterium fortuitum fortuitum,30,0,3
+Mycobacterium gadium,37,0,4
+Mycobacterium gastri,37,0,4
+Mycobacterium gilvum,37,0,4
+Mycobacterium goodii,30,0,3
+Mycobacterium gordonae,30,0,3
+Mycobacterium hassiacum,37,0,4
+Mycobacterium heckeshornense,37,0,4
+Mycobacterium heidelbergense,37,0,4
+Mycobacterium hiberniae,37,0,4
+Mycobacterium hodleri,25,0,2
+Mycobacterium holsaticum,30,0,3
+Mycobacterium houstonense,37,0,4
+Mycobacterium immunogenum,37,0,4
+Mycobacterium insubricum,37,0,4
+Mycobacterium intermedium,37,0,4
+Mycobacterium intracellulare,37,0,4
+Mycobacterium kansasii,37,0,4
+Mycobacterium kubicae,37,0,4
+Mycobacterium lacus,37,0,4
+Mycobacterium lentiflavum,37,0,4
+Mycobacterium lutetiense,30,0,3
+Mycobacterium madagascariense,30,0,3
+Mycobacterium mageritense,37,0,4
+Mycobacterium malmoense,37,0,4
+Mycobacterium manitobense,30,0,3
+Mycobacterium manteni,37,0,4
+Mycobacterium marinum,30,0,3
+Mycobacterium marseillense,30,0,3
+Mycobacterium microti,37,0,4
+Mycobacterium monacense,37,0,4
+Mycobacterium moriokaense,37,0,4
+Mycobacterium mucogenicum,30,0,3
+Mycobacterium murale,22,0,2
+Mycobacterium nebraskense,30,0,3
+Mycobacterium neglectum,21,0,2
+Mycobacterium neoaurum,37,0,4
+Mycobacterium neworleansense,37,0,4
+Mycobacterium nonchromogenicum,37,0,4
+Mycobacterium noviomagense,30,0,3
+Mycobacterium novocastrense,37,0,4
+Mycobacterium obuense,30,0,3
+Mycobacterium pallens,30,0,3
+Mycobacterium palustre,37,0,4
+Mycobacterium parafortuitum,37,0,4
+Mycobacterium parascrofulaceum,37,0,4
+Mycobacterium parmense,37,0,4
+Mycobacterium peregrinum,37,0,4
+Mycobacterium phlei,37,0,4
+Mycobacterium phocaicum,30,0,3
+Mycobacterium porcinum,37,0,4
+Mycobacterium poriferae,37,0,4
+Mycobacterium pseudoshottsii,25,0,2
+Mycobacterium psychrotolerans,30,0,3
+Mycobacterium pulveris,37,0,4
+Mycobacterium pyrenivorans,30,0,3
+Mycobacterium ratisbonense,30,0,3
+Mycobacterium reunionae,37,0,4
+Mycobacterium rhodesiae,37,0,4
+Mycobacterium rufum,30,0,3
+Mycobacterium rutilum,30,0,3
+Mycobacterium saskatchewanense,37,0,4
+Mycobacterium scrofulaceum,37,0,4
+Mycobacterium septicum,37,2.333333333,4
+Mycobacterium simiae,37,0,4
+Mycobacterium smegmatis,37,7.4,4
+Mycobacterium sp.,37,0,4
+Mycobacterium stomatepiae,30,0,3
+Mycobacterium szulgai,37,0,4
+Mycobacterium terrae,37,0,4
+Mycobacterium thermoresistibile,37,0,4
+Mycobacterium timonense,30,0,3
+Mycobacterium tokaiense,37,0,4
+Mycobacterium triplex,37,0,4
+Mycobacterium tuberculosis,37,0,4
+Mycobacterium tusciae,30,0,3
+Mycobacterium vaccae,37,2.333333333,4
+Mycobacterium vanbaalenii,30,0,3
+Mycobacterium vulneris,37,0,4
+Mycobacterium wolinskyi,30,0,3
+Mycobacterium xenopi,37,0,4
+Mycoplasma adleri,37,0,4
+Mycoplasma agalactiae,37,0,4
+Mycoplasma arginini,37,0,4
+Mycoplasma arthritidis,37,0,4
+Mycoplasma auris,37,0,4
+Mycoplasma bovirhinis,37,0,4
+Mycoplasma buccale,37,0,4
+Mycoplasma capricolum capricolum,37,0,4
+Mycoplasma cottewii,37,0,4
+Mycoplasma fermentans,37,0,4
+Mycoplasma gallisepticum,37,0,4
+Mycoplasma genitalium,37,0,4
+Mycoplasma hominis,37,0,4
+Mycoplasma lagogenitalium,37,0,4
+Mycoplasma meleagridis,37,0,4
+Mycoplasma mycoides capri,37,0,4
+Mycoplasma mycoides mycoides,37,0,4
+Mycoplasma neurolyticum,37,0,4
+Mycoplasma primatum,37,0,4
+Mycoplasma sturni,37,0,4
+Mycoplasma yeatsii,37,0,4
+Myroides marinus,25,0,2
+Myroides odoratimimus,30,0.454545455,3
+Myroides odoratus,30,0,3
+Myroides pelagicus,30,0,3
+Myroides profundi,15,0,2
+Myxococcus flavescens,30,0,3
+Myxococcus xanthus,30,0,3
+Myxosarcina,22,0,2
+Nakamurella flavida,25,0,2
+Nakamurella multipartita,30,0,3
+Natrialba asiatica,37,0,4
+Natrialba magadii,37,0,4
+Natrinema pallidum,37,0,4
+Natrinema pellirubrum,37,0,4
+Natronobacterium gregoryi,37,0,4
+Natronococcus amylolyticus,37,0,4
+Natronococcus occultus,37,0,4
+Natronomonas pharaonis,37,0,4
+Natronorubrum bangense,37,0,4
+Natronorubrum tibetense,37,0,4
+Necropsobacter rosorum,37,0,4
+Negativicoccus succinicivorans,37,0,4
+Neisseria animalis,37,0,4
+Neisseria animaloris,33.5,3.5,4
+Neisseria canis,37,0,4
+Neisseria cinerea,37,0,4
+Neisseria dentiae,37,0,4
+Neisseria elongata,37,0,4
+Neisseria elongata elongata,30,0,3
+Neisseria elongata glycolytica,30,0,3
+Neisseria elongata nitroreducens,30,0,3
+Neisseria flavescens,37,0,4
+Neisseria gonorrhoeae,37,0,4
+Neisseria lactamica,30,2.625,3
+Neisseria macacae,30,0,3
+Neisseria meningitidis,37,0,4
+Neisseria meningitidis 29E,37,0,4
+Neisseria meningitidis A,37,0,4
+Neisseria meningitidis B,37,0,4
+Neisseria meningitidis C,37,0,4
+Neisseria meningitidis D,37,0,4
+Neisseria meningitidis H,37,0,4
+Neisseria meningitidis I,37,0,4
+Neisseria meningitidis K,37,0,4
+Neisseria meningitidis L,37,0,4
+Neisseria meningitidis W135,37,0,4
+Neisseria meningitidis X,37,0,4
+Neisseria meningitidis Y,37,0,4
+Neisseria meningitidis Z,37,0,4
+Neisseria mucosa,30,0,3
+Neisseria perflava,33.5,3.5,4
+Neisseria polysaccharea,30,0,3
+Neisseria shayeganii,37,0,4
+Neisseria sicca,30,0,3
+Neisseria subflava,30,0,3
+Neisseria wadsworsthii,37,0,4
+Neisseria wadsworthii,37,0,4
+Neisseria weaveri,30,1,3
+Neisseria zoodegmatis,37,2.333333333,4
+Neocrorococcus lausannensis,30,0,3
+Neptuniibacter caesariensis,25,0,2
+Neptunomonas naphthovorans,25,0,2
+Nereida ignava,25,0,2
+Nesiotobacter exalbescens,30,0,3
+Nesterenkonia aethiopica,30,0,3
+Nesterenkonia halobia,30,0,3
+Nesterenkonia jeotgali,30,0,3
+Nesterenkonia lacusekhoensis,30,0,3
+Nesterenkonia lutea,30,0,3
+Nesterenkonia sandarakina,30,0,3
+Niabella aurantiaca,25,0,2
+Nicoletella semolina,37,0,4
+Nisaea denitrificans,30,0,3
+Nisaea nitritireducens,30,0,3
+Nocardia abscessus,33.5,3.5,4
+Nocardia acidovorans,30,0,3
+Nocardia africana,30,0,3
+Nocardia alba,30,0,3
+Nocardia altamirensis,30,0,3
+Nocardia anaemiae,30,0,3
+Nocardia aobensis,30,0,3
+Nocardia araoensis,30,0,3
+Nocardia arthritidis,30,0,3
+Nocardia asiatica,30,0,3
+Nocardia asteroides,30,12,3
+Nocardia beijingensis,30,0,3
+Nocardia brasiliensis,30,1,3
+Nocardia brevicatena,30,0,3
+Nocardia caishijiensis,30,0,3
+Nocardia carnea,30,0,3
+Nocardia cerradoensis,30,0,3
+Nocardia concava,30,0,3
+Nocardia coubleae,37,0,4
+Nocardia crassostreae,22,0,2
+Nocardia cummidelens,30,0,3
+Nocardia cyriacigeorgica,33.5,3.5,4
+Nocardia diaphanozonaria,30,0,3
+Nocardia elegans,30,0,3
+Nocardia exalbida,37,0,4
+Nocardia farcinica,30,1,3
+Nocardia flavorosea,30,0,3
+Nocardia fluminea,30,0,3
+Nocardia globerula,30,0,3
+Nocardia higoensis,30,0,3
+Nocardia ignorata,30,0,3
+Nocardia inohanensis,30,0,3
+Nocardia italica,30,0,3
+Nocardia jejuensis,30,0,3
+Nocardia jiangxiensis,30,0,3
+Nocardia kruczakiae,30,0,3
+Nocardia leishmanii,30,0,3
+Nocardia mexicana,37,0,4
+Nocardia neocaledoniensis,30,0,3
+Nocardia niigatensis,30,0,3
+Nocardia niwae,30,0,3
+Nocardia nova,30,2.8,3
+Nocardia otitidiscaviarum,30,1.666666667,3
+Nocardia paraguayensis,30,0,3
+Nocardia paucivorans,37,0,4
+Nocardia pneumoniae,30,0,3
+Nocardia polyresistens,30,0,3
+Nocardia pseudobrasiliensis,30,0,3
+Nocardia pseudosporangifera,30,0,3
+Nocardia pseudovaccinii,30,0,3
+Nocardia puris,37,0,4
+Nocardia salmonicida,30,0,3
+Nocardia salmonicolor aurantiaca,30,0,3
+Nocardia seriolae,30,0,3
+Nocardia shimofusensis,30,0,3
+Nocardia sienata,30,0,3
+Nocardia soli,30,0,3
+Nocardia takedensis,30,0,3
+Nocardia tenerifensis,25,0,2
+Nocardia tenuis,30,0,3
+Nocardia terpenica,30,0,3
+Nocardia testacea,25,0,2
+Nocardia thailandica,30,0,3
+Nocardia transvalensis,30,0,3
+Nocardia uniformis,30,0,3
+Nocardia vaccinii,30,0,3
+Nocardia vermiculata,30,0,3
+Nocardia veterana,30,2.333333333,3
+Nocardia vinacea,30,0,3
+Nocardia violaceofusca,30,0,3
+Nocardia yamanashiensis,30,0,3
+Nocardioides albus,25,0,2
+Nocardioides alkalitolerans,30,0,3
+Nocardioides aquaticus,18,0,2
+Nocardioides aquiterrae,30,0,3
+Nocardioides aromaticivorans,30,0,3
+Nocardioides furvisabuli,30,0,3
+Nocardioides ganghwensis,30,0,3
+Nocardioides insulae,30,0,3
+Nocardioides jensenii,25,0,2
+Nocardioides kongjuensis,30,0,3
+Nocardioides kribbensis,30,0,3
+Nocardioides luteus,25,0,2
+Nocardioides nitrophenolicus,30,0,3
+Nocardioides oleivorans,30,0,3
+Nocardioides panacihumi,30,0,3
+Nocardioides plantarum,22,0,2
+Nocardioides pyridinolyticus,37,0,4
+Nocardioides simplex,25,0,2
+Nocardioides zeae,30,0,3
+Nocardioides zeicaulis,30,0,3
+Nocardiopsis aegyptia,30,0,3
+Nocardiopsis composta,37,0,4
+Nocardiopsis dassonvillei albirubida,30,0,3
+Nocardiopsis dassonvillei dassonvillei,30,0,3
+Nocardiopsis halotolerans,30,0,3
+Nocardiopsis kunsanensis,37,0,4
+Nocardiopsis metallicus,30,0,3
+Nocardiopsis salina,30,0,3
+Nocardiopsis trehalosi,30,0,3
+Nocardiopsis tropica,30,0,3
+Nocardiopsis xinjiangensis,30,0,3
+Nodularia,22,0,2
+Nonlabens ulvanivorans,25,0,2
+Nonomuraea africana,30,0,3
+Nonomuraea angiospora,30,0,3
+Nonomuraea bangladeshensis,30,0,3
+Nonomuraea coxensis,30,0,3
+Nonomuraea dietziae,30,0,3
+Nonomuraea fastidiosa,30,0,3
+Nonomuraea ferruginea,30,0,3
+Nonomuraea helvata,30,0,3
+Nonomuraea polychroma,30,0,3
+Nonomuraea pusilla,37,0,4
+Nonomuraea recticatena,30,0,3
+Nonomuraea roseola,30,0,3
+Nonomuraea roseoviolacea carminata,30,0,3
+Nonomuraea roseoviolacea roseoviolacea,37,0,4
+Nonomuraea rubra,30,0,3
+Nonomuraea salmonea,30,0,3
+Nonomuraea spiralis,30,0,3
+Nonomuraea turkmeniaca,30,0,3
+Nosocomiicoccus ampullae,37,0,4
+Nostoc,22,0.04109589,2
+Novispirillum itersonii itersonii,30,0,3
+Novispirillum itersonii nipponicum,30,0,3
+Novosphingobium aromaticivorans,30,0,3
+Novosphingobium capsulatum,30,0,3
+Novosphingobium gossypii,30,0,3
+Novosphingobium hassiacum,25,0,2
+Novosphingobium lentum,22,0,2
+Novosphingobium pentaromativorans,30,0,3
+Novosphingobium resinovorum,30,1,3
+Novosphingobium rosa,25,0,2
+Novosphingobium roseae,30,0,3
+Novosphingobium soli,30,0,3
+Novosphingobium stygium,25,0,2
+Novosphingobium subterraneum,25,0,2
+Novosphingobium taihuense,30,0,3
+Novosphingobium tardaugens,25,0,2
+Obesumbacterium proteus,30,0,3
+Oceanibacillus locisalsi,30,0,3
+Oceanicaulis alexandrii,30,0,3
+Oceanimonas baumannii,25,0,2
+Oceanimonas doudoroffii,30,0,3
+Oceanimonas smirnovii,25,0,2
+Oceanisphaera litoralis,37,0,4
+Oceanobacillus caeni,37,0,4
+Oceanobacillus chironomi,37,0,4
+Oceanobacillus iheyensis,30,0,3
+Oceanobacillus oncorhynchi incaldanensis,37,0,4
+Oceanobacillus oncorhynchi oncorhynchi,30,0,3
+Oceanobacillus picturae,30,0,3
+Oceanobacillus profundus,30,0,3
+Oceanobacillus sojae,30,0,3
+Oceanobacter kriegii,25,0,2
+Oceanospirillum beijerinckii,25,0,2
+Oceanospirillum linum,25,0,2
+Oceanospirillum maris,27.5,2.5,3
+Oceanospirillum multiglobuliferum,25,0,2
+Ochrobactrum anthropi,30,0,3
+Ochrobactrum cytisi,25,0,2
+Ochrobactrum gallinifaecis,25,0,2
+Ochrobactrum grignonense,30,0,3
+Ochrobactrum haemophilum,30,0,3
+Ochrobactrum intermedium,30,0,3
+Ochrobactrum pseudintermedium,37,0,4
+Ochrobactrum pseudogrignonense,30,0,3
+Ochrobactrum tritici,30,0,3
+Octadecabacter antarcticus,4,0,1
+Oenococcus kitaharae,30,0,3
+Oenococcus oeni,22,5,2
+Oerskovia enterophila,30,0,3
+Oerskovia jenensis,30,0,3
+Oerskovia paurometabola,30,0,3
+Oerskovia turbata,30,0,3
+Oleibacter marinus,30,0,3
+Oleiphilus messinensis,25,0,2
+Oligella ureolytica,30,0,3
+Oligella urethralis,30,1,3
+Olleya marilimosa,20,0,2
+Olsenella profusa,37,0,4
+Olsenella uli,37,0,4
+Oribacterium sinus,37,0,4
+Ornithinibacillus bavariensis,30,0,3
+Ornithinibacillus californiensis,30,0,3
+Ornithinicoccus hortensis,28,0,3
+Ornithinimicrobium humiphilum,37,0,4
+Ornithinimicrobium kibberense,25,0,2
+Ornithobacterium rhinotracheale,37,0,4
+Oscillatoria,22,0.083333333,2
+Owenweeksia hongkongensis,30,0,3
+Oxalicibacterium flavum,30,0,3
+Oxalobacter formigenes,20,0,2
+Paenalcaligenes hominis,37,0,4
+Paenarthrobacter aurescens,30,0,3
+Paenarthrobacter histidinolovorans,30,0,3
+Paenarthrobacter ilicis,30,0,3
+Paenarthrobacter nicotinovorans,30,0,3
+Paenarthrobacter nitroguajacolicus  ,30,0,3
+Paenarthrobacter ureafaciens,30,0,3
+Paenibacillus agarexedens,30,0,3
+Paenibacillus agaridevorans,30,0,3
+Paenibacillus alginolyticus,30,0,3
+Paenibacillus alvei,30,0,3
+Paenibacillus amylolyticus,30,0,3
+Paenibacillus anaericanus,30,0,3
+Paenibacillus antarcticus,15,0,2
+Paenibacillus apiarius,30,0,3
+Paenibacillus assamensis,30,0,3
+Paenibacillus azoreducens,30,0,3
+Paenibacillus azotofixans,30,0,3
+Paenibacillus barcinonensis,30,0,3
+Paenibacillus barengoltzii,30,0,3
+Paenibacillus borealis,30,0,3
+Paenibacillus brasilensis,30,0,3
+Paenibacillus brasiliensis,30,0,3
+Paenibacillus campinasensis,37,0,4
+Paenibacillus cellulosilyticus,25,0,2
+Paenibacillus chibensis,30,0,3
+Paenibacillus chinjuensis,30,0,3
+Paenibacillus chitinolyticus,30,0,3
+Paenibacillus chondroitinus,30,0,3
+Paenibacillus cineris,30,0,3
+Paenibacillus cookii,30,0,3
+Paenibacillus corsicus,37,0,4
+Paenibacillus cucumis,30,0,3
+Paenibacillus curdlanolyticus,30,0,3
+Paenibacillus daejeonensis,30,0,3
+Paenibacillus dendritiformis,37,0,4
+Paenibacillus edaphicus,30,0,3
+Paenibacillus ehimensis,30,0,3
+Paenibacillus elgii,30,0,3
+Paenibacillus faecis,30,0,3
+Paenibacillus favisporus,30,0,3
+Paenibacillus fonticola,30,0,3
+Paenibacillus forsythiae,30,0,3
+Paenibacillus gansuensis,30,0,3
+Paenibacillus ginsengarvi,30,0,3
+Paenibacillus glacialis,20,0,2
+Paenibacillus glucanolyticus,30,0,3
+Paenibacillus glycanilyticus,30,0,3
+Paenibacillus graminis,30,0,3
+Paenibacillus hodogayensis,30,0,3
+Paenibacillus humicus,30,0,3
+Paenibacillus hunanensis,30,0,3
+Paenibacillus illinoisensis,30,0,3
+Paenibacillus jamilae,30,0,3
+Paenibacillus jilunlii,30,0,3
+Paenibacillus kobensis,30,0,3
+Paenibacillus konsidensis,37,0,4
+Paenibacillus koreensis,30,0,3
+Paenibacillus kribbensis,30,0,3
+Paenibacillus lactis,30,0,3
+Paenibacillus larvae,30,0,3
+Paenibacillus lautus,30,0,3
+Paenibacillus lentimorbus,30,0,3
+Paenibacillus lolii,30,0,3
+Paenibacillus lupini,37,0,4
+Paenibacillus macerans,30,0,3
+Paenibacillus macquariensis defensor,30,0,3
+Paenibacillus macquariensis macquariensis,22,0,2
+Paenibacillus massiliensis,33.5,3.5,4
+Paenibacillus mendelii,37,0,4
+Paenibacillus motobuensis,30,0,3
+Paenibacillus mucilaginosus,37,0,4
+Paenibacillus naphthalenovorans,30,0,3
+Paenibacillus nematophilus,30,0,3
+Paenibacillus odorifer,30,0,3
+Paenibacillus pabuli,30,0,3
+Paenibacillus pasadenensis,30,0,3
+Paenibacillus pectinilyticus,30,0,3
+Paenibacillus peoriae,30,0,3
+Paenibacillus phyllosphaerae,30,0,3
+Paenibacillus polymyxa,30,0,3
+Paenibacillus popilliae,30,0,3
+Paenibacillus prosopidis,30,0,3
+Paenibacillus provencensis,37,0,4
+Paenibacillus pueri,30,0,3
+Paenibacillus puldeungensis,37,0,4
+Paenibacillus purispatii,30,0,3
+Paenibacillus residui,30,0,3
+Paenibacillus rhizoplanae,30,0,3
+Paenibacillus rhizosphaerae,30,0,3
+Paenibacillus riograndensis,30,0,3
+Paenibacillus sabinae,30,0,3
+Paenibacillus sacheonensis,30,0,3
+Paenibacillus salicis,30,0,3
+Paenibacillus sanguinis,37,0,4
+Paenibacillus sepulcri,30,0,3
+Paenibacillus sputi,30,0,3
+Paenibacillus stellifer,30,0,3
+Paenibacillus taiwanensis,30,0,3
+Paenibacillus telluris,30,0,3
+Paenibacillus terrae,30,0,3
+Paenibacillus terrigena,25,0,2
+Paenibacillus thiaminolyticus,30,0,3
+Paenibacillus timonensis,37,0,4
+Paenibacillus tundrae,30,0,3
+Paenibacillus turicensis,30,0,3
+Paenibacillus uliginis,30,0,3
+Paenibacillus urinalis,37,0,4
+Paenibacillus validus,30,0,3
+Paenibacillus woosongensis,30,0,3
+Paenibacillus wynnii,22,0,2
+Paenibacillus xinjiangensis,30,0,3
+Paenibacillus xylanilyticus,30,0,3
+Paenibacillus xylanisolvens,30,0,3
+Paenibacillus zanthoxyli,30,0,3
+Paeniglutamicibacter gangotriensis,22,0,2
+Paeniglutamicibacter kerguelensis,22,0,2
+Paeniglutamicibacter sulfureus,30,0,3
+Paenisporosarcina macmurdoensis,18,0,2
+Pandoraea apista,37,0,4
+Pandoraea norimbergensis,30,0,3
+Pandoraea pnomenusa,37,0,4
+Pandoraea pulmonicola,37,0,4
+Pandoraea sputorum,33.5,3.5,4
+Pandoraea thiooxydans,30,0,3
+Pannonibacter phragmitetus,30,0,3
+Pantoea agglomerans,30,0.833333333,3
+Pantoea ananatis,30,0,3
+Pantoea cypripedii,30,0,3
+Pantoea dispersa,30,0,3
+Pantoea stewartii indologenes,30,0,3
+Parabacteroides distasonis,37,0,4
+Parabacteroides johnsonii,37,0,4
+Paraburkholderia andropogonis,30,0,3
+Paraburkholderia caballeronis,30,0,3
+Paraburkholderia caledonica,30,0,3
+Paraburkholderia caribensis,30,0,3
+Paraburkholderia endofungorum,30,0,3
+Paraburkholderia ferrariae,30,0,3
+Paraburkholderia fungorum,30,0,3
+Paraburkholderia graminis,30,0,3
+Paraburkholderia hospita,30,0,3
+Paraburkholderia kururiensis,37,0,4
+Paraburkholderia oxyphila,30,0,3
+Paraburkholderia phenazinium,30,0,3
+Paraburkholderia phenoliruptrix,30,0,3
+Paraburkholderia phymatum,30,0,3
+Paraburkholderia phytofirmans,30,0,3
+Paraburkholderia rhizoxinica,30,0,3
+Paraburkholderia sacchari,30,0,3
+Paraburkholderia silvatlantica,30,0,3
+Paraburkholderia soli,30,0,3
+Paraburkholderia terrae,25,0,2
+Paraburkholderia terricola,30,0,3
+Paraburkholderia tropica,30,0,3
+Paraburkholderia tuberum,30,0,3
+Paraburkholderia unamae,30,0,3
+Paraburkholderia xenovorans,30,0,3
+Paraclostridium bifermentans,37,0,4
+Paracoccus alcaliphilus,30,0,3
+Paracoccus alkenifer,30,0,3
+Paracoccus aminophilus,30,0,3
+Paracoccus aminovorans,30,0,3
+Paracoccus contaminans,25,0,2
+Paracoccus denitrificans,30,0,3
+Paracoccus homiensis,30,0,3
+Paracoccus kocurii,30,0,3
+Paracoccus kondratievae,40,0,4
+Paracoccus koreensis,30,0,3
+Paracoccus marinus,22,0,2
+Paracoccus pantotrophus,33.5,3.5,4
+Paracoccus seriniphilus,30,0,3
+Paracoccus shoinia,20,0,2
+Paracoccus solventivorans,30,0,3
+Paracoccus thiocyanatus,30,0,3
+Paracoccus versutus,25,0,2
+Paracoccus yeeii,37,0,4
+Paracraurococcus ruber,30,0,3
+Paraferrimonas sedimenticola,25,0,2
+Paraglaciecola chathamensis,20,0,2
+Paraglaciecola mesophila,25,0,2
+Paraglaciecola polaris,20,0,2
+Paraglaciecola psychrophila,15,0,2
+Paraliobacillus ryukyuensis,30,0,3
+Paraphotobacterium marinum,30,0,3
+Parvimonas micra,37,0,4
+Parvularcula bermudensis,30,0,3
+Pasteurella aerogenes,37,0,4
+Pasteurella bettyae,37,0,4
+Pasteurella caballi,37,0,4
+Pasteurella canis,37,0,4
+Pasteurella dagmatis,37,0,4
+Pasteurella langaaensis,37,0,4
+Pasteurella lymphangitidis,37,0,4
+Pasteurella mairii,37,0,4
+Pasteurella multocida gallicida,37,12.33333333,4
+Pasteurella multocida multocida,37,0.411764706,4
+Pasteurella multocida septica,37,0,4
+Pasteurella pneumotropica,37,0,4
+Pasteurella skyensis,22,0,2
+Pasteurella SP group,37,0,4
+Pasteurella stomatis,37,0,4
+Pasteurella testudinis,37,0,4
+Patulibacter minatonensis,25,0,2
+Paucimonas lemoignei,30,0,3
+Paucisalibacillus globulus,37,0,4
+Pectobacterium atrosepticum,30,0,3
+Pectobacterium betavasculorum,25,0,2
+Pectobacterium cacticida,30,0,3
+Pectobacterium carotovorum carotovorum,30,0,3
+Pectobacterium carotovorum odoriferum,30,0,3
+Pectobacterium wasabiae,25,0,2
+Pediococcus acidilactici,37,2.333333333,4
+Pediococcus cellicola,37,0,4
+Pediococcus damnosus,25,0,2
+Pediococcus inopinatus,30,0,3
+Pediococcus parvulus,30,0,3
+Pediococcus pentosaceus,30,1.555555556,3
+Pediococcus stilesii,37,0,4
+Pedobacter africanus,25,0,2
+Pedobacter bauzanensis,25,0,2
+Pedobacter caeni,30,0,3
+Pedobacter cryoconitis,22,0,2
+Pedobacter duraquae,15,0,2
+Pedobacter hartonius,15,0,2
+Pedobacter heparinus,30,0,3
+Pedobacter himalayensis,22,0,2
+Pedobacter insulae,25,0,2
+Pedobacter koreensis,30,0,3
+Pedobacter metabolipauper,15,0,2
+Pedobacter nyackensis,20,0,2
+Pedobacter piscium,30,0,3
+Pedobacter ruber,25,0,2
+Pedobacter sandarakinus,25,0,2
+Pedobacter steynii,25,0,2
+Pedobacter suwonensis,30,0,3
+Pedobacter tournemirensis,30,0,3
+Pedobacter westerhofensis,15,0,2
+Pelistega europaea,37,0,4
+Pelomonas saccharophila,30,0,3
+Pelosinus fermentans,25,0,2
+Peptoniphilus asaccharolyticus,37,0,4
+Peptoniphilus harei,37,0,4
+Peptoniphilus ivorii,37,0,4
+Peptostreptococcus anaerobius,37,0,4
+Peptostreptococcus massiliae,37,0,4
+Phaeobacter gallaeciensis,22,0,2
+Phaeobacter inhibens,22.5,2.5,2
+Phenylobacterium composti,30,0,3
+Phenylobacterium falsum,30,0,3
+Phenylobacterium immobile,30,0,3
+Phocoenobacter uteri,37,0,4
+Photobacterium angustum,25,0,2
+Photobacterium damselae damselae,25,2,2
+Photobacterium damselae piscicida,25,0,2
+Photobacterium iliopiscarium,15,0,2
+Photobacterium kishitanii,25,0,2
+Photobacterium leiognathi,25,0,2
+Photobacterium phosphoreum,25,0,2
+Photobacterium profundum,10,0,1
+Photorhabdus asymbiotica asymbiotica,30,0,3
+Photorhabdus asymbiotica australis,30,0,3
+Photorhabdus luminescens akhurstii,30,0,3
+Photorhabdus luminescens caribbeanensis,30,0,3
+Photorhabdus luminescens hainanensis,30,0,3
+Photorhabdus luminescens kayaii,30,0,3
+Photorhabdus luminescens laumondii,30,0,3
+Photorhabdus luminescens luminescens,30,0,3
+Photorhabdus luminescens namnaonensis,25,0,2
+Photorhabdus temperata khanii,30,0,3
+Photorhabdus temperata tasmaniensis,30,0,3
+Photorhabdus temperata temperata,30,0,3
+Photorhabdus temperata thracensis,30,0,3
+Phyllobacterium catacumbae,30,0,3
+Phyllobacterium myrsinacearum,25,0,2
+Pigmentiphaga kullae,30,0,3
+Piscibacillus salipiscarius,37,0,4
+Planktothrix ,22,0,2
+Planktothrix agardhii,22,0,2
+Planktothrix paucivesiculata,22,0,2
+Planktothrix rubescens,18,0,2
+Planktothrix serta,22,0,2
+Planktothrix tepida,22,0,2
+Planococcus antarcticus,25,0,2
+Planococcus citreus,30,0,3
+Planococcus maitriensis,30,0,3
+Planococcus maritimus,30,0,3
+Planococcus rifietoensis,37,0,4
+Planomicrobium alkanoclasticum,20,0,2
+Planomicrobium koreense,30,0,3
+Planomicrobium mcmeekinii,22,0,2
+Planomicrobium okeanokoites,30,0,3
+Planomicrobium psychrophilum,22,0,2
+Plantibacter auratus,30,0,3
+Plantibacter flavus,30,0,3
+Pleionea mediterranea,25,0,2
+Plesiomonas shigelloides,30,0,3
+Pleurocapsa,22,0,2
+Pluralibacter gergoviae,30,0,3
+Pluralibacter pyrinus,30,0,3
+Polaribacter dokdonensis,25,0,2
+Polaribacter filamentus,4,0,1
+Polaribacter franzmannii,8,0,1
+Polaribacter glomeratus,15,0,2
+Polaribacter irgensii,4,0,1
+Polaromonas aquatica,30,0,3
+Polynucleobacter acidiphobus,25,0,2
+Polynucleobacter cosmopolitanus,30,0,3
+Polynucleobacter difficilis,25,0,2
+Polynucleobacter duraquae,20,0,2
+Polynucleobacter necessarius asymbioticus,30,0,3
+Polynucleobacter rarus,30,0,3
+Polynucleobacter sinensis,25,0,2
+Polynucleobacter yangtzensis,25,0,2
+Pontibacillus halophilus,30,0,3
+Pontibacter roseus,30,0,3
+Porphyrobacter cryptus,50,0,5
+Porphyrobacter neustonensis,30,0,3
+Porphyrobacter sanguineus,25,0,2
+Porphyromonas gingivalis,37,0,4
+Pragia fontium,30,0,3
+Prauserella alba,30,0,3
+Prauserella halophila,30,0,3
+Prauserella rugosa,30,0,3
+Prevotella albensis,37,0,4
+Prevotella amnii,37,0,4
+Prevotella bivia,37,0,4
+Prevotella brevis,37,0,4
+Prevotella bryantii,37,0,4
+Prevotella corporis,37,0,4
+Prevotella enoeca,37,0,4
+Prevotella massiliensis,37,0,4
+Prevotella melaninogenica,37,0,4
+Prevotella nanceiensis,37,0,4
+Prevotella nigrescens,37,0,4
+Prevotella oris,37,0,4
+Prevotella pallens,37,0,4
+Prevotella tannerae,37,0,4
+Prevotella timonensis,37,2.333333333,4
+Prochlorothrix,22,0,2
+Prolinoborus fasciculus,30,0,3
+Promicromonospora aerolata,25,0,2
+Promicromonospora vindobonensis,30,0,3
+Propionibacterium australiense,37,0,4
+Propionibacterium cyclohexanicum,37,0,4
+Propionibacterium freudenreichii freudenreichii,30,0,3
+Propionibacterium freudenreichii shermanii,37,0,4
+Propioniferax innocua,37,0,4
+Propionimicrobium lymphophilum,37,0,4
+Proteus genomospecies 4,30,0,3
+Proteus genomospecies 5,30,0,3
+Proteus genomospecies 6,30,0,3
+Proteus hauseri,30,0,3
+Proteus mirabilis,30,0,3
+Proteus penneri,30,0,3
+Proteus vulgaris,30,0,3
+Providencia alcalifaciens,30,0,3
+Providencia heimbachae,30,0,3
+Providencia rettgeri,30,0,3
+Providencia rustigianii,30,0,3
+Providencia stuartii,30,0,3
+Providencia vermicola,30,0,3
+Pseudacidovorax intermedius,30,0,3
+Pseudaminobacter defluvii,30,0,3
+Pseudaminobacter salicylatoxidans,30,0,3
+Pseudanabaena,22,0,2
+Pseudarthrobacter chlorophenolicus,30,0,3
+Pseudarthrobacter polychromogenes,30,0,3
+Pseudarthrobacter scleromae,30,0,3
+Pseudidiomarina homiensis,30,0,3
+Pseudoalteromonas agarivorans,25,0,2
+Pseudoalteromonas aliena,25,0,2
+Pseudoalteromonas antarctica,15,0,2
+Pseudoalteromonas atlantica,22,0,2
+Pseudoalteromonas carrageenovora,22,0,2
+Pseudoalteromonas citrea,22,0,2
+Pseudoalteromonas denitrificans,15,0,2
+Pseudoalteromonas distincta,25,0,2
+Pseudoalteromonas elyakovii,25,0,2
+Pseudoalteromonas espejiana,22,0,2
+Pseudoalteromonas flavupulchra,30,0,3
+Pseudoalteromonas fuliginea,25,0,2
+Pseudoalteromonas haloplanktis,22,2.333333333,2
+Pseudoalteromonas issachenkonii,25,0,2
+Pseudoalteromonas luteoviolacea,22,0,2
+Pseudoalteromonas maricaloris,28,0,3
+Pseudoalteromonas mariniglutinosa,25,0,2
+Pseudoalteromonas nigrifaciens,22,0,2
+Pseudoalteromonas paragorgicola,20,0,2
+Pseudoalteromonas peptidolytica,30,0,3
+Pseudoalteromonas piscicida,25,0,2
+Pseudoalteromonas prydzensis,25,0,2
+Pseudoalteromonas rubra,22,0,2
+Pseudoalteromonas ruthenika,25,0,2
+Pseudoalteromonas spongiae,30,0,3
+Pseudoalteromonas tetraodonis,22,0,2
+Pseudoalteromonas translucida,25,0,2
+Pseudoalteromonas tunicata,20,0,2
+Pseudoalteromonas ulvae,25,0,2
+Pseudoalteromonas undina,22,0,2
+Pseudoarcicella hirudinis,30,0,3
+Pseudobutyrivibrio xylanivorans,37,0,4
+Pseudochrobactrum asaccharolyticum,30,0,3
+Pseudochrobactrum kiredjianae,25,0,2
+Pseudochrobactrum saccharolyticum,30,0,3
+Pseudoduganella violaceinigra,30,0,3
+Pseudoglutamicibacter albus,37,0,4
+Pseudoglutamicibacter cumminsii,37,0,4
+Pseudohaliea rubra,30,0,3
+Pseudomonas abietaniphila,30,0,3
+Pseudomonas aeruginosa,30,0.405405405,3
+Pseudomonas aeruginosa 1,30,0,3
+Pseudomonas aeruginosa 10,30,0,3
+Pseudomonas aeruginosa 11,30,0,3
+Pseudomonas aeruginosa 12,30,0,3
+Pseudomonas aeruginosa 13,30,0,3
+Pseudomonas aeruginosa 14,30,0,3
+Pseudomonas aeruginosa 15,30,0,3
+Pseudomonas aeruginosa 16,30,0,3
+Pseudomonas aeruginosa 2,30,0,3
+Pseudomonas aeruginosa 3,30,0,3
+Pseudomonas aeruginosa 4,30,0,3
+Pseudomonas aeruginosa 5,30,0,3
+Pseudomonas aeruginosa 6,30,0,3
+Pseudomonas aeruginosa 7,30,0,3
+Pseudomonas aeruginosa 8,30,0,3
+Pseudomonas aeruginosa 9,30,0,3
+Pseudomonas agarici,25,0,2
+Pseudomonas alcaligenes,30,0,3
+Pseudomonas alcaliphila,30,0,3
+Pseudomonas alginovora,22,0,2
+Pseudomonas amygdali,25,0,2
+Pseudomonas anguilliseptica,25,0,2
+Pseudomonas antarctica,25,0,2
+Pseudomonas argentinensis,30,0,3
+Pseudomonas asplenii,26,0,2
+Pseudomonas avellanae,25,0,2
+Pseudomonas azelaica,30,0,3
+Pseudomonas azotifigens,30,0,3
+Pseudomonas azotoformans,25,0,2
+Pseudomonas balearica,30,0,3
+Pseudomonas benzenivorans,30,0,3
+Pseudomonas borbori,30,0,3
+Pseudomonas boreopolis,30,0,3
+Pseudomonas brassicacearum brassicacearum,30,0,3
+Pseudomonas brassicacearum neoaurantiaca,25,0,2
+Pseudomonas brenneri,30,0,3
+Pseudomonas butanavora,30,0,3
+Pseudomonas cannabina,25,0,2
+Pseudomonas caricapapayae,25,0,2
+Pseudomonas cedrina cedrina,30,0,3
+Pseudomonas chlororaphis,30,0,3
+Pseudomonas chlororaphis aurantiaca,25,0,2
+Pseudomonas chlororaphis aureofaciens,30,0,3
+Pseudomonas chlororaphis chlororaphis,30,0,3
+Pseudomonas chlororaphis piscium,25,0,2
+Pseudomonas cichorii,25,0,2
+Pseudomonas cissicola,25,0,2
+Pseudomonas citronellolis,30,0,3
+Pseudomonas congelans,30,0,3
+Pseudomonas corrugata,25,0,2
+Pseudomonas costantinii,30,0,3
+Pseudomonas cremoricolorata,30,0,3
+Pseudomonas cuatrocienegasensis,30,0,3
+Pseudomonas delhiensis,37,0,4
+Pseudomonas extremoaustralis,30,0,3
+Pseudomonas extremorientalis,25,0,2
+Pseudomonas flavescens,30,0,3
+Pseudomonas fluorescens,30,0.384615385,3
+Pseudomonas fragi,30,0,3
+Pseudomonas frederiksbergensis,30,0,3
+Pseudomonas fulva,27.5,2.5,3
+Pseudomonas fuscovaginae,30,0,3
+Pseudomonas gessardii,30,0,3
+Pseudomonas graminis,25,0,2
+Pseudomonas grimontii,30,0,3
+Pseudomonas indica,30,0,3
+Pseudomonas iners,25,0,2
+Pseudomonas jessenii,30,0,3
+Pseudomonas jinjuensis,30,0,3
+Pseudomonas kilonensis,30,0,3
+Pseudomonas knackmusii,30,0,3
+Pseudomonas koreensis,30,0,3
+Pseudomonas kunmingensis,30,0,3
+Pseudomonas libanensis,30,0,3
+Pseudomonas lini,30,0,3
+Pseudomonas ludensis,30,0,3
+Pseudomonas lundensis,25,0,2
+Pseudomonas lurida,30,0,3
+Pseudomonas luteola,30,0,3
+Pseudomonas mandelii,30,0,3
+Pseudomonas marginalis,30,1.666666667,3
+Pseudomonas mediterranea,30,0,3
+Pseudomonas mendocina,30,0,3
+Pseudomonas migulae,30,0,3
+Pseudomonas mohnii,30,0,3
+Pseudomonas monteilii,30,0,3
+Pseudomonas moorei,30,0,3
+Pseudomonas mosselii,30,0,3
+Pseudomonas mosselli,30,0,3
+Pseudomonas mucidolens,25,0,2
+Pseudomonas neoaurantiaca,30,0,3
+Pseudomonas nitroreducens,27.5,2.5,3
+Pseudomonas oleovorans,30,0,3
+Pseudomonas oleovorans oleovorans,30,0,3
+Pseudomonas orientalis,30,0,3
+Pseudomonas oryzihabitans,30,0,3
+Pseudomonas otitidis,37,0,4
+Pseudomonas pachastrellae,30,0,3
+Pseudomonas palleroniana,30,0,3
+Pseudomonas panacis,30,0,3
+Pseudomonas parafulva,30,0,3
+Pseudomonas peli,30,0,3
+Pseudomonas pertucinogena,37,0,4
+Pseudomonas pictorum,30,0,3
+Pseudomonas plecoglossicida,30,0,3
+Pseudomonas poae,30,0,3
+Pseudomonas pohangensis,30,0,3
+Pseudomonas proteolytica,25,0,2
+Pseudomonas psychrophila,30,0,3
+Pseudomonas psychrotolerans,30,0,3
+Pseudomonas punonensis,30,0,3
+Pseudomonas putida,30,0.454545455,3
+Pseudomonas reinekei,30,0,3
+Pseudomonas resinovorans,30,0,3
+Pseudomonas rhizosphaerae,30,0,3
+Pseudomonas rhodesiae,30,0,3
+Pseudomonas salomonii,30,0,3
+Pseudomonas saponiphila,30,0,3
+Pseudomonas savastanoi,30,0,3
+Pseudomonas segetis,30,0,3
+Pseudomonas simiae,30,0,3
+Pseudomonas straminea,25,0,2
+Pseudomonas stutzeri,30,0.344827586,3
+Pseudomonas syncyanea,30,0,3
+Pseudomonas synxantha,30,0,3
+Pseudomonas syringae syringae ,25,0,2
+Pseudomonas taetrolens,25,0,2
+Pseudomonas thermotolerans,50,0,5
+Pseudomonas thivervalensis,25,0,2
+Pseudomonas tolaasii,25,0,2
+Pseudomonas trivialis,30,0,3
+Pseudomonas umsongensis,30,0,3
+Pseudomonas vancouverensis,30,0,3
+Pseudomonas veronii inensis,30,0,3
+Pseudomonas veronii veronii,30,0,3
+Pseudomonas viridiflava,25,0,2
+Pseudomonas vranovensis,30,0,3
+Pseudomonas xanthomarina,25,0,2
+Pseudomonas xinjiangensis,30,0,3
+Pseudonocardia acaciae,37,0,4
+Pseudonocardia alaniniphila,30,0,3
+Pseudonocardia antarctica,25,0,2
+Pseudonocardia asaccharolytica,30,0,3
+Pseudonocardia autotrophica,30,0,3
+Pseudonocardia babensis,30,0,3
+Pseudonocardia kongjuensis,30,0,3
+Pseudonocardia petroleophila,25,0,2
+Pseudonocardia spinosispora,30,0,3
+Pseudonocardia sulfidoxydans,30,0,3
+Pseudonocardia tetrahydrofuranoxydans,30,0,3
+Pseudonocardia xinjiangensis,30,0,3
+Pseudonocardia zijingensis,30,0,3
+Pseudooceanicola nanhaiensis,30,0,3
+Pseudopedobacter saltans,25,0,2
+Pseudophaeobacter leonis,30,0,3
+Pseudopropionibacterium propionicum,37,0,4
+Pseudoramibacter alactolyticus,37,0,4
+Pseudorhodobacter ferrugineus,25,0,2
+Pseudoruegeria aquimaris,37,0,4
+Pseudosphingobacteri domesticum,30,0,3
+Pseudospirillum japonicum,25,0,2
+Pseudovibrio denitrificans,30,0,3
+Pseudoxanthobacter soli,30,0,3
+Pseudoxanthomonas broegbernensis,30,0,3
+Pseudoxanthomonas daejeonensis,30,0,3
+Pseudoxanthomonas dokdonensis,30,0,3
+Pseudoxanthomonas japonensis,30,0,3
+Pseudoxanthomonas kalamensis,30,0,3
+Pseudoxanthomonas koreensis,30,0,3
+Pseudoxanthomonas mexicana,30,0,3
+Pseudoxanthomonas spadix,30,0,3
+Pseudoxanthomonas suwonensis,30,0,3
+Pseudoxanthomonas taiwanensis,50,0,5
+Pseudoxanthomonas yeongjuensis,30,0,3
+Psychrobacillus insolitus,15,0,2
+Psychrobacillus psychrodurans,25,0,2
+Psychrobacillus psychrotolerans,25,0,2
+Psychrobacter adeliensis,20,0,2
+Psychrobacter aestuarii ,30,0,3
+Psychrobacter aquaticus,22,0,2
+Psychrobacter aquimaris,30,0,3
+Psychrobacter arcticus,20,0,2
+Psychrobacter arenosus,25,0,2
+Psychrobacter cibarius,30,0,3
+Psychrobacter ciconiae,30,0,3
+Psychrobacter cryohalolentis,20,0,2
+Psychrobacter faecalis,37,0,4
+Psychrobacter fozii,25,0,2
+Psychrobacter frigidicola,10,0,1
+Psychrobacter fulvigenes,25,0,2
+Psychrobacter glaciei,20,0,2
+Psychrobacter glacincola,15,0,2
+Psychrobacter immobilis,25,0,2
+Psychrobacter jeotgali,30,0,3
+Psychrobacter luti,25,0,2
+Psychrobacter lutiphocae,37,0,4
+Psychrobacter marincola,25,0,2
+Psychrobacter maritimus,25,0,2
+Psychrobacter namhaensis,30,0,3
+Psychrobacter nivimaris,25,0,2
+Psychrobacter oceani,25,0,2
+Psychrobacter okhotskensis,20,0,2
+Psychrobacter pacificensis,30,0,3
+Psychrobacter phenylpyruvicus,30,0,3
+Psychrobacter piscatorii,25,0,2
+Psychrobacter proteolyticus,22,0,2
+Psychrobacter pulmonis,37,0,4
+Psychrobacter salsus,20,0,2
+Psychrobacter sanguinis,37,0,4
+Psychrobacter submarinus,25,0,2
+Psychrobacter urativorans,20,0,2
+Psychrobacter vallis,20,0,2
+Psychroflexus gondwanensis,22,0,2
+Psychroflexus torquis,4,0,1
+Psychroflexus tropicus,30,0,3
+Psychromonas arctica,5,0,1
+Psychromonas ingrahamii,5,0,1
+Psychromonas marina,18,0,2
+Psychromonas profunda,5,0,1
+Psychroserpens burtonensis,15,0,2
+Pusillimonas noertemannii,37,0,4
+Pyxidicoccus fallax,30,0,3
+Rahnella aquatilis,30,1.25,3
+Rahnella genomospecies 1,30,0,3
+Rahnella variigena,30,0,3
+Ralstonia insidiosa,37,0,4
+Ralstonia mannitolilytica,30,0,3
+Ralstonia pickettii,30,0,3
+Ralstonia syzygii syzygii,30,0,3
+Ramlibacter henchirensis,30,0,3
+Ramlibacter tataouinensis,30,0,3
+Raoultella ornithinolytica,30,0,3
+Raoultella planticola,30,0,3
+Raoultella terrigena,30,0,3
+Rarobacter faecitabidus,30,0,3
+Rarobacter incanus,30,0,3
+Rathayibacter caricis,25,0,2
+Rathayibacter festucae,25,0,2
+Rathayibacter iranicus,30,0,3
+Rathayibacter rathayi,30,0,3
+Rathayibacter toxicus,30,0,3
+Rathayibacter tritici,30,0,3
+Reichenbachiella agariperforans,25,0,2
+Reinekea marinisedimentorum,30,0,3
+Renibacterium salmoninarum,18,0,2
+Rheinheimera baltica,20,0,2
+Rheinheimera pacifica,37,0,4
+Rheinheimera perlucida,25,0,2
+Rhizobium calliandrae,30,0,3
+Rhizobium endophyticum,30,0,3
+Rhizobium etli,30,0,3
+Rhizobium etli mimosae,30,0,3
+Rhizobium favelukesii,30,0,3
+Rhizobium galegae,25,0,2
+Rhizobium grahamii,30,0,3
+Rhizobium hainanense,30,0,3
+Rhizobium huautlense,25,0,2
+Rhizobium indigoferae,30,0,3
+Rhizobium jaguaris,30,0,3
+Rhizobium larrymoorei,30,0,3
+Rhizobium leguminosarum,30,0,3
+Rhizobium loessense,30,0,3
+Rhizobium lupini,30,0,3
+Rhizobium lusitanum,30,0,3
+Rhizobium mayense,30,0,3
+Rhizobium mongolense,25,0,2
+Rhizobium phaseoli,30,0,3
+Rhizobium radiobacter,30,0,3
+Rhizobium rhizogenes,22,0.75,2
+Rhizobium rubi,30,0,3
+Rhizobium tropici,30,0,3
+Rhizobium undicola,30,0,3
+Rhizobium yanglingense,30,0,3
+Rhizorhapis suberifaciens,30,0,3
+Rhodanobacter fulvus,25,0,2
+Rhodanobacter spathiphylli,30,0,3
+Rhodobacter azotoformans,28,0,3
+Rhodobacter blasticus,30,0,3
+Rhodobacter capsulatus,30,0,3
+Rhodobacter sphaeroides,15,15,2
+Rhodobacter vinaykumarii,30,0,3
+Rhodobium gokarnense,30,0,3
+Rhodobium marinum,30,0,3
+Rhodoblastus acidophilus,30,0,3
+Rhodocista pekingensis,30,0,3
+Rhodococcus aetherivorans,30,0,3
+Rhodococcus baikonurensis,30,0,3
+Rhodococcus coprophilus,30,0,3
+Rhodococcus corynebacteroides,30,0,3
+Rhodococcus equi,30,0,3
+Rhodococcus erythropolis,30,0,3
+Rhodococcus fascians,30,0,3
+Rhodococcus globerulus,29,1,3
+Rhodococcus gordoniae,30,0,3
+Rhodococcus imtechensis,30,0,3
+Rhodococcus jostii,30,0,3
+Rhodococcus koreensis,30,0,3
+Rhodococcus kroppenstedtii,30,0,3
+Rhodococcus kyotonensis,30,0,3
+Rhodococcus maanshanensis,30,0,3
+Rhodococcus marinonascens,18,0,2
+Rhodococcus opacus,30,0,3
+Rhodococcus percolatus,30,0,3
+Rhodococcus phenolicus,30,0,3
+Rhodococcus pyridinivorans,33.5,3.5,4
+Rhodococcus rhodnii,30,0,3
+Rhodococcus rhodochrous,30,0,3
+Rhodococcus ruber,30,0,3
+Rhodococcus triatomae,30,0,3
+Rhodococcus tukisamuensis,30,0,3
+Rhodococcus wratislaviensis,30,0,3
+Rhodococcus yunnanensis,30,0,3
+Rhodococcus zopfii,30,0,3
+Rhodoglobus aureus,22,0,2
+Rhodoglobus vestalii,18,0,2
+Rhodopila globiformis,25,0,2
+Rhodopseudomonas faecalis,30,0,3
+Rhodopseudomonas palustris,30,0,3
+Rhodopseudomonas rhenobacensis,30,0,3
+Rhodospirillum rubrum,30,0,3
+Rhodovarius lipocyclicus,30,0,3
+Rhodovulum visakhapatnamense,30,0,3
+Riemerella anatipestifer,37,0,4
+Riemerella columbina,37,0,4
+Rivibacter subsaxonicus,30,0,3
+Rivularia,22,0,2
+Roseibacterium elongatum,25,0,2
+Roseibium denhamense,25,0,2
+Roseibium hamelinense,25,0,2
+Roseivivax halodurans,30,0,3
+Roseivivax halotolerans,30,0,3
+Roseobacter denitrificans,22,0,2
+Roseobacter litoralis,22,0,2
+Roseomonas aerilata,30,0,3
+Roseomonas aquatica,30,0,3
+Roseomonas cervicalis,37,0,4
+Roseomonas fauriae,37,0,4
+Roseomonas genomospecies 4,37,0,4
+Roseomonas genomospecies 5,37,0,4
+Roseomonas genomospecies 6,37,0,4
+Roseomonas gilardii gilardii,37,0,4
+Roseomonas gilardii rosea,37,0,4
+Roseomonas lacus,30,0,3
+Roseomonas ludipueritiae,30,0,3
+Roseomonas massiliae,30,0,3
+Roseomonas mucosa,30,2.333333333,3
+Roseomonas pecuniae,30,0,3
+Roseomonas rosea,30,0,3
+Roseomonas terpenica,25,0,2
+Roseovarius litoralis,25,0,2
+Roseovarius tolerans,22,0,2
+Rothia aeria,30,0,3
+Rothia aerolata,30,0,3
+Rothia amarae,37,0,4
+Rothia dentocariosa,37,0,4
+Rothia mucilaginosa,33.5,3.5,4
+Rothia nasimurium,37,0,4
+Rouxiella chamberiensis,30,0,3
+Ruania albidiflava,30,0,3
+Rubellimicrobium thermophilum,45,0,4
+Rubrimonas cliftonensis,30,0,3
+Rubrivivax benzoatilyticus,30,0,3
+Rubrivivax gelatinosus,25,0,2
+Rubrobacter radiotolerans,37,0,4
+Rubrobacter xylanophilus,60,0,5
+Ruegeria algicola,22,0,2
+Ruegeria atlantica,22,0,2
+Ruegeria mobilis,30,0,3
+Ruegeria salexigens,25,0,2
+Rummeliibacillus pycnus,30,0,3
+Rummeliibacillus stabekisii,30,0,3
+Saccharibacillus endophyticus,25,0,2
+Saccharicrinis fermentans,30,0,3
+Saccharomonospora halophila,30,0,3
+Saccharomonospora paurometabolica,30,0,3
+Saccharopolyspora cebuensis,30,0,3
+Sagittula stellata,30,0,3
+Salegentibacter flavus,30,0,3
+Salegentibacter holothuriorum,25,0,2
+Salegentibacter salegens,30,0,3
+Salicola marensis,37,0,4
+Salimicrobium album,30,0,3
+Salimicrobium luteum,37,0,4
+Salinibacillus aidingensis,37,0,4
+Salinibacter ruber,37,0,4
+Salinibacterium amurskyense,30,0,3
+Salinicoccus alkaliphilus,37,0,4
+Salinicoccus hispanicus,37,0,4
+Salinicoccus roseus,37,0,4
+Salinicoccus siamensis,30,0,3
+Salinicola halophilus,30,0,3
+Salinicola salarius,25,0,2
+Salinispora arenicola,25,0,2
+Salinivibrio costicola costicola,25,0,2
+Salinivibrio costicola vallismortis,25,0,2
+Salinivibrio proteolyticus,30,0,3
+Salipaludibacillus agaradhaerens,30,0,3
+Salipiger mucosus,30,0,3
+Salirhabdus euzebyi,37,0,4
+Salmonella enterica arizonae,30,0,3
+Salmonella enterica bongori,30,0,3
+Salmonella enterica diarizonae,30,0,3
+Salmonella enterica enterica,18.5,18.5,2
+Salmonella enterica enterica Aberdeen,30,0,3
+Salmonella enterica enterica Abony,30,0,3
+Salmonella enterica enterica Abortusequi,30,0,3
+Salmonella enterica enterica Abortusovis,30,0,3
+Salmonella enterica enterica Anatum,30,0,3
+Salmonella enterica enterica Berta,30,0,3
+Salmonella enterica enterica Bovismorbificans,30,0,3
+Salmonella enterica enterica Braenderup,30,0,3
+Salmonella enterica enterica Brazzaville,30,0,3
+Salmonella enterica enterica Carrau,30,0,3
+Salmonella enterica enterica Chester,30,0,3
+Salmonella enterica enterica Choleraesuis,30,0,3
+Salmonella enterica enterica Corvallis,30,0,3
+Salmonella enterica enterica Dakar,30,0,3
+Salmonella enterica enterica Derby,30,2.333333333,3
+Salmonella enterica enterica Dublin,30,0,3
+Salmonella enterica enterica Enteritidis,30,2.1,3
+Salmonella enterica enterica Gallinarum,30,0,3
+Salmonella enterica enterica Garoli,30,0,3
+Salmonella enterica enterica Grumpensis,30,0,3
+Salmonella enterica enterica Hadar,30,0,3
+Salmonella enterica enterica Havana,30,0,3
+Salmonella enterica enterica Hessarek,30,0,3
+Salmonella enterica enterica Infantis,30,0,3
+Salmonella enterica enterica Kentucky,30,0,3
+Salmonella enterica enterica Leipzig,30,0,3
+Salmonella enterica enterica London,30,0,3
+Salmonella enterica enterica Luciana,30,0,3
+Salmonella enterica enterica Maracaibo,30,0,3
+Salmonella enterica enterica Marseille,30,0,3
+Salmonella enterica enterica Mbandaka,30,0,3
+Salmonella enterica enterica Mikawasima,30,0,3
+Salmonella enterica enterica Minnesota,30,0,3
+Salmonella enterica enterica Montevideo,30,0,3
+Salmonella enterica enterica Muenchen,30,0,3
+Salmonella enterica enterica Muenster,37,0,4
+Salmonella enterica enterica Newport,30,0,3
+Salmonella enterica enterica Panama,30,0,3
+Salmonella enterica enterica Paratyphi A,30,0,3
+Salmonella enterica enterica Paratyphi B,30,0,3
+Salmonella enterica enterica Paratyphi C,30,0,3
+Salmonella enterica enterica Pomona,30,0,3
+Salmonella enterica enterica Poona,30,0,3
+Salmonella enterica enterica Reading,30,0,3
+Salmonella enterica enterica Saintpaul,37,0,4
+Salmonella enterica enterica Salford,30,0,3
+Salmonella enterica enterica Senftenberg,30,0,3
+Salmonella enterica enterica Senftenberg ,30,0,3
+Salmonella enterica enterica Stanley,30,0,3
+Salmonella enterica enterica Strasbourg,30,0,3
+Salmonella enterica enterica Tananarive,30,0,3
+Salmonella enterica enterica Thompson,30,0,3
+Salmonella enterica enterica Typhi,30,0,3
+Salmonella enterica enterica Typhimurium,30,0.225806452,3
+Salmonella enterica enterica undetermined,30,2.333333333,3
+Salmonella enterica enterica Virchow,30,0,3
+Salmonella enterica enterica Waycross,30,0,3
+Salmonella enterica enterica Wien,30,0,3
+Salmonella enterica enterica Zanzibar,30,0,3
+Salmonella enterica houtenae,30,0,3
+Salmonella enterica indica,30,0,3
+Salmonella enterica salamae,30,0,3
+Salmonella subterranea,25,0,2
+Samsonia erythrinae,30,0,3
+Sandarakinorhabdus limnophila,15,0,2
+Sanguibacter inulinus,30,0,3
+Sanguibacter keddieii,30,0,3
+Sanguibacter marinus,30,0,3
+Sanguibacter suarezii,30,0,3
+Scytonema,22,0,2
+Sediminibacillus albus,30,0,3
+Sediminicola flavus,37,0,4
+Sediminitomix flava,25,0,2
+Segetibacter koreensis,30,0,3
+Segniliparus rotundus,30,0,3
+Segniliparus rugosus,30,0,3
+Selenomonas artemidis,37,0,4
+Selenomonas noxia-like,37,0,4
+Serinicoccus marinus,30,0,3
+Serratia aquatilis,37,0,4
+Serratia entomophila,30,0,3
+Serratia ficaria,30,0,3
+Serratia fonticola,30,0,3
+Serratia grimesii,30,0,3
+Serratia liquefaciens,30,0,3
+Serratia marcescens,30,0,3
+Serratia marcescens marcescens,30,0,3
+Serratia marcescens marcescens O1,30,0,3
+Serratia marcescens marcescens O10,30,0,3
+Serratia marcescens marcescens O11,30,0,3
+Serratia marcescens marcescens O12,30,0,3
+Serratia marcescens marcescens O14,30,0,3
+Serratia marcescens marcescens O15,30,0,3
+Serratia marcescens marcescens O16,30,0,3
+Serratia marcescens marcescens O17,30,0,3
+Serratia marcescens marcescens O18,30,0,3
+Serratia marcescens marcescens O19,30,0,3
+Serratia marcescens marcescens O2,30,0,3
+Serratia marcescens marcescens O20,30,0,3
+Serratia marcescens marcescens O21,30,0,3
+Serratia marcescens marcescens O22,30,0,3
+Serratia marcescens marcescens O23,30,0,3
+Serratia marcescens marcescens O26,30,0,3
+Serratia marcescens marcescens O3,30,0,3
+Serratia marcescens marcescens O4,30,0,3
+Serratia marcescens marcescens O6,30,0,3
+Serratia marcescens marcescens O7,30,0,3
+Serratia marcescens marcescens O8,30,0,3
+Serratia marcescens O13,30,0,3
+Serratia marcescens O25,30,0,3
+Serratia marcescens O5,30,0,3
+Serratia marcescens O9,30,0,3
+Serratia marcescens sakuensis,30,0,3
+Serratia odorifera,30,0,3
+Serratia plymuthica,30,0,3
+Serratia proteamaculans,30,0,3
+Serratia quinivorans,30,0,3
+Serratia rubidaea,30,0,3
+Serratia symbiotica,30,0,3
+Serratia ureilytica,30,0,3
+Shewanella algae,25,1.428571429,2
+Shewanella amazonensis,25,0,2
+Shewanella aquimarina,30,0,3
+Shewanella baltica,25,0.6,2
+Shewanella canadensis,10,0,1
+Shewanella colwelliana,25,0,2
+Shewanella corallii,30,0,3
+Shewanella decolorationis,25,0,2
+Shewanella denitrificans,25,0,2
+Shewanella fidelis,25,0,2
+Shewanella frigidimarina,20,0,2
+Shewanella gelidimarina,18,0,2
+Shewanella glacialipiscicola,25,0,2
+Shewanella hafniensis,25,0,2
+Shewanella halifaxensis,15,0,2
+Shewanella hanedai,22,0,2
+Shewanella japonica,30,0,3
+Shewanella livingstonensis,15,0,2
+Shewanella loihica,20,0,2
+Shewanella marina,30,0,3
+Shewanella marinintestina,25,0,2
+Shewanella marisflavi,30,0,3
+Shewanella olleyana,30,0,3
+Shewanella oneidensis,30,0,3
+Shewanella pacifica,25,0,2
+Shewanella pealeana,25,0,2
+Shewanella profunda,25,0,2
+Shewanella putrefaciens,25,0,2
+Shewanella sairae,20,0,2
+Shewanella schlegeliana,25,0,2
+Shewanella sediminis,15,0,2
+Shewanella violacea,4,0,1
+Shewanella waksmanii,25,0,2
+Shewanella woodyi,25,0,2
+Shigella boydii 1,30,0,3
+Shigella boydii 10,30,0,3
+Shigella boydii 11,30,0,3
+Shigella boydii 12,30,0,3
+Shigella boydii 13,30,0,3
+Shigella boydii 14,30,0,3
+Shigella boydii 15,30,0,3
+Shigella boydii 16,30,0,3
+Shigella boydii 2,30,0,3
+Shigella boydii 3,30,0,3
+Shigella boydii 4,30,0,3
+Shigella boydii 5,30,0,3
+Shigella boydii 6,30,0,3
+Shigella boydii 7,30,0,3
+Shigella boydii 8,30,0,3
+Shigella boydii 9,30,0,3
+Shigella dysenteriae 1,30,0,3
+Shigella dysenteriae 10,30,0,3
+Shigella dysenteriae 11,30,0,3
+Shigella dysenteriae 2,30,0,3
+Shigella dysenteriae 3,30,0,3
+Shigella dysenteriae 4,30,0,3
+Shigella dysenteriae 5,30,0,3
+Shigella dysenteriae 6,30,0,3
+Shigella dysenteriae 7,30,0,3
+Shigella dysenteriae 8,30,0,3
+Shigella dysenteriae 9,30,0,3
+Shigella flexneri,30,0,3
+Shigella flexneri 1,30,0,3
+Shigella flexneri 2,30,0,3
+Shigella flexneri 2a,30,0,3
+Shigella flexneri 3,30,0,3
+Shigella flexneri 4,30,0,3
+Shigella flexneri 5,30,0,3
+Shigella flexneri 6,30,0,3
+Shigella flexneri unknown,30,0,3
+Shigella flexneri Y,30,0,3
+Shigella sonnei,30,0,3
+Shimwellia blattae,30,0,3
+Shimwellia pseudoproteus,30,0,3
+Shingomonas molluscorum,30,0,3
+Shuttleworthia satelles,37,0,4
+Simonsiella muelleri,37,0,4
+Simplicispira metamorpha,27.5,2.5,3
+Simplicispira psychrophila,20,0,2
+Sinomonas atrocyana,30,0,3
+Sinorhizobium americanum,30,0,3
+Sinorhizobium chiapanecum,30,0,3
+Skermanella massiliensis,37,0,4
+Skermanella parooensis,25,0,2
+Skermanella xinjiangensis,30,0,3
+Skermania piniformis,25,0,2
+Slackia faecicanis,37,0,4
+Slackia heliotrinireducens,37,0,4
+Sneathia sanguinegens,37,0,4
+Solibacillus silvestris,30,0,3
+Solirubrobacter pauli,22,0,2
+Solitalea canadensis,25,0,2
+Solobacterium moorei,37,0,4
+Sphaerimonospora mesophila,37,0,4
+Sphingobacterium daejeonense,30,0,3
+Sphingobacterium faecium,30,0,3
+Sphingobacterium lactis,30,0,3
+Sphingobacterium multivorum,30,0,3
+Sphingobacterium spiritivorum,30,0,3
+Sphingobacterium thalpophilum,30,0,3
+Sphingobium amiense,30,0,3
+Sphingobium aromaticiconvertans,25,0,2
+Sphingobium chlorophenolicum,30,0,3
+Sphingobium chungbukense,30,0,3
+Sphingobium cloacae,25,0,2
+Sphingobium francense,30,0,3
+Sphingobium fuliginis,30,0,3
+Sphingobium herbicidovorans,30,0,3
+Sphingobium indicum,30,0,3
+Sphingobium japonicum,30,0,3
+Sphingobium sp.,20,0,2
+Sphingobium vulgare,30,0,3
+Sphingobium xenophagum,30,0,3
+Sphingomonas abaci,25,0,2
+Sphingomonas adhesiva,30,0,3
+Sphingomonas aerolata,22,0,2
+Sphingomonas aestuarii,30,0,3
+Sphingomonas aquatilis,30,0,3
+Sphingomonas asaccharolytica,30,0,3
+Sphingomonas aurantiaca,30,0,3
+Sphingomonas azotifigens,30,0,3
+Sphingomonas changbaiensis,30,0,3
+Sphingomonas desiccabilis,30,0,3
+Sphingomonas dokdonensis,27.5,2.5,3
+Sphingomonas echinoides,25,0,2
+Sphingomonas faeni,22,0,2
+Sphingomonas fennica,30,0,3
+Sphingomonas ginsenosidimutans,30,0,3
+Sphingomonas glacialis,25,0,2
+Sphingomonas haloaromaticamans,30,0,3
+Sphingomonas insulae,25,0,2
+Sphingomonas japonica,25,0,2
+Sphingomonas jaspsi,37,0,4
+Sphingomonas jinjuensis,30,0,3
+Sphingomonas kaistensis,25,0,2
+Sphingomonas koreensis,30,0,3
+Sphingomonas leidyi,30,0,3
+Sphingomonas mali,30,0,3
+Sphingomonas melonis,30,0,3
+Sphingomonas mucosissima,25,0,2
+Sphingomonas natatoria,25,0,2
+Sphingomonas oligophenolica,30,0,3
+Sphingomonas oryziterrae,30,0,3
+Sphingomonas panni,25,0,2
+Sphingomonas parapaucimobilis,30,0,3
+Sphingomonas paucimobilis,30,0,3
+Sphingomonas phyllosphaerae,25,0,2
+Sphingomonas pituitosa,30,0,3
+Sphingomonas pruni,30,0,3
+Sphingomonas pseudosanguinis,30,0,3
+Sphingomonas roseiflava,30,0,3
+Sphingomonas rubra,25,0,2
+Sphingomonas sanguinis,30,0,3
+Sphingomonas sanxanigenens,30,0,3
+Sphingomonas soli,25,0,2
+Sphingomonas sp.,25,0,2
+Sphingomonas trueperi,30,0,3
+Sphingomonas wittichii,30,0,3
+Sphingomonas xinjiangensis,30,0,3
+Sphingomonas yabuuchiae,30,0,3
+Sphingomonas yanoikuyae,37,0,4
+Sphingomonas yunnanensis,30,0,3
+Sphingopyxis alaskensis,30,0,3
+Sphingopyxis baekryungensis,30,0,3
+Sphingopyxis macrogoltabida,30,0,3
+Sphingopyxis taejonensis,30,0,3
+Sphingopyxis terrae,30,0,3
+Sphingopyxis witflariensis,25,0,2
+Sphingosinicella microcystinivorans,30,0,3
+Sphingosinicella xenopeptidilytica,25,0,2
+Spirosoma linguale,25,0,2
+Spirulina,22,0,2
+Sporanaerobacter acetigenes,37,0,4
+Sporolactobacillus inulinus,30,0,3
+Sporolactobacillus kofuensis,30,0,3
+Sporolactobacillus laevolacticus,30,0,3
+Sporolactobacillus nakayamae nakayamae,30,0,3
+Sporolactobacillus nakayamae racemicus,30,0,3
+Sporolactobacillus terrae,30,0,3
+Sporomusa aerivorans,30,0,3
+Sporomusa massiliensis,37,0,4
+Sporosarcina aquimarina,25,0,2
+Sporosarcina globispora,15,0,2
+Sporosarcina koreensis,30,0,3
+Sporosarcina luteola,30,0,3
+Sporosarcina pasteurii,30,0,3
+Sporosarcina psychrophila,15,0,2
+Sporosarcina saromensis,30,0,3
+Sporosarcina soli,30,0,3
+Stackebrandtia nassauensis,30,0,3
+Stanieria,22,0,2
+Staphylococcus argenteus,37,0,4
+Staphylococcus arlettae,37,0,4
+Staphylococcus aureus,37,0,4
+Staphylococcus aureus anaerobius,37,0,4
+Staphylococcus aureus aureus,37,1.072072072,4
+Staphylococcus auricularis,37,0,4
+Staphylococcus capitis capitis,37,0,4
+Staphylococcus capitis ureolyticus,37,2.333333333,4
+Staphylococcus caprae,37,0,4
+Staphylococcus carnosus carnosus,37,0,4
+Staphylococcus carnosus utilis,30,0,3
+Staphylococcus chromogenes,37,0,4
+Staphylococcus cohnii,37,0,4
+Staphylococcus cohnii cohnii,37,0,4
+Staphylococcus cohnii urealyticum,37,0,4
+Staphylococcus condimenti,30,0,3
+Staphylococcus delphini,37,0,4
+Staphylococcus devriesei,37,0,4
+Staphylococcus epidermidis,37,0.269230769,4
+Staphylococcus equorum,30,2.333333333,3
+Staphylococcus felis,37,0,4
+Staphylococcus fleurettii,30,0,3
+Staphylococcus gallinarum,37,0,4
+Staphylococcus haemolyticus,37,0,4
+Staphylococcus hominis hominis,37,0,4
+Staphylococcus hominis novobiosepticus,37,1.75,4
+Staphylococcus hyicus,37,0,4
+Staphylococcus intermedius,37,0,4
+Staphylococcus kloosii,37,0,4
+Staphylococcus lentus,37,0,4
+Staphylococcus lugdunensis,37,0,4
+Staphylococcus lutrae,37,0,4
+Staphylococcus muscae,37,0,4
+Staphylococcus nepalensis,30,0,3
+Staphylococcus pasteuri,37,0,4
+Staphylococcus pettenkoferi,37,0,4
+Staphylococcus piscifermentans,37,0,4
+Staphylococcus pseudintermedius,30,0,3
+Staphylococcus saccharolyticus,37,0,4
+Staphylococcus saprophyticus bovis,30,0,3
+Staphylococcus saprophyticus saprophyticus,30,0,3
+Staphylococcus schleiferi coagulans,37,0,4
+Staphylococcus schleiferi schleiferi,37,0,4
+Staphylococcus sciuri carnaticus,37,0,4
+Staphylococcus sciuri rodentium,37,0,4
+Staphylococcus sciuri sciuri,37,0,4
+Staphylococcus simulans,37,0,4
+Staphylococcus stepanovicii,37,0,4
+Staphylococcus succinus casei,30,0,3
+Staphylococcus succinus succinus,37,0,4
+Staphylococcus vitulinus,37,0,4
+Staphylococcus warneri,37,0.875,4
+Staphylococcus xylosus,37,0,4
+Stappia stellulata,25,0,2
+Starkeya koreensis,30,0,3
+Starkeya novella,30,0,3
+Stenotrophomonas acidaminiphila,30,0,3
+Stenotrophomonas koreensis,37,0,4
+Stenotrophomonas maltophilia,30,0.588235294,3
+Stenotrophomonas nitritireducens,30,0,3
+Stenotrophomonas rhizophila,30,0,3
+Stenotrophomonas terrae,30,0,3
+Streptacidiphilus jiangxiensis,30,0,3
+Streptobacillus felis,37,0,4
+Streptobacillus moniliformis,37,0,4
+Streptobacillus notomytis,37,0,4
+Streptococcus acidominimus,37,0,4
+Streptococcus agalactiae,37,0.368421053,4
+Streptococcus alactolyticus,37,0,4
+Streptococcus anginosus,37,0,4
+Streptococcus anginosus subsp. anginosus,37,0,4
+Streptococcus anginosus whileyi,37,0,4
+Streptococcus australis,37,0,4
+Streptococcus bovis,37,0,4
+Streptococcus canis,37,0,4
+Streptococcus castoreus,37,0,4
+Streptococcus constellatus constellatus,37,0,4
+Streptococcus constellatus viborgensis,37,0,4
+Streptococcus criceti,37,0,4
+Streptococcus cristatus,37,0,4
+Streptococcus devriesei,30,0,3
+Streptococcus didelphis,37,0,4
+Streptococcus downei,37,0,4
+Streptococcus dysgalactiae dysgalactiae,37,0,4
+Streptococcus dysgalactiae equisimilis,37,1,4
+Streptococcus entericus,37,0,4
+Streptococcus equi equi,37,0,4
+Streptococcus equi ruminatorum,37,0,4
+Streptococcus equi zooepidemicus,37,0,4
+Streptococcus equinus,37,0,4
+Streptococcus ferus,37,0,4
+Streptococcus gallinaceus,37,0,4
+Streptococcus gallolyticus gallolyticus,37,0.6,4
+Streptococcus gallolyticus macedonicus,37,0,4
+Streptococcus gallolyticus pasteurianus,37,0,4
+Streptococcus gordonii,37,0,4
+Streptococcus halichoeri,37,0,4
+Streptococcus hyointestinalis,37,0,4
+Streptococcus hyovaginalis,37,0,4
+Streptococcus ictaluri,30,0,3
+Streptococcus infantarius coli,37,0,4
+Streptococcus infantarius infantarius,37,0,4
+Streptococcus infantis,37,0,4
+Streptococcus iniae,37,0,4
+Streptococcus intermedius,37,0,4
+Streptococcus lutetiensis,37,0,4
+Streptococcus macacae,37,0,4
+Streptococcus marimammalium,37,0,4
+Streptococcus massiliensis,37,0,4
+Streptococcus minor,37,0,4
+Streptococcus mitis,37,0,4
+Streptococcus mitis 1,37,0,4
+Streptococcus mutans,37,0,4
+Streptococcus oligofermentans,37,0,4
+Streptococcus oralis,37,0,4
+Streptococcus oralis oralis,37,0,4
+Streptococcus orisratti,37,0,4
+Streptococcus orisuis,37,0,4
+Streptococcus ovis,37,0,4
+Streptococcus parasanguinis,37,0,4
+Streptococcus parauberis,37,0,4
+Streptococcus peroris,37,0,4
+Streptococcus phocae,37,0,4
+Streptococcus pluranimalium,37,0,4
+Streptococcus pneumoniae,37,0,4
+Streptococcus pneumoniae 1,37,0,4
+Streptococcus pneumoniae 10A,37,0,4
+Streptococcus pneumoniae 10B,37,0,4
+Streptococcus pneumoniae 10C,37,0,4
+Streptococcus pneumoniae 10F,37,0,4
+Streptococcus pneumoniae 11A,37,0,4
+Streptococcus pneumoniae 11B,37,0,4
+Streptococcus pneumoniae 11C,37,0,4
+Streptococcus pneumoniae 11D,37,0,4
+Streptococcus pneumoniae 11F,37,0,4
+Streptococcus pneumoniae 12A,37,0,4
+Streptococcus pneumoniae 12B,37,0,4
+Streptococcus pneumoniae 12F,37,0,4
+Streptococcus pneumoniae 13,37,0,4
+Streptococcus pneumoniae 14,37,0,4
+Streptococcus pneumoniae 15A,37,0,4
+Streptococcus pneumoniae 15B,37,0,4
+Streptococcus pneumoniae 15C,37,0,4
+Streptococcus pneumoniae 15F,37,0,4
+Streptococcus pneumoniae 16A,37,0,4
+Streptococcus pneumoniae 16F,37,0,4
+Streptococcus pneumoniae 17A,37,0,4
+Streptococcus pneumoniae 17F,37,0,4
+Streptococcus pneumoniae 18A,37,0,4
+Streptococcus pneumoniae 18B,37,0,4
+Streptococcus pneumoniae 18C,37,0,4
+Streptococcus pneumoniae 18F,37,0,4
+Streptococcus pneumoniae 19A,37,0,4
+Streptococcus pneumoniae 19B,37,0,4
+Streptococcus pneumoniae 19C,37,0,4
+Streptococcus pneumoniae 19F,37,0,4
+Streptococcus pneumoniae 2,37,0,4
+Streptococcus pneumoniae 20,37,0,4
+Streptococcus pneumoniae 21,37,0,4
+Streptococcus pneumoniae 22A,37,0,4
+Streptococcus pneumoniae 22F,37,0,4
+Streptococcus pneumoniae 23A,37,0,4
+Streptococcus pneumoniae 23B,37,0,4
+Streptococcus pneumoniae 23F,37,0,4
+Streptococcus pneumoniae 24A,37,0,4
+Streptococcus pneumoniae 24B,37,0,4
+Streptococcus pneumoniae 24F,37,0,4
+Streptococcus pneumoniae 25A,37,0,4
+Streptococcus pneumoniae 25F,37,0,4
+Streptococcus pneumoniae 27,37,0,4
+Streptococcus pneumoniae 28A,37,0,4
+Streptococcus pneumoniae 28F,37,0,4
+Streptococcus pneumoniae 29,37,0,4
+Streptococcus pneumoniae 3,37,0,4
+Streptococcus pneumoniae 31,37,0,4
+Streptococcus pneumoniae 32A,37,0,4
+Streptococcus pneumoniae 32F,37,0,4
+Streptococcus pneumoniae 33A,37,0,4
+Streptococcus pneumoniae 33B,37,0,4
+Streptococcus pneumoniae 33C,37,0,4
+Streptococcus pneumoniae 33D,37,0,4
+Streptococcus pneumoniae 33F,37,0,4
+Streptococcus pneumoniae 34,37,0,4
+Streptococcus pneumoniae 35A,37,0,4
+Streptococcus pneumoniae 35B,37,0,4
+Streptococcus pneumoniae 35C,37,0,4
+Streptococcus pneumoniae 35F,37,0,4
+Streptococcus pneumoniae 36,37,0,4
+Streptococcus pneumoniae 37,37,0,4
+Streptococcus pneumoniae 38,37,0,4
+Streptococcus pneumoniae 39,37,0,4
+Streptococcus pneumoniae 4,37,0,4
+Streptococcus pneumoniae 40,37,0,4
+Streptococcus pneumoniae 41A,37,0,4
+Streptococcus pneumoniae 41F,37,0,4
+Streptococcus pneumoniae 42,37,0,4
+Streptococcus pneumoniae 43,37,0,4
+Streptococcus pneumoniae 44,37,0,4
+Streptococcus pneumoniae 45,37,0,4
+Streptococcus pneumoniae 46,37,0,4
+Streptococcus pneumoniae 47A,37,0,4
+Streptococcus pneumoniae 47F,37,0,4
+Streptococcus pneumoniae 48,37,0,4
+Streptococcus pneumoniae 5,37,0,4
+Streptococcus pneumoniae 6A,37,0,4
+Streptococcus pneumoniae 6B,37,0,4
+Streptococcus pneumoniae 7A,37,0,4
+Streptococcus pneumoniae 7B,37,0,4
+Streptococcus pneumoniae 7C,37,0,4
+Streptococcus pneumoniae 7F,37,0,4
+Streptococcus pneumoniae 8,37,0,4
+Streptococcus pneumoniae 9A,37,0,4
+Streptococcus pneumoniae 9L,37,0,4
+Streptococcus pneumoniae 9N,37,0,4
+Streptococcus pneumoniae 9V,37,0,4
+Streptococcus porcinus,37,0,4
+Streptococcus pseudopneumoniae,37,0,4
+Streptococcus pyogenes,37,0.12962963,4
+Streptococcus ratti,37,0,4
+Streptococcus salivarius,37,0,4
+Streptococcus sanguinis,37,0,4
+Streptococcus sinensis,37,0,4
+Streptococcus sobrinus,37,0,4
+Streptococcus suis,37,0,4
+Streptococcus suis 1/2,37,0,4
+Streptococcus suis 10,37,0,4
+Streptococcus suis 14,37,0,4
+Streptococcus suis 15,37,0,4
+Streptococcus suis 2,37,0,4
+Streptococcus suis 22,37,0,4
+Streptococcus suis 3,37,0,4
+Streptococcus suis 4,37,0,4
+Streptococcus suis 5,37,0,4
+Streptococcus suis 7,37,0,4
+Streptococcus thermophilus,37,0,4
+Streptococcus thoraltensis,37,0,4
+Streptococcus uberis,37,0,4
+Streptococcus uberis I,37,0,4
+Streptococcus uberis II,37,0,4
+Streptococcus urinalis,37,0,4
+Streptococcus vestibularis,37,0,4
+Streptomonospora alba,30,0,3
+Streptomonospora salina,30,0,3
+Streptomyces abikoensis,30,0,3
+Streptomyces albidoflavus,30,0,3
+Streptomyces albidus,30,0,3
+Streptomyces albofaciens,30,0,3
+Streptomyces alboflavus,30,0,3
+Streptomyces albogriseolus,30,0,3
+Streptomyces albus albus,30,0,3
+Streptomyces albus pathocidicus,30,0,3
+Streptomyces ambofaciens,30,0,3
+Streptomyces angustmyceticus,30,0,3
+Streptomyces ardus,30,0,3
+Streptomyces atroolivaceus,25,0,2
+Streptomyces aureofaciens,30,0,3
+Streptomyces aureus,30,0,3
+Streptomyces avermitilis,30,0,3
+Streptomyces axinellae,30,0,3
+Streptomyces bacillaris,30,0,3
+Streptomyces beijiangensis,30,0,3
+Streptomyces blastmyceticus,30,0,3
+Streptomyces bottropensis,30,0,3
+Streptomyces cattleya,30,0,3
+Streptomyces cinnamoneus,30,0,3
+Streptomyces decoyicus,30,0,3
+Streptomyces diastatochromogenes,30,0,3
+Streptomyces drozdowiczii,30,0,3
+Streptomyces eurocidicus,30,0,3
+Streptomyces europaeiscabiei,30,0,3
+Streptomyces exfoliatus,30,0,3
+Streptomyces fulvissimus,30,0,3
+Streptomyces globisporus,30,0,3
+Streptomyces griseocarneus,30,0,3
+Streptomyces griseus griseus,30,0,3
+Streptomyces hebeiensis,30,0,3
+Streptomyces hiroshimensis,30,0,3
+Streptomyces hygroscopicus aabomyceticus,30,0,3
+Streptomyces hygroscopicus ascomyceticus,30,0,3
+Streptomyces hygroscopicus crystallogenes,30,0,3
+Streptomyces hygroscopicus duamyceticus,30,0,3
+Streptomyces hygroscopicus enhygrus,30,0,3
+Streptomyces hygroscopicus glebosus,30,0,3
+Streptomyces hygroscopicus hialomyceticus,30,0,3
+Streptomyces hygroscopicus hygroscopicus,27.5,2.5,3
+Streptomyces hygroscopicus ossamyceticus,30,0,3
+Streptomyces lilacinus,30,0,3
+Streptomyces lunalinharesii,30,0,3
+Streptomyces luteireticuli,30,0,3
+Streptomyces luteosporeus,30,0,3
+Streptomyces maroccanus,30,0,3
+Streptomyces mashuensis,30,0,3
+Streptomyces mexicanus,37,0,4
+Streptomyces mobaraensis,30,0,3
+Streptomyces morookaensis,30,0,3
+Streptomyces netropsis,30,0,3
+Streptomyces niveus,30,0,3
+Streptomyces orinoci,30,0,3
+Streptomyces reticuliscabiei,30,0,3
+Streptomyces sanglieri,30,0,3
+Streptomyces scabiei,30,0,3
+Streptomyces scabrisporus,30,0,3
+Streptomyces seoulensis,30,0,3
+Streptomyces sodiiphilus,30,0,3
+Streptomyces speibonae,30,0,3
+Streptomyces stelliscabiei,30,0,3
+Streptomyces stramineus,30,0,3
+Streptomyces synnematoformans,30,0,3
+Streptomyces thermocarboxydovorans,45,0,4
+Streptomyces thermocarboxydus,45,0,4
+Streptomyces thioluteus,30,0,3
+Streptomyces turgidiscabies,30,0,3
+Streptomyces viridiflavus,30,0,3
+Streptomyces viridosporus,30,0,3
+Streptomyces yunnanensis,30,0,3
+Streptosporangium amethystogenes fukuiense,30,0,3
+Streptosporangium sandarakinum,25,0,2
+Streptoverticillium reticulum,25,0,2
+Subsaximicrobium saxinquilinus,22,0,2
+Subsaximicrobium wynnwilliamsii,22,0,2
+Subtercola boreus,20,0,2
+Subtercola frigoramans,20,0,2
+Sutterella morbirensis,37,0,4
+Sutterella wadsworthensis,37,0,4
+Suttonella indologenes,30,0,3
+Suttonella ornithocola,37,0,4
+Symploca,22,0,2
+Synechococcus,22,1.275,2
+Synechocystis,22,0,2
+Tamlana crocina,30,0,3
+Tannerella forsythia,37,0,4
+Tatlockia maceachernii,37,0,4
+Tatlockia micdadei,37,0,4
+Tatumella citrea,25,0,2
+Tatumella ptyseos,30,0,3
+Tatumella punctata,25,0,2
+Tatumella terrea,25,0,2
+Taylorella asinigentalis,37,0,4
+Taylorella equigenitalis,37,0,4
+Telluria mixta,30,0,3
+Tenacibaculum amylolyticum,25,0,2
+Tenacibaculum maritimum,22,0.666666667,2
+Tenacibaculum mesophilum,25,0,2
+Tenacibaculum ovolyticum,15,0,2
+Tepidicella xavieri,45,0,4
+Tepidimonas thermarum,50,0,5
+Tepidiphilus succinatimandens,55,0,5
+Terasakiella pusilla,25,0,2
+Terrabacter aerolatus,30,0,3
+Terrabacter tumescens,25,0,2
+Terracoccus luteus,30,0,3
+Terribacillus halophilus,30,0,3
+Terribacillus saccharophilus,30,0,3
+Terrimonas ferruginea,30,0,3
+Terrimonas lutea,30,0,3
+Tetragenococcus halophilus halophilus,30,0,3
+Tetragenococcus koreensis,30,0,3
+Tetragenococcus muriaticus,30,0,3
+Tetragenococcus solitarius,37,0,4
+Tetrasphaera duodecadis,25,0,2
+Tetrasphaera elongata,30,0,3
+Tetrasphaera remsis,30,0,3
+Thalassobacillus devorans,37,0,4
+Thalassobacter stenotrophicus,25,0,2
+Thalassobaculum salexigens,25,0,2
+Thalassobius gelatinovorus,25,0,2
+Thalassobius mediterraneus,25,0,2
+Thalassococcus halodurans,30,0,3
+Thalassomonas viridans,20,0,2
+Thalassospira profundimaris,25,0,2
+Thalassospira xiamenensis,25,0,2
+Thalassotalea ganghwensis,30,0,3
+Thauera aminoaromatica,30,0,3
+Thauera chlorobenzoica,30,0,3
+Thauera linaloolentis,30,0,3
+Thauera mechernischensis,37,0,4
+Thauera phenylacetica,30,0,3
+Thauera terpenica,30,0,3
+Thermoanaerobacter mathranii alimentarius,55,1.666666667,5
+Thermoanaerobacter thermohydrosulfuricus,55,0,5
+Thermobifida alba,37,0,4
+Thermobifida fusca,45,0,4
+Thermomonas hydrothermalis,55,0,5
+Thermomonospora curvata,50,0,5
+Thermopolyspora flexuosa,30,0,3
+Thermus thermophilus,60,0,5
+Thiobacillus denitrificans,30,0,3
+Thiomonas arsenitoxydans,30,0,3
+Thiomonas intermedia,30,0,3
+Thiomonas perometabolis,30,0,3
+Thorsellia anophelis,37,0,4
+Thorsellia kandunguensis,30,0,3
+Thorsellia kenyensis,30,0,3
+Tindallia californiensis,37,0,4
+Tissierella creatinini,37,0,4
+Tistrella mobilis,30,0,3
+Tolypothrix,22,0,2
+Trabulsiella guamensis,37,0,4
+Treponema agilis,37,0,4
+Treponema calligyrum,37,0,4
+Treponema denticola,37,0,4
+Treponema maltophilum,37,0,4
+Treponema refringens,37,0,4
+Treponema socranskii difficile,37,0,4
+Trichococcus palustris,30,0,3
+Trichococcus patagoniensis,30,0,3
+Truepera radiovictrix,45,0,4
+Trueperella abortisuis,37,0,4
+Trueperella bernardiae,37,0,4
+Trueperella bialowiezense,37,0,4
+Trueperella bonasi,37,0,4
+Tsukamurella inchonensis,37,0,4
+Tsukamurella paurometabola,30,0,3
+Tsukamurella pulmonis,30,0,3
+Tsukamurella soli,30,0,3
+Tsukamurella spumae,30,0,3
+Tsukamurella strandjordii,30,0,3
+Tsukamurella tyrosinosolvens,30,0,3
+Turicella otitidis,37,0,4
+Ulvibacter litoralis,22,0,2
+Uncertain,37,0,4
+Undibacterium danionis,25,0,2
+Undibacterium parvum,22,0,2
+Undibacterium pigrum,25,0,2
+Unknown acetogenic bacterium,39,0,4
+Unnamed bacterium,30,3.11627907,3
+Unnamed Bacterium,33.5,3.5,4
+Ureaplasma canigenitalium,37,0,4
+Ureaplasma urealyticum,37,0,4
+Ureibacillus suwonensis,37,0,4
+Ureibacillus terrenus,55,0,5
+Ureibacillus thermosphaericus,37,0,4
+Vagococcus carniphilus,37,0,4
+Vagococcus elongatus,37,0,4
+Vagococcus fessus,37,0,4
+Vagococcus fluvialis,37,0,4
+Vagococcus lutrae,37,0,4
+Vagococcus penaei,30,0,3
+Vagococcus salmoninarum,30,0,3
+Varibaculum cambriense,37,0,4
+Variovorax dokdonensis,30,0,3
+Variovorax gossypii,30,0,3
+Variovorax paradoxus,25,0,2
+Variovorax soli,30,0,3
+Variovorax sp.,25,0,2
+Veillonella atypica,37,0,4
+Veillonella caviae,37,0,4
+Veillonella criceti,37,0,4
+Veillonella denticariosi,37,0,4
+Veillonella dispar,37,0,4
+Veillonella magna,37,0,4
+Veillonella montpellierensis,37,0,4
+Veillonella parvula parvula,37,0,4
+Veillonella ratti,37,0,4
+Veillonella seminalis,37,0,4
+Vibrio aerogenes,25,0,2
+Vibrio aestuarianus aestuarianus,25,0,2
+Vibrio aestuarianus francensis,25,0,2
+Vibrio agarivorans,30,0,3
+Vibrio alginolyticus,25,2.909090909,2
+Vibrio anguillarum,22.5,2.5,2
+Vibrio brasiliensis,30,0,3
+Vibrio breoganii,25,0,2
+Vibrio campbellii,25,0,2
+Vibrio casei,30,0,3
+"Vibrio cholerae non O:1, non O:139",30,2.6,3
+Vibrio cholerae O:1,30,0,3
+Vibrio cholerae O:139,30,0,3
+Vibrio cincinnatiensis,30,0,3
+Vibrio comitans,20,0,2
+Vibrio coralliilyticus,25,0,2
+Vibrio cortegadensis,30,0,3
+Vibrio crassostreae,20,0,2
+Vibrio cyclitrophicus,30,0,3
+Vibrio diazotrophicus,25,0,2
+Vibrio ezurae,30,0,3
+Vibrio fluvialis,25,1.666666667,2
+Vibrio fortis,30,0,3
+Vibrio furnissii,25,0,2
+Vibrio gallicus,25,0,2
+Vibrio gazogenes,25,0,2
+Vibrio gigantis,22,0,2
+Vibrio halioticoli,25,0,2
+Vibrio hangzhouensis,30,0,3
+Vibrio harveyi,25,1.25,2
+Vibrio hepatarius,25,0,2
+Vibrio hispanicus,30,0,3
+Vibrio hollisae,25,0,2
+Vibrio ichthyoenteri,25,0,2
+Vibrio inusitatus,20,0,2
+Vibrio kanaloae,25,0,2
+Vibrio lentus,25,0,2
+Vibrio litoralis,30,0,3
+Vibrio mediterranei,25,0,2
+Vibrio metschnikovii,25,0,2
+Vibrio mimicus,25,1.666666667,2
+Vibrio mytili,30,0,3
+Vibrio natriegens,27.5,2.5,3
+Vibrio navarrensis,25,0,2
+Vibrio neocaledonicus,30,0,3
+Vibrio neonatus,25,0,2
+Vibrio neptunius,25,0,2
+Vibrio nereis,25,0,2
+Vibrio nigripulchritudo,25,0,2
+Vibrio ordalii,25,0,2
+Vibrio orientalis,25,0,2
+Vibrio pacinii,30,0,3
+Vibrio parahaemolyticus,30,0,3
+Vibrio pectenicida,15,0,2
+Vibrio pelagius,25,0,2
+Vibrio penaeicida,22,0,2
+Vibrio pomeroyi,25,0,2
+Vibrio ponticus,25,0,2
+Vibrio proteolyticus,25,0,2
+Vibrio rarus,20,0,2
+Vibrio rotiferianus,25,0,2
+Vibrio ruber,25,0,2
+Vibrio rumoiensis,30,0,3
+Vibrio scophthalmi,25,0,2
+Vibrio shilonii,30,0,3
+Vibrio splendidus,25,1,2
+Vibrio superstes,25,0,2
+Vibrio tapetis subsp. tapetis,25,0,2
+Vibrio tasmaniensis,25,0,2
+Vibrio tubiashii,25,0,2
+Vibrio vulnificus,30,0,3
+Vibrio xuii,25,0,2
+Vibrio zhanjiangensis,25,0,2
+Virgibacillus carmonensis,30,0,3
+Virgibacillus halophilus,30,0,3
+Virgibacillus koreensis,25,0,2
+Virgibacillus marismortui,37,0,4
+Virgibacillus necropolis,30,0,3
+Virgibacillus pantothenticus,30,0,3
+Virgibacillus proomii,30,0,3
+Virgibacillus qinghaiensis,30,0,3
+Virgibacillus salexigens,37,0,4
+Virgibacillus soli,30,0,3
+Virgibacillus xinjiangensis,30,0,3
+Virgisporangium aurantiacum,30,0,3
+Virgisporangium ochraceum,30,0,3
+Viridibacillus neidei,30,0,3
+Vitellibacter vladivostokensis,25,0,2
+Vogesella indigofera,25,0,2
+Volucribacter amazonae,37,0,4
+Volucribacter psittacicida,37,0,4
+Weeksella virosa,30,0,3
+Weissella cibaria,33.5,3.5,4
+Weissella confusa,30,2.8,3
+Weissella halotolerans,30,0,3
+Weissella hellenica,25,0,2
+Weissella kandleri,30,0,3
+Weissella koreensis,30,0,3
+Weissella minor,30,0,3
+Weissella paramesenteroides,25,0,2
+Weissella soli,30,0,3
+Weissella thailandensis,30,0,3
+Weissella viridescens,30,2.8,3
+Williamsia deligens,30,0,3
+Williamsia marianensis,30,0,3
+Williamsia maris,30,0,3
+Williamsia muralis,22,0,2
+Williamsia serinedens,37,0,4
+Winogradskyella arenosi,25,0,2
+Winogradskyella exilis,30,0,3
+Winogradskyella lutea,25,0,2
+Winogradskyella psychrotolerans,25,0,2
+Xanthobacter aminoxidans,30,0,3
+Xanthobacter autotrophicus,30,0,3
+Xanthobacter flavus,30,0,3
+Xanthobacter viscosus,30,0,3
+Xanthomonas campestris,27.5,2.5,3
+Xanthomonas cynarae,30,0,3
+Xenococcus,22,0,2
+Xenorhabdus beddingii,30,0,3
+Xenorhabdus bovienii,30,0,3
+Xenorhabdus budapestensis,25,0,2
+Xenorhabdus eapokensis,25,0,2
+Xenorhabdus ehlersii,25,0,2
+Xenorhabdus griffiniae,30,0,3
+Xenorhabdus indica,30,0,3
+Xenorhabdus innexi,25,0,2
+Xenorhabdus japonica,30,0,3
+Xenorhabdus kozodoii,30,0,3
+Xenorhabdus poinarii,25,0,2
+Xenorhabdus pwaniensis,25,0,2
+Xenorhabdus sp,25,0,2
+Xenorhabdus szentirmaii,25,0,2
+Xenorhabdus thuongxuanensis,25,0,2
+Xenorhabdus vietnamensis,30,0,3
+Xylanimonas cellulosilytica,30,0,3
+Yangia pacifica,30,0,3
+Yersinia aldovae,30,0,3
+Yersinia aleksiciae O : 16,30,0,3
+Yersinia bercovieri,30,0,3
+Yersinia enterocolitica enterocolitica,30,0,3
+Yersinia enterocolitica enterocolitica O:3,30,0,3
+"Yersinia enterocolitica enterocolitica O:5,27",30,0,3
+Yersinia enterocolitica enterocolitica O:8,30,0,3
+Yersinia enterocolitica enterocolitica O:9,30,0,3
+Yersinia enterocolitica palearctica O:3,30,0,3
+Yersinia entomophaga,30,0,3
+Yersinia frederiksenii,30,0,3
+Yersinia intermedia,30,0,3
+Yersinia intermedia 10,30,0,3
+Yersinia intermedia 5,30,0,3
+Yersinia intermedia 9,30,0,3
+Yersinia kristensenii,30,0,3
+Yersinia massiliensis,33.5,3.5,4
+Yersinia mollaretii,30,0,3
+Yersinia nurmii,30,0,3
+Yersinia pekkanenii,30,0,3
+Yersinia phocaeense,33.5,3.5,4
+Yersinia pseudotuberculosis,30,0,3
+Yersinia rohdei,30,0,3
+Yersinia ruckeri,30,0,3
+Yersinia similis,30,0,3
+Yersinia wautersii,30,0,3
+Yokenella regensburgei,30,0,3
+Yonghaparkia alkaliphila,30,0,3
+Zeaxanthinibacter enoshimensis,37,0,4
+Zhouia amylolytica,30,0,3
+Zimmermannella alba,30,0,3
+Zimmermannella bifida,30,0,3
+Zimmermannella faecalis,30,0,3
+Zimmermannella helvola,30,0,3
+Zobellia amurskyensis,25,0,2
+Zobellia galactanivorans,30,0,3
+Zobellia laminariae,25,0,2
+Zobellia russellii,25,0,2
+Zobellia saccharophila,25,0,2
+Zobellia uliginosa,25,0,2
+Zoogloea ramigera,25,0,2
+Zoogloea resiniphila,30,0,3
+Zooshikella ganghwensis,30,0,3
+Zymomonas mobilis francensis,30,0,3
+Zymomonas mobilis mobilis,30,0,3
+Zymomonas mobilis pomaceae,30,0,3
